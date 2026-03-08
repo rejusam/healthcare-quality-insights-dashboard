@@ -1,0 +1,721 @@
+month,ethnicity,indicator,value
+2023-01,NZ European,ED Wait Time (median mins),121.0
+2023-01,Māori,ED Wait Time (median mins),138.8
+2023-01,Pacific Peoples,ED Wait Time (median mins),123.8
+2023-01,Asian,ED Wait Time (median mins),129.6
+2023-01,Other,ED Wait Time (median mins),118.5
+2023-01,NZ European,Readmission Rate (%),8.6
+2023-01,Māori,Readmission Rate (%),11.9
+2023-01,Pacific Peoples,Readmission Rate (%),10.6
+2023-01,Asian,Readmission Rate (%),8.9
+2023-01,Other,Readmission Rate (%),9.6
+2023-01,NZ European,Did Not Attend Rate (%),5.0
+2023-01,Māori,Did Not Attend Rate (%),13.8
+2023-01,Pacific Peoples,Did Not Attend Rate (%),11.9
+2023-01,Asian,Did Not Attend Rate (%),6.7
+2023-01,Other,Did Not Attend Rate (%),6.9
+2023-01,NZ European,Patient Experience Score (%),79.3
+2023-01,Māori,Patient Experience Score (%),76.4
+2023-01,Pacific Peoples,Patient Experience Score (%),70.6
+2023-01,Asian,Patient Experience Score (%),83.3
+2023-01,Other,Patient Experience Score (%),78.8
+2023-02,NZ European,ED Wait Time (median mins),125.4
+2023-02,Māori,ED Wait Time (median mins),146.5
+2023-02,Pacific Peoples,ED Wait Time (median mins),133.8
+2023-02,Asian,ED Wait Time (median mins),133.3
+2023-02,Other,ED Wait Time (median mins),125.7
+2023-02,NZ European,Readmission Rate (%),8.4
+2023-02,Māori,Readmission Rate (%),12.6
+2023-02,Pacific Peoples,Readmission Rate (%),11.4
+2023-02,Asian,Readmission Rate (%),7.8
+2023-02,Other,Readmission Rate (%),8.2
+2023-02,NZ European,Did Not Attend Rate (%),5.0
+2023-02,Māori,Did Not Attend Rate (%),14.2
+2023-02,Pacific Peoples,Did Not Attend Rate (%),11.9
+2023-02,Asian,Did Not Attend Rate (%),6.4
+2023-02,Other,Did Not Attend Rate (%),6.6
+2023-02,NZ European,Patient Experience Score (%),78.6
+2023-02,Māori,Patient Experience Score (%),70.2
+2023-02,Pacific Peoples,Patient Experience Score (%),75.7
+2023-02,Asian,Patient Experience Score (%),76.1
+2023-02,Other,Patient Experience Score (%),81.5
+2023-03,NZ European,ED Wait Time (median mins),113.7
+2023-03,Māori,ED Wait Time (median mins),153.5
+2023-03,Pacific Peoples,ED Wait Time (median mins),136.3
+2023-03,Asian,ED Wait Time (median mins),123.0
+2023-03,Other,ED Wait Time (median mins),120.1
+2023-03,NZ European,Readmission Rate (%),8.7
+2023-03,Māori,Readmission Rate (%),12.3
+2023-03,Pacific Peoples,Readmission Rate (%),11.5
+2023-03,Asian,Readmission Rate (%),8.7
+2023-03,Other,Readmission Rate (%),8.7
+2023-03,NZ European,Did Not Attend Rate (%),5.2
+2023-03,Māori,Did Not Attend Rate (%),14.5
+2023-03,Pacific Peoples,Did Not Attend Rate (%),12.2
+2023-03,Asian,Did Not Attend Rate (%),6.5
+2023-03,Other,Did Not Attend Rate (%),6.8
+2023-03,NZ European,Patient Experience Score (%),87.9
+2023-03,Māori,Patient Experience Score (%),74.8
+2023-03,Pacific Peoples,Patient Experience Score (%),72.9
+2023-03,Asian,Patient Experience Score (%),82.8
+2023-03,Other,Patient Experience Score (%),81.2
+2023-04,NZ European,ED Wait Time (median mins),113.4
+2023-04,Māori,ED Wait Time (median mins),151.2
+2023-04,Pacific Peoples,ED Wait Time (median mins),142.8
+2023-04,Asian,ED Wait Time (median mins),126.0
+2023-04,Other,ED Wait Time (median mins),128.1
+2023-04,NZ European,Readmission Rate (%),8.6
+2023-04,Māori,Readmission Rate (%),10.8
+2023-04,Pacific Peoples,Readmission Rate (%),10.6
+2023-04,Asian,Readmission Rate (%),8.4
+2023-04,Other,Readmission Rate (%),9.8
+2023-04,NZ European,Did Not Attend Rate (%),5.1
+2023-04,Māori,Did Not Attend Rate (%),14.7
+2023-04,Pacific Peoples,Did Not Attend Rate (%),11.9
+2023-04,Asian,Did Not Attend Rate (%),6.1
+2023-04,Other,Did Not Attend Rate (%),6.4
+2023-04,NZ European,Patient Experience Score (%),84.5
+2023-04,Māori,Patient Experience Score (%),75.7
+2023-04,Pacific Peoples,Patient Experience Score (%),75.7
+2023-04,Asian,Patient Experience Score (%),76.9
+2023-04,Other,Patient Experience Score (%),78.1
+2023-05,NZ European,ED Wait Time (median mins),124.1
+2023-05,Māori,ED Wait Time (median mins),144.0
+2023-05,Pacific Peoples,ED Wait Time (median mins),138.7
+2023-05,Asian,ED Wait Time (median mins),121.6
+2023-05,Other,ED Wait Time (median mins),117.9
+2023-05,NZ European,Readmission Rate (%),8.4
+2023-05,Māori,Readmission Rate (%),11.0
+2023-05,Pacific Peoples,Readmission Rate (%),11.7
+2023-05,Asian,Readmission Rate (%),7.9
+2023-05,Other,Readmission Rate (%),9.4
+2023-05,NZ European,Did Not Attend Rate (%),4.8
+2023-05,Māori,Did Not Attend Rate (%),14.2
+2023-05,Pacific Peoples,Did Not Attend Rate (%),12.1
+2023-05,Asian,Did Not Attend Rate (%),6.3
+2023-05,Other,Did Not Attend Rate (%),6.7
+2023-05,NZ European,Patient Experience Score (%),82.8
+2023-05,Māori,Patient Experience Score (%),76.9
+2023-05,Pacific Peoples,Patient Experience Score (%),75.9
+2023-05,Asian,Patient Experience Score (%),76.3
+2023-05,Other,Patient Experience Score (%),78.2
+2023-06,NZ European,ED Wait Time (median mins),117.0
+2023-06,Māori,ED Wait Time (median mins),137.3
+2023-06,Pacific Peoples,ED Wait Time (median mins),143.9
+2023-06,Asian,ED Wait Time (median mins),122.9
+2023-06,Other,ED Wait Time (median mins),123.8
+2023-06,NZ European,Readmission Rate (%),7.3
+2023-06,Māori,Readmission Rate (%),12.4
+2023-06,Pacific Peoples,Readmission Rate (%),10.9
+2023-06,Asian,Readmission Rate (%),8.3
+2023-06,Other,Readmission Rate (%),8.3
+2023-06,NZ European,Did Not Attend Rate (%),4.7
+2023-06,Māori,Did Not Attend Rate (%),13.9
+2023-06,Pacific Peoples,Did Not Attend Rate (%),12.3
+2023-06,Asian,Did Not Attend Rate (%),6.3
+2023-06,Other,Did Not Attend Rate (%),7.2
+2023-06,NZ European,Patient Experience Score (%),82.8
+2023-06,Māori,Patient Experience Score (%),76.2
+2023-06,Pacific Peoples,Patient Experience Score (%),73.1
+2023-06,Asian,Patient Experience Score (%),79.1
+2023-06,Other,Patient Experience Score (%),82.1
+2023-07,NZ European,ED Wait Time (median mins),123.7
+2023-07,Māori,ED Wait Time (median mins),143.5
+2023-07,Pacific Peoples,ED Wait Time (median mins),136.3
+2023-07,Asian,ED Wait Time (median mins),112.7
+2023-07,Other,ED Wait Time (median mins),120.4
+2023-07,NZ European,Readmission Rate (%),8.0
+2023-07,Māori,Readmission Rate (%),11.6
+2023-07,Pacific Peoples,Readmission Rate (%),11.2
+2023-07,Asian,Readmission Rate (%),8.0
+2023-07,Other,Readmission Rate (%),8.4
+2023-07,NZ European,Did Not Attend Rate (%),5.0
+2023-07,Māori,Did Not Attend Rate (%),13.3
+2023-07,Pacific Peoples,Did Not Attend Rate (%),11.7
+2023-07,Asian,Did Not Attend Rate (%),5.9
+2023-07,Other,Did Not Attend Rate (%),7.1
+2023-07,NZ European,Patient Experience Score (%),83.7
+2023-07,Māori,Patient Experience Score (%),75.0
+2023-07,Pacific Peoples,Patient Experience Score (%),77.1
+2023-07,Asian,Patient Experience Score (%),78.8
+2023-07,Other,Patient Experience Score (%),74.9
+2023-08,NZ European,ED Wait Time (median mins),119.9
+2023-08,Māori,ED Wait Time (median mins),148.0
+2023-08,Pacific Peoples,ED Wait Time (median mins),140.5
+2023-08,Asian,ED Wait Time (median mins),135.3
+2023-08,Other,ED Wait Time (median mins),129.8
+2023-08,NZ European,Readmission Rate (%),8.4
+2023-08,Māori,Readmission Rate (%),12.3
+2023-08,Pacific Peoples,Readmission Rate (%),10.3
+2023-08,Asian,Readmission Rate (%),8.7
+2023-08,Other,Readmission Rate (%),8.3
+2023-08,NZ European,Did Not Attend Rate (%),4.8
+2023-08,Māori,Did Not Attend Rate (%),13.7
+2023-08,Pacific Peoples,Did Not Attend Rate (%),11.3
+2023-08,Asian,Did Not Attend Rate (%),6.1
+2023-08,Other,Did Not Attend Rate (%),6.7
+2023-08,NZ European,Patient Experience Score (%),80.7
+2023-08,Māori,Patient Experience Score (%),73.7
+2023-08,Pacific Peoples,Patient Experience Score (%),73.8
+2023-08,Asian,Patient Experience Score (%),78.0
+2023-08,Other,Patient Experience Score (%),79.8
+2023-09,NZ European,ED Wait Time (median mins),121.6
+2023-09,Māori,ED Wait Time (median mins),136.9
+2023-09,Pacific Peoples,ED Wait Time (median mins),137.7
+2023-09,Asian,ED Wait Time (median mins),126.3
+2023-09,Other,ED Wait Time (median mins),116.5
+2023-09,NZ European,Readmission Rate (%),7.9
+2023-09,Māori,Readmission Rate (%),11.1
+2023-09,Pacific Peoples,Readmission Rate (%),11.2
+2023-09,Asian,Readmission Rate (%),8.5
+2023-09,Other,Readmission Rate (%),8.8
+2023-09,NZ European,Did Not Attend Rate (%),4.4
+2023-09,Māori,Did Not Attend Rate (%),14.2
+2023-09,Pacific Peoples,Did Not Attend Rate (%),11.7
+2023-09,Asian,Did Not Attend Rate (%),6.4
+2023-09,Other,Did Not Attend Rate (%),7.3
+2023-09,NZ European,Patient Experience Score (%),80.3
+2023-09,Māori,Patient Experience Score (%),73.5
+2023-09,Pacific Peoples,Patient Experience Score (%),75.1
+2023-09,Asian,Patient Experience Score (%),79.2
+2023-09,Other,Patient Experience Score (%),78.4
+2023-10,NZ European,ED Wait Time (median mins),124.4
+2023-10,Māori,ED Wait Time (median mins),139.3
+2023-10,Pacific Peoples,ED Wait Time (median mins),136.3
+2023-10,Asian,ED Wait Time (median mins),123.7
+2023-10,Other,ED Wait Time (median mins),120.4
+2023-10,NZ European,Readmission Rate (%),8.5
+2023-10,Māori,Readmission Rate (%),11.9
+2023-10,Pacific Peoples,Readmission Rate (%),11.2
+2023-10,Asian,Readmission Rate (%),9.2
+2023-10,Other,Readmission Rate (%),8.7
+2023-10,NZ European,Did Not Attend Rate (%),5.1
+2023-10,Māori,Did Not Attend Rate (%),13.3
+2023-10,Pacific Peoples,Did Not Attend Rate (%),11.5
+2023-10,Asian,Did Not Attend Rate (%),6.3
+2023-10,Other,Did Not Attend Rate (%),6.4
+2023-10,NZ European,Patient Experience Score (%),82.3
+2023-10,Māori,Patient Experience Score (%),72.7
+2023-10,Pacific Peoples,Patient Experience Score (%),75.8
+2023-10,Asian,Patient Experience Score (%),79.3
+2023-10,Other,Patient Experience Score (%),76.2
+2023-11,NZ European,ED Wait Time (median mins),127.0
+2023-11,Māori,ED Wait Time (median mins),141.1
+2023-11,Pacific Peoples,ED Wait Time (median mins),135.3
+2023-11,Asian,ED Wait Time (median mins),127.9
+2023-11,Other,ED Wait Time (median mins),127.0
+2023-11,NZ European,Readmission Rate (%),8.1
+2023-11,Māori,Readmission Rate (%),11.7
+2023-11,Pacific Peoples,Readmission Rate (%),11.5
+2023-11,Asian,Readmission Rate (%),8.2
+2023-11,Other,Readmission Rate (%),7.5
+2023-11,NZ European,Did Not Attend Rate (%),4.9
+2023-11,Māori,Did Not Attend Rate (%),14.7
+2023-11,Pacific Peoples,Did Not Attend Rate (%),10.5
+2023-11,Asian,Did Not Attend Rate (%),6.3
+2023-11,Other,Did Not Attend Rate (%),6.6
+2023-11,NZ European,Patient Experience Score (%),82.5
+2023-11,Māori,Patient Experience Score (%),68.0
+2023-11,Pacific Peoples,Patient Experience Score (%),71.7
+2023-11,Asian,Patient Experience Score (%),79.3
+2023-11,Other,Patient Experience Score (%),78.9
+2023-12,NZ European,ED Wait Time (median mins),128.8
+2023-12,Māori,ED Wait Time (median mins),148.7
+2023-12,Pacific Peoples,ED Wait Time (median mins),132.7
+2023-12,Asian,ED Wait Time (median mins),129.3
+2023-12,Other,ED Wait Time (median mins),132.2
+2023-12,NZ European,Readmission Rate (%),8.2
+2023-12,Māori,Readmission Rate (%),11.9
+2023-12,Pacific Peoples,Readmission Rate (%),11.4
+2023-12,Asian,Readmission Rate (%),8.5
+2023-12,Other,Readmission Rate (%),7.8
+2023-12,NZ European,Did Not Attend Rate (%),4.9
+2023-12,Māori,Did Not Attend Rate (%),14.5
+2023-12,Pacific Peoples,Did Not Attend Rate (%),12.3
+2023-12,Asian,Did Not Attend Rate (%),5.9
+2023-12,Other,Did Not Attend Rate (%),6.4
+2023-12,NZ European,Patient Experience Score (%),80.5
+2023-12,Māori,Patient Experience Score (%),72.2
+2023-12,Pacific Peoples,Patient Experience Score (%),75.7
+2023-12,Asian,Patient Experience Score (%),75.6
+2023-12,Other,Patient Experience Score (%),81.5
+2024-01,NZ European,ED Wait Time (median mins),125.2
+2024-01,Māori,ED Wait Time (median mins),151.1
+2024-01,Pacific Peoples,ED Wait Time (median mins),137.2
+2024-01,Asian,ED Wait Time (median mins),110.8
+2024-01,Other,ED Wait Time (median mins),131.5
+2024-01,NZ European,Readmission Rate (%),8.0
+2024-01,Māori,Readmission Rate (%),12.0
+2024-01,Pacific Peoples,Readmission Rate (%),11.0
+2024-01,Asian,Readmission Rate (%),9.1
+2024-01,Other,Readmission Rate (%),8.7
+2024-01,NZ European,Did Not Attend Rate (%),4.8
+2024-01,Māori,Did Not Attend Rate (%),14.0
+2024-01,Pacific Peoples,Did Not Attend Rate (%),11.7
+2024-01,Asian,Did Not Attend Rate (%),5.9
+2024-01,Other,Did Not Attend Rate (%),7.4
+2024-01,NZ European,Patient Experience Score (%),82.1
+2024-01,Māori,Patient Experience Score (%),73.8
+2024-01,Pacific Peoples,Patient Experience Score (%),78.0
+2024-01,Asian,Patient Experience Score (%),78.2
+2024-01,Other,Patient Experience Score (%),76.9
+2024-02,NZ European,ED Wait Time (median mins),113.6
+2024-02,Māori,ED Wait Time (median mins),141.1
+2024-02,Pacific Peoples,ED Wait Time (median mins),141.7
+2024-02,Asian,ED Wait Time (median mins),127.5
+2024-02,Other,ED Wait Time (median mins),128.6
+2024-02,NZ European,Readmission Rate (%),7.6
+2024-02,Māori,Readmission Rate (%),11.7
+2024-02,Pacific Peoples,Readmission Rate (%),11.2
+2024-02,Asian,Readmission Rate (%),8.8
+2024-02,Other,Readmission Rate (%),7.7
+2024-02,NZ European,Did Not Attend Rate (%),4.6
+2024-02,Māori,Did Not Attend Rate (%),14.4
+2024-02,Pacific Peoples,Did Not Attend Rate (%),10.9
+2024-02,Asian,Did Not Attend Rate (%),5.9
+2024-02,Other,Did Not Attend Rate (%),6.9
+2024-02,NZ European,Patient Experience Score (%),83.0
+2024-02,Māori,Patient Experience Score (%),73.1
+2024-02,Pacific Peoples,Patient Experience Score (%),73.2
+2024-02,Asian,Patient Experience Score (%),75.2
+2024-02,Other,Patient Experience Score (%),81.5
+2024-03,NZ European,ED Wait Time (median mins),139.7
+2024-03,Māori,ED Wait Time (median mins),132.6
+2024-03,Pacific Peoples,ED Wait Time (median mins),146.4
+2024-03,Asian,ED Wait Time (median mins),123.6
+2024-03,Other,ED Wait Time (median mins),123.7
+2024-03,NZ European,Readmission Rate (%),8.2
+2024-03,Māori,Readmission Rate (%),12.8
+2024-03,Pacific Peoples,Readmission Rate (%),10.3
+2024-03,Asian,Readmission Rate (%),8.3
+2024-03,Other,Readmission Rate (%),8.8
+2024-03,NZ European,Did Not Attend Rate (%),4.9
+2024-03,Māori,Did Not Attend Rate (%),14.8
+2024-03,Pacific Peoples,Did Not Attend Rate (%),11.6
+2024-03,Asian,Did Not Attend Rate (%),6.3
+2024-03,Other,Did Not Attend Rate (%),6.6
+2024-03,NZ European,Patient Experience Score (%),83.5
+2024-03,Māori,Patient Experience Score (%),71.2
+2024-03,Pacific Peoples,Patient Experience Score (%),75.1
+2024-03,Asian,Patient Experience Score (%),77.8
+2024-03,Other,Patient Experience Score (%),77.0
+2024-04,NZ European,ED Wait Time (median mins),129.1
+2024-04,Māori,ED Wait Time (median mins),137.1
+2024-04,Pacific Peoples,ED Wait Time (median mins),136.5
+2024-04,Asian,ED Wait Time (median mins),114.8
+2024-04,Other,ED Wait Time (median mins),120.7
+2024-04,NZ European,Readmission Rate (%),8.4
+2024-04,Māori,Readmission Rate (%),10.9
+2024-04,Pacific Peoples,Readmission Rate (%),9.7
+2024-04,Asian,Readmission Rate (%),8.3
+2024-04,Other,Readmission Rate (%),8.6
+2024-04,NZ European,Did Not Attend Rate (%),4.6
+2024-04,Māori,Did Not Attend Rate (%),14.9
+2024-04,Pacific Peoples,Did Not Attend Rate (%),11.5
+2024-04,Asian,Did Not Attend Rate (%),6.3
+2024-04,Other,Did Not Attend Rate (%),6.8
+2024-04,NZ European,Patient Experience Score (%),83.1
+2024-04,Māori,Patient Experience Score (%),71.8
+2024-04,Pacific Peoples,Patient Experience Score (%),72.7
+2024-04,Asian,Patient Experience Score (%),84.1
+2024-04,Other,Patient Experience Score (%),79.0
+2024-05,NZ European,ED Wait Time (median mins),119.8
+2024-05,Māori,ED Wait Time (median mins),144.5
+2024-05,Pacific Peoples,ED Wait Time (median mins),133.9
+2024-05,Asian,ED Wait Time (median mins),125.8
+2024-05,Other,ED Wait Time (median mins),113.9
+2024-05,NZ European,Readmission Rate (%),8.5
+2024-05,Māori,Readmission Rate (%),11.2
+2024-05,Pacific Peoples,Readmission Rate (%),11.3
+2024-05,Asian,Readmission Rate (%),8.7
+2024-05,Other,Readmission Rate (%),8.9
+2024-05,NZ European,Did Not Attend Rate (%),4.5
+2024-05,Māori,Did Not Attend Rate (%),13.8
+2024-05,Pacific Peoples,Did Not Attend Rate (%),11.7
+2024-05,Asian,Did Not Attend Rate (%),6.2
+2024-05,Other,Did Not Attend Rate (%),6.2
+2024-05,NZ European,Patient Experience Score (%),84.7
+2024-05,Māori,Patient Experience Score (%),74.4
+2024-05,Pacific Peoples,Patient Experience Score (%),71.5
+2024-05,Asian,Patient Experience Score (%),78.6
+2024-05,Other,Patient Experience Score (%),81.3
+2024-06,NZ European,ED Wait Time (median mins),116.1
+2024-06,Māori,ED Wait Time (median mins),134.5
+2024-06,Pacific Peoples,ED Wait Time (median mins),131.6
+2024-06,Asian,ED Wait Time (median mins),124.0
+2024-06,Other,ED Wait Time (median mins),127.3
+2024-06,NZ European,Readmission Rate (%),7.7
+2024-06,Māori,Readmission Rate (%),10.7
+2024-06,Pacific Peoples,Readmission Rate (%),10.5
+2024-06,Asian,Readmission Rate (%),8.8
+2024-06,Other,Readmission Rate (%),9.4
+2024-06,NZ European,Did Not Attend Rate (%),4.7
+2024-06,Māori,Did Not Attend Rate (%),13.2
+2024-06,Pacific Peoples,Did Not Attend Rate (%),10.7
+2024-06,Asian,Did Not Attend Rate (%),6.6
+2024-06,Other,Did Not Attend Rate (%),6.2
+2024-06,NZ European,Patient Experience Score (%),82.8
+2024-06,Māori,Patient Experience Score (%),75.7
+2024-06,Pacific Peoples,Patient Experience Score (%),74.5
+2024-06,Asian,Patient Experience Score (%),75.8
+2024-06,Other,Patient Experience Score (%),80.6
+2024-07,NZ European,ED Wait Time (median mins),120.3
+2024-07,Māori,ED Wait Time (median mins),147.5
+2024-07,Pacific Peoples,ED Wait Time (median mins),143.2
+2024-07,Asian,ED Wait Time (median mins),127.9
+2024-07,Other,ED Wait Time (median mins),123.4
+2024-07,NZ European,Readmission Rate (%),8.4
+2024-07,Māori,Readmission Rate (%),12.1
+2024-07,Pacific Peoples,Readmission Rate (%),10.1
+2024-07,Asian,Readmission Rate (%),8.3
+2024-07,Other,Readmission Rate (%),9.0
+2024-07,NZ European,Did Not Attend Rate (%),4.6
+2024-07,Māori,Did Not Attend Rate (%),12.7
+2024-07,Pacific Peoples,Did Not Attend Rate (%),11.3
+2024-07,Asian,Did Not Attend Rate (%),6.0
+2024-07,Other,Did Not Attend Rate (%),7.4
+2024-07,NZ European,Patient Experience Score (%),84.8
+2024-07,Māori,Patient Experience Score (%),75.4
+2024-07,Pacific Peoples,Patient Experience Score (%),75.0
+2024-07,Asian,Patient Experience Score (%),79.1
+2024-07,Other,Patient Experience Score (%),78.5
+2024-08,NZ European,ED Wait Time (median mins),114.6
+2024-08,Māori,ED Wait Time (median mins),137.4
+2024-08,Pacific Peoples,ED Wait Time (median mins),154.0
+2024-08,Asian,ED Wait Time (median mins),127.1
+2024-08,Other,ED Wait Time (median mins),113.6
+2024-08,NZ European,Readmission Rate (%),8.5
+2024-08,Māori,Readmission Rate (%),12.9
+2024-08,Pacific Peoples,Readmission Rate (%),9.7
+2024-08,Asian,Readmission Rate (%),8.7
+2024-08,Other,Readmission Rate (%),8.1
+2024-08,NZ European,Did Not Attend Rate (%),4.9
+2024-08,Māori,Did Not Attend Rate (%),12.0
+2024-08,Pacific Peoples,Did Not Attend Rate (%),11.1
+2024-08,Asian,Did Not Attend Rate (%),6.3
+2024-08,Other,Did Not Attend Rate (%),6.1
+2024-08,NZ European,Patient Experience Score (%),83.5
+2024-08,Māori,Patient Experience Score (%),71.9
+2024-08,Pacific Peoples,Patient Experience Score (%),78.8
+2024-08,Asian,Patient Experience Score (%),75.0
+2024-08,Other,Patient Experience Score (%),81.5
+2024-09,NZ European,ED Wait Time (median mins),119.0
+2024-09,Māori,ED Wait Time (median mins),153.4
+2024-09,Pacific Peoples,ED Wait Time (median mins),148.2
+2024-09,Asian,ED Wait Time (median mins),123.0
+2024-09,Other,ED Wait Time (median mins),121.3
+2024-09,NZ European,Readmission Rate (%),8.5
+2024-09,Māori,Readmission Rate (%),11.5
+2024-09,Pacific Peoples,Readmission Rate (%),10.4
+2024-09,Asian,Readmission Rate (%),8.0
+2024-09,Other,Readmission Rate (%),8.8
+2024-09,NZ European,Did Not Attend Rate (%),4.3
+2024-09,Māori,Did Not Attend Rate (%),14.0
+2024-09,Pacific Peoples,Did Not Attend Rate (%),11.7
+2024-09,Asian,Did Not Attend Rate (%),5.8
+2024-09,Other,Did Not Attend Rate (%),6.5
+2024-09,NZ European,Patient Experience Score (%),80.8
+2024-09,Māori,Patient Experience Score (%),75.3
+2024-09,Pacific Peoples,Patient Experience Score (%),75.1
+2024-09,Asian,Patient Experience Score (%),77.5
+2024-09,Other,Patient Experience Score (%),80.9
+2024-10,NZ European,ED Wait Time (median mins),116.7
+2024-10,Māori,ED Wait Time (median mins),142.5
+2024-10,Pacific Peoples,ED Wait Time (median mins),131.1
+2024-10,Asian,ED Wait Time (median mins),129.8
+2024-10,Other,ED Wait Time (median mins),114.9
+2024-10,NZ European,Readmission Rate (%),8.7
+2024-10,Māori,Readmission Rate (%),11.3
+2024-10,Pacific Peoples,Readmission Rate (%),10.4
+2024-10,Asian,Readmission Rate (%),8.4
+2024-10,Other,Readmission Rate (%),9.3
+2024-10,NZ European,Did Not Attend Rate (%),4.2
+2024-10,Māori,Did Not Attend Rate (%),12.5
+2024-10,Pacific Peoples,Did Not Attend Rate (%),11.5
+2024-10,Asian,Did Not Attend Rate (%),5.8
+2024-10,Other,Did Not Attend Rate (%),6.3
+2024-10,NZ European,Patient Experience Score (%),81.3
+2024-10,Māori,Patient Experience Score (%),75.5
+2024-10,Pacific Peoples,Patient Experience Score (%),76.8
+2024-10,Asian,Patient Experience Score (%),78.1
+2024-10,Other,Patient Experience Score (%),80.4
+2024-11,NZ European,ED Wait Time (median mins),121.8
+2024-11,Māori,ED Wait Time (median mins),136.6
+2024-11,Pacific Peoples,ED Wait Time (median mins),132.4
+2024-11,Asian,ED Wait Time (median mins),111.8
+2024-11,Other,ED Wait Time (median mins),130.7
+2024-11,NZ European,Readmission Rate (%),7.8
+2024-11,Māori,Readmission Rate (%),11.1
+2024-11,Pacific Peoples,Readmission Rate (%),10.7
+2024-11,Asian,Readmission Rate (%),7.9
+2024-11,Other,Readmission Rate (%),8.2
+2024-11,NZ European,Did Not Attend Rate (%),4.3
+2024-11,Māori,Did Not Attend Rate (%),11.3
+2024-11,Pacific Peoples,Did Not Attend Rate (%),10.9
+2024-11,Asian,Did Not Attend Rate (%),6.8
+2024-11,Other,Did Not Attend Rate (%),6.4
+2024-11,NZ European,Patient Experience Score (%),81.2
+2024-11,Māori,Patient Experience Score (%),72.3
+2024-11,Pacific Peoples,Patient Experience Score (%),75.8
+2024-11,Asian,Patient Experience Score (%),80.5
+2024-11,Other,Patient Experience Score (%),77.5
+2024-12,NZ European,ED Wait Time (median mins),122.3
+2024-12,Māori,ED Wait Time (median mins),143.2
+2024-12,Pacific Peoples,ED Wait Time (median mins),140.9
+2024-12,Asian,ED Wait Time (median mins),127.4
+2024-12,Other,ED Wait Time (median mins),115.6
+2024-12,NZ European,Readmission Rate (%),7.8
+2024-12,Māori,Readmission Rate (%),11.3
+2024-12,Pacific Peoples,Readmission Rate (%),10.3
+2024-12,Asian,Readmission Rate (%),8.7
+2024-12,Other,Readmission Rate (%),8.4
+2024-12,NZ European,Did Not Attend Rate (%),4.8
+2024-12,Māori,Did Not Attend Rate (%),11.9
+2024-12,Pacific Peoples,Did Not Attend Rate (%),11.0
+2024-12,Asian,Did Not Attend Rate (%),5.6
+2024-12,Other,Did Not Attend Rate (%),6.9
+2024-12,NZ European,Patient Experience Score (%),82.1
+2024-12,Māori,Patient Experience Score (%),72.4
+2024-12,Pacific Peoples,Patient Experience Score (%),73.3
+2024-12,Asian,Patient Experience Score (%),80.0
+2024-12,Other,Patient Experience Score (%),80.8
+2025-01,NZ European,ED Wait Time (median mins),117.8
+2025-01,Māori,ED Wait Time (median mins),148.6
+2025-01,Pacific Peoples,ED Wait Time (median mins),140.3
+2025-01,Asian,ED Wait Time (median mins),125.1
+2025-01,Other,ED Wait Time (median mins),126.3
+2025-01,NZ European,Readmission Rate (%),8.8
+2025-01,Māori,Readmission Rate (%),11.2
+2025-01,Pacific Peoples,Readmission Rate (%),10.5
+2025-01,Asian,Readmission Rate (%),8.7
+2025-01,Other,Readmission Rate (%),8.1
+2025-01,NZ European,Did Not Attend Rate (%),4.5
+2025-01,Māori,Did Not Attend Rate (%),13.0
+2025-01,Pacific Peoples,Did Not Attend Rate (%),11.0
+2025-01,Asian,Did Not Attend Rate (%),6.1
+2025-01,Other,Did Not Attend Rate (%),7.1
+2025-01,NZ European,Patient Experience Score (%),86.2
+2025-01,Māori,Patient Experience Score (%),69.9
+2025-01,Pacific Peoples,Patient Experience Score (%),76.0
+2025-01,Asian,Patient Experience Score (%),80.1
+2025-01,Other,Patient Experience Score (%),79.7
+2025-02,NZ European,ED Wait Time (median mins),116.4
+2025-02,Māori,ED Wait Time (median mins),153.7
+2025-02,Pacific Peoples,ED Wait Time (median mins),141.1
+2025-02,Asian,ED Wait Time (median mins),118.0
+2025-02,Other,ED Wait Time (median mins),127.5
+2025-02,NZ European,Readmission Rate (%),8.2
+2025-02,Māori,Readmission Rate (%),10.6
+2025-02,Pacific Peoples,Readmission Rate (%),9.8
+2025-02,Asian,Readmission Rate (%),7.9
+2025-02,Other,Readmission Rate (%),9.0
+2025-02,NZ European,Did Not Attend Rate (%),4.6
+2025-02,Māori,Did Not Attend Rate (%),13.9
+2025-02,Pacific Peoples,Did Not Attend Rate (%),10.9
+2025-02,Asian,Did Not Attend Rate (%),5.8
+2025-02,Other,Did Not Attend Rate (%),6.2
+2025-02,NZ European,Patient Experience Score (%),85.1
+2025-02,Māori,Patient Experience Score (%),74.2
+2025-02,Pacific Peoples,Patient Experience Score (%),74.7
+2025-02,Asian,Patient Experience Score (%),78.5
+2025-02,Other,Patient Experience Score (%),81.9
+2025-03,NZ European,ED Wait Time (median mins),122.9
+2025-03,Māori,ED Wait Time (median mins),143.0
+2025-03,Pacific Peoples,ED Wait Time (median mins),138.4
+2025-03,Asian,ED Wait Time (median mins),120.8
+2025-03,Other,ED Wait Time (median mins),121.6
+2025-03,NZ European,Readmission Rate (%),7.9
+2025-03,Māori,Readmission Rate (%),10.9
+2025-03,Pacific Peoples,Readmission Rate (%),9.9
+2025-03,Asian,Readmission Rate (%),7.7
+2025-03,Other,Readmission Rate (%),8.9
+2025-03,NZ European,Did Not Attend Rate (%),4.6
+2025-03,Māori,Did Not Attend Rate (%),13.0
+2025-03,Pacific Peoples,Did Not Attend Rate (%),10.5
+2025-03,Asian,Did Not Attend Rate (%),5.5
+2025-03,Other,Did Not Attend Rate (%),6.9
+2025-03,NZ European,Patient Experience Score (%),85.6
+2025-03,Māori,Patient Experience Score (%),73.1
+2025-03,Pacific Peoples,Patient Experience Score (%),76.0
+2025-03,Asian,Patient Experience Score (%),76.2
+2025-03,Other,Patient Experience Score (%),79.7
+2025-04,NZ European,ED Wait Time (median mins),115.3
+2025-04,Māori,ED Wait Time (median mins),138.7
+2025-04,Pacific Peoples,ED Wait Time (median mins),136.6
+2025-04,Asian,ED Wait Time (median mins),121.8
+2025-04,Other,ED Wait Time (median mins),120.7
+2025-04,NZ European,Readmission Rate (%),8.4
+2025-04,Māori,Readmission Rate (%),9.6
+2025-04,Pacific Peoples,Readmission Rate (%),9.8
+2025-04,Asian,Readmission Rate (%),8.5
+2025-04,Other,Readmission Rate (%),8.5
+2025-04,NZ European,Did Not Attend Rate (%),4.3
+2025-04,Māori,Did Not Attend Rate (%),14.7
+2025-04,Pacific Peoples,Did Not Attend Rate (%),12.3
+2025-04,Asian,Did Not Attend Rate (%),6.0
+2025-04,Other,Did Not Attend Rate (%),6.1
+2025-04,NZ European,Patient Experience Score (%),81.9
+2025-04,Māori,Patient Experience Score (%),70.9
+2025-04,Pacific Peoples,Patient Experience Score (%),76.2
+2025-04,Asian,Patient Experience Score (%),79.9
+2025-04,Other,Patient Experience Score (%),81.9
+2025-05,NZ European,ED Wait Time (median mins),121.8
+2025-05,Māori,ED Wait Time (median mins),145.3
+2025-05,Pacific Peoples,ED Wait Time (median mins),131.5
+2025-05,Asian,ED Wait Time (median mins),116.8
+2025-05,Other,ED Wait Time (median mins),109.1
+2025-05,NZ European,Readmission Rate (%),8.0
+2025-05,Māori,Readmission Rate (%),11.3
+2025-05,Pacific Peoples,Readmission Rate (%),10.8
+2025-05,Asian,Readmission Rate (%),8.6
+2025-05,Other,Readmission Rate (%),8.3
+2025-05,NZ European,Did Not Attend Rate (%),4.9
+2025-05,Māori,Did Not Attend Rate (%),12.4
+2025-05,Pacific Peoples,Did Not Attend Rate (%),10.0
+2025-05,Asian,Did Not Attend Rate (%),6.2
+2025-05,Other,Did Not Attend Rate (%),6.9
+2025-05,NZ European,Patient Experience Score (%),87.0
+2025-05,Māori,Patient Experience Score (%),75.6
+2025-05,Pacific Peoples,Patient Experience Score (%),77.0
+2025-05,Asian,Patient Experience Score (%),80.5
+2025-05,Other,Patient Experience Score (%),78.9
+2025-06,NZ European,ED Wait Time (median mins),114.6
+2025-06,Māori,ED Wait Time (median mins),145.5
+2025-06,Pacific Peoples,ED Wait Time (median mins),126.7
+2025-06,Asian,ED Wait Time (median mins),122.5
+2025-06,Other,ED Wait Time (median mins),118.2
+2025-06,NZ European,Readmission Rate (%),8.2
+2025-06,Māori,Readmission Rate (%),10.9
+2025-06,Pacific Peoples,Readmission Rate (%),10.9
+2025-06,Asian,Readmission Rate (%),8.6
+2025-06,Other,Readmission Rate (%),8.1
+2025-06,NZ European,Did Not Attend Rate (%),4.6
+2025-06,Māori,Did Not Attend Rate (%),11.8
+2025-06,Pacific Peoples,Did Not Attend Rate (%),11.0
+2025-06,Asian,Did Not Attend Rate (%),5.7
+2025-06,Other,Did Not Attend Rate (%),6.2
+2025-06,NZ European,Patient Experience Score (%),85.9
+2025-06,Māori,Patient Experience Score (%),74.3
+2025-06,Pacific Peoples,Patient Experience Score (%),75.0
+2025-06,Asian,Patient Experience Score (%),81.0
+2025-06,Other,Patient Experience Score (%),83.1
+2025-07,NZ European,ED Wait Time (median mins),113.4
+2025-07,Māori,ED Wait Time (median mins),138.3
+2025-07,Pacific Peoples,ED Wait Time (median mins),144.2
+2025-07,Asian,ED Wait Time (median mins),126.3
+2025-07,Other,ED Wait Time (median mins),110.0
+2025-07,NZ European,Readmission Rate (%),8.7
+2025-07,Māori,Readmission Rate (%),10.4
+2025-07,Pacific Peoples,Readmission Rate (%),9.4
+2025-07,Asian,Readmission Rate (%),8.2
+2025-07,Other,Readmission Rate (%),8.8
+2025-07,NZ European,Did Not Attend Rate (%),4.7
+2025-07,Māori,Did Not Attend Rate (%),13.0
+2025-07,Pacific Peoples,Did Not Attend Rate (%),12.0
+2025-07,Asian,Did Not Attend Rate (%),6.8
+2025-07,Other,Did Not Attend Rate (%),6.6
+2025-07,NZ European,Patient Experience Score (%),82.4
+2025-07,Māori,Patient Experience Score (%),72.8
+2025-07,Pacific Peoples,Patient Experience Score (%),75.2
+2025-07,Asian,Patient Experience Score (%),82.1
+2025-07,Other,Patient Experience Score (%),80.4
+2025-08,NZ European,ED Wait Time (median mins),124.6
+2025-08,Māori,ED Wait Time (median mins),148.5
+2025-08,Pacific Peoples,ED Wait Time (median mins),142.7
+2025-08,Asian,ED Wait Time (median mins),131.2
+2025-08,Other,ED Wait Time (median mins),126.4
+2025-08,NZ European,Readmission Rate (%),8.1
+2025-08,Māori,Readmission Rate (%),11.8
+2025-08,Pacific Peoples,Readmission Rate (%),9.2
+2025-08,Asian,Readmission Rate (%),8.3
+2025-08,Other,Readmission Rate (%),8.1
+2025-08,NZ European,Did Not Attend Rate (%),4.6
+2025-08,Māori,Did Not Attend Rate (%),11.8
+2025-08,Pacific Peoples,Did Not Attend Rate (%),10.6
+2025-08,Asian,Did Not Attend Rate (%),6.0
+2025-08,Other,Did Not Attend Rate (%),6.8
+2025-08,NZ European,Patient Experience Score (%),81.6
+2025-08,Māori,Patient Experience Score (%),79.6
+2025-08,Pacific Peoples,Patient Experience Score (%),74.2
+2025-08,Asian,Patient Experience Score (%),76.0
+2025-08,Other,Patient Experience Score (%),81.1
+2025-09,NZ European,ED Wait Time (median mins),118.6
+2025-09,Māori,ED Wait Time (median mins),156.7
+2025-09,Pacific Peoples,ED Wait Time (median mins),127.3
+2025-09,Asian,ED Wait Time (median mins),124.6
+2025-09,Other,ED Wait Time (median mins),126.4
+2025-09,NZ European,Readmission Rate (%),7.6
+2025-09,Māori,Readmission Rate (%),9.8
+2025-09,Pacific Peoples,Readmission Rate (%),10.7
+2025-09,Asian,Readmission Rate (%),7.8
+2025-09,Other,Readmission Rate (%),8.8
+2025-09,NZ European,Did Not Attend Rate (%),4.1
+2025-09,Māori,Did Not Attend Rate (%),12.7
+2025-09,Pacific Peoples,Did Not Attend Rate (%),10.9
+2025-09,Asian,Did Not Attend Rate (%),6.0
+2025-09,Other,Did Not Attend Rate (%),6.0
+2025-09,NZ European,Patient Experience Score (%),83.9
+2025-09,Māori,Patient Experience Score (%),68.9
+2025-09,Pacific Peoples,Patient Experience Score (%),72.9
+2025-09,Asian,Patient Experience Score (%),82.7
+2025-09,Other,Patient Experience Score (%),79.2
+2025-10,NZ European,ED Wait Time (median mins),123.6
+2025-10,Māori,ED Wait Time (median mins),148.3
+2025-10,Pacific Peoples,ED Wait Time (median mins),135.9
+2025-10,Asian,ED Wait Time (median mins),125.1
+2025-10,Other,ED Wait Time (median mins),114.2
+2025-10,NZ European,Readmission Rate (%),7.9
+2025-10,Māori,Readmission Rate (%),10.3
+2025-10,Pacific Peoples,Readmission Rate (%),11.1
+2025-10,Asian,Readmission Rate (%),7.8
+2025-10,Other,Readmission Rate (%),8.6
+2025-10,NZ European,Did Not Attend Rate (%),4.3
+2025-10,Māori,Did Not Attend Rate (%),13.4
+2025-10,Pacific Peoples,Did Not Attend Rate (%),9.5
+2025-10,Asian,Did Not Attend Rate (%),5.8
+2025-10,Other,Did Not Attend Rate (%),6.5
+2025-10,NZ European,Patient Experience Score (%),83.2
+2025-10,Māori,Patient Experience Score (%),74.7
+2025-10,Pacific Peoples,Patient Experience Score (%),73.8
+2025-10,Asian,Patient Experience Score (%),77.8
+2025-10,Other,Patient Experience Score (%),79.6
+2025-11,NZ European,ED Wait Time (median mins),124.0
+2025-11,Māori,ED Wait Time (median mins),153.4
+2025-11,Pacific Peoples,ED Wait Time (median mins),125.3
+2025-11,Asian,ED Wait Time (median mins),122.3
+2025-11,Other,ED Wait Time (median mins),117.3
+2025-11,NZ European,Readmission Rate (%),7.5
+2025-11,Māori,Readmission Rate (%),10.7
+2025-11,Pacific Peoples,Readmission Rate (%),9.8
+2025-11,Asian,Readmission Rate (%),7.6
+2025-11,Other,Readmission Rate (%),7.8
+2025-11,NZ European,Did Not Attend Rate (%),4.4
+2025-11,Māori,Did Not Attend Rate (%),12.0
+2025-11,Pacific Peoples,Did Not Attend Rate (%),9.9
+2025-11,Asian,Did Not Attend Rate (%),6.1
+2025-11,Other,Did Not Attend Rate (%),6.4
+2025-11,NZ European,Patient Experience Score (%),86.5
+2025-11,Māori,Patient Experience Score (%),73.5
+2025-11,Pacific Peoples,Patient Experience Score (%),80.7
+2025-11,Asian,Patient Experience Score (%),78.3
+2025-11,Other,Patient Experience Score (%),82.5
+2025-12,NZ European,ED Wait Time (median mins),114.3
+2025-12,Māori,ED Wait Time (median mins),138.5
+2025-12,Pacific Peoples,ED Wait Time (median mins),150.1
+2025-12,Asian,ED Wait Time (median mins),120.0
+2025-12,Other,ED Wait Time (median mins),120.0
+2025-12,NZ European,Readmission Rate (%),7.5
+2025-12,Māori,Readmission Rate (%),11.1
+2025-12,Pacific Peoples,Readmission Rate (%),9.1
+2025-12,Asian,Readmission Rate (%),8.7
+2025-12,Other,Readmission Rate (%),8.4
+2025-12,NZ European,Did Not Attend Rate (%),4.3
+2025-12,Māori,Did Not Attend Rate (%),12.7
+2025-12,Pacific Peoples,Did Not Attend Rate (%),11.0
+2025-12,Asian,Did Not Attend Rate (%),5.7
+2025-12,Other,Did Not Attend Rate (%),6.1
+2025-12,NZ European,Patient Experience Score (%),84.0
+2025-12,Māori,Patient Experience Score (%),73.6
+2025-12,Pacific Peoples,Patient Experience Score (%),80.1
+2025-12,Asian,Patient Experience Score (%),80.8
+2025-12,Other,Patient Experience Score (%),80.5

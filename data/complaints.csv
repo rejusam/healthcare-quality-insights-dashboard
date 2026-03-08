@@ -1,0 +1,1501 @@
+complaint_id,received_date,facility,service,category,patient_ethnicity,resolution_days,status,escalated,month,year
+CMP-00001,2023-01-03,Waitakere Hospital,Maternity,Communication,Asian,5,Resolved,True,2023-01,2023
+CMP-00002,2023-01-03,Waitakere Hospital,Maternity,Treatment/Care,Pacific Peoples,5,In Progress,False,2023-01,2023
+CMP-00003,2023-01-03,North Shore Hospital,General Surgery,Facilities/Environment,Asian,29,Resolved,False,2023-01,2023
+CMP-00004,2023-01-03,Waitakere Hospital,Emergency Department,Staff Behaviour,NZ European,44,In Progress,False,2023-01,2023
+CMP-00005,2023-01-04,Community Services North,Cardiology,Communication,NZ European,27,Resolved,True,2023-01,2023
+CMP-00006,2023-01-04,North Shore Hospital,Oncology,Communication,NZ European,76,Resolved,False,2023-01,2023
+CMP-00007,2023-01-04,Waitakere Hospital,Orthopaedics,Facilities/Environment,Asian,24,Resolved,False,2023-01,2023
+CMP-00008,2023-01-04,Community Services West,Oncology,Discharge Process,NZ European,14,Resolved,False,2023-01,2023
+CMP-00009,2023-01-06,Waitakere Hospital,Mental Health,Facilities/Environment,Pacific Peoples,4,Resolved,False,2023-01,2023
+CMP-00010,2023-01-06,Community Services North,Paediatrics,Discharge Process,Māori,36,In Progress,False,2023-01,2023
+CMP-00011,2023-01-06,Community Services North,General Surgery,Staff Behaviour,Māori,25,Resolved,True,2023-01,2023
+CMP-00012,2023-01-06,North Shore Hospital,General Surgery,Discharge Process,NZ European,3,Resolved,False,2023-01,2023
+CMP-00013,2023-01-07,North Shore Hospital,Older Adult Health,Staff Behaviour,Pacific Peoples,8,In Progress,False,2023-01,2023
+CMP-00014,2023-01-07,Community Services North,Emergency Department,Discharge Process,NZ European,1,Resolved,False,2023-01,2023
+CMP-00015,2023-01-09,Community Services North,Older Adult Health,Communication,Other,36,Resolved,False,2023-01,2023
+CMP-00016,2023-01-11,North Shore Hospital,Older Adult Health,Facilities/Environment,NZ European,10,Resolved,False,2023-01,2023
+CMP-00017,2023-01-12,North Shore Hospital,General Surgery,Communication,NZ European,3,Resolved,False,2023-01,2023
+CMP-00018,2023-01-13,Waitakere Hospital,Emergency Department,Communication,NZ European,4,Resolved,False,2023-01,2023
+CMP-00019,2023-01-13,Community Services North,Oncology,Wait Times,Asian,47,In Progress,False,2023-01,2023
+CMP-00020,2023-01-15,Waitakere Hospital,Orthopaedics,Treatment/Care,NZ European,11,Resolved,False,2023-01,2023
+CMP-00021,2023-01-17,Community Services West,Paediatrics,Communication,Māori,6,Resolved,False,2023-01,2023
+CMP-00022,2023-01-17,Community Services West,Oncology,Other,NZ European,8,Resolved,False,2023-01,2023
+CMP-00023,2023-01-19,Community Services North,General Surgery,Staff Behaviour,NZ European,1,Resolved,False,2023-01,2023
+CMP-00024,2023-01-20,Community Services North,Mental Health,Discharge Process,Māori,1,Open,False,2023-01,2023
+CMP-00025,2023-01-20,Waitakere Hospital,Cardiology,Other,NZ European,10,Resolved,False,2023-01,2023
+CMP-00026,2023-01-20,North Shore Hospital,General Surgery,Treatment/Care,Pacific Peoples,8,In Progress,False,2023-01,2023
+CMP-00027,2023-01-21,Waitakere Hospital,Mental Health,Treatment/Care,Asian,5,Resolved,False,2023-01,2023
+CMP-00028,2023-01-22,Waitakere Hospital,General Medicine,Communication,Asian,10,Resolved,False,2023-01,2023
+CMP-00029,2023-01-23,Waitakere Hospital,Orthopaedics,Wait Times,NZ European,1,In Progress,False,2023-01,2023
+CMP-00030,2023-01-24,Community Services North,General Medicine,Staff Behaviour,Māori,34,Resolved,False,2023-01,2023
+CMP-00031,2023-01-25,Waitakere Hospital,General Surgery,Wait Times,Other,4,Resolved,False,2023-01,2023
+CMP-00032,2023-01-26,Community Services North,Mental Health,Treatment/Care,Asian,1,Open,False,2023-01,2023
+CMP-00033,2023-01-27,Waitakere Hospital,Oncology,Communication,NZ European,2,Resolved,False,2023-01,2023
+CMP-00034,2023-01-27,North Shore Hospital,General Surgery,Treatment/Care,Māori,1,Resolved,True,2023-01,2023
+CMP-00035,2023-01-28,Waitakere Hospital,Cardiology,Communication,Other,2,Resolved,False,2023-01,2023
+CMP-00036,2023-01-28,Community Services West,Maternity,Access to Services,NZ European,6,Open,False,2023-01,2023
+CMP-00037,2023-01-28,Community Services North,Orthopaedics,Communication,Asian,16,Resolved,False,2023-01,2023
+CMP-00038,2023-01-28,North Shore Hospital,Orthopaedics,Treatment/Care,Māori,3,In Progress,True,2023-01,2023
+CMP-00039,2023-01-29,Waitakere Hospital,Cardiology,Communication,NZ European,6,Resolved,False,2023-01,2023
+CMP-00040,2023-01-29,Community Services West,Cardiology,Facilities/Environment,NZ European,31,Open,False,2023-01,2023
+CMP-00041,2023-02-04,North Shore Hospital,Mental Health,Treatment/Care,NZ European,4,Resolved,False,2023-02,2023
+CMP-00042,2023-02-05,North Shore Hospital,Paediatrics,Communication,NZ European,19,Resolved,False,2023-02,2023
+CMP-00043,2023-02-05,North Shore Hospital,Orthopaedics,Wait Times,Asian,2,Resolved,True,2023-02,2023
+CMP-00044,2023-02-05,Waitakere Hospital,Older Adult Health,Discharge Process,Pacific Peoples,2,Resolved,False,2023-02,2023
+CMP-00045,2023-02-06,Waitakere Hospital,Oncology,Discharge Process,Pacific Peoples,7,Resolved,False,2023-02,2023
+CMP-00046,2023-02-06,North Shore Hospital,Oncology,Communication,Māori,3,Resolved,False,2023-02,2023
+CMP-00047,2023-02-08,Waitakere Hospital,Oncology,Staff Behaviour,NZ European,28,In Progress,False,2023-02,2023
+CMP-00048,2023-02-08,North Shore Hospital,General Medicine,Communication,NZ European,1,Resolved,False,2023-02,2023
+CMP-00049,2023-02-11,Waitakere Hospital,General Surgery,Communication,Other,10,In Progress,False,2023-02,2023
+CMP-00050,2023-02-12,Waitakere Hospital,Mental Health,Wait Times,Māori,11,Resolved,False,2023-02,2023
+CMP-00051,2023-02-12,Waitakere Hospital,Emergency Department,Communication,Māori,1,Resolved,False,2023-02,2023
+CMP-00052,2023-02-13,North Shore Hospital,Orthopaedics,Facilities/Environment,Other,15,In Progress,False,2023-02,2023
+CMP-00053,2023-02-13,Waitakere Hospital,Mental Health,Discharge Process,NZ European,7,In Progress,True,2023-02,2023
+CMP-00054,2023-02-15,Waitakere Hospital,Oncology,Communication,Asian,15,Resolved,False,2023-02,2023
+CMP-00055,2023-02-16,Waitakere Hospital,Older Adult Health,Communication,Asian,21,Resolved,False,2023-02,2023
+CMP-00056,2023-02-16,Waitakere Hospital,Emergency Department,Treatment/Care,NZ European,4,Resolved,False,2023-02,2023
+CMP-00057,2023-02-20,Waitakere Hospital,General Surgery,Wait Times,NZ European,7,Resolved,True,2023-02,2023
+CMP-00058,2023-02-21,North Shore Hospital,General Surgery,Discharge Process,Other,3,Open,False,2023-02,2023
+CMP-00059,2023-02-22,North Shore Hospital,Maternity,Access to Services,NZ European,2,Resolved,False,2023-02,2023
+CMP-00060,2023-02-24,North Shore Hospital,Orthopaedics,Staff Behaviour,NZ European,1,Resolved,True,2023-02,2023
+CMP-00061,2023-02-25,Community Services North,Orthopaedics,Treatment/Care,Māori,39,Resolved,False,2023-02,2023
+CMP-00062,2023-02-25,Waitakere Hospital,Emergency Department,Facilities/Environment,Māori,6,Resolved,False,2023-02,2023
+CMP-00063,2023-02-26,Community Services North,Cardiology,Communication,Asian,1,Resolved,False,2023-02,2023
+CMP-00064,2023-02-26,Community Services North,Orthopaedics,Discharge Process,Other,1,In Progress,True,2023-02,2023
+CMP-00065,2023-02-26,Community Services West,Emergency Department,Communication,Other,4,Resolved,False,2023-02,2023
+CMP-00066,2023-02-26,Waitakere Hospital,Mental Health,Wait Times,Other,1,Resolved,True,2023-02,2023
+CMP-00067,2023-02-27,North Shore Hospital,General Surgery,Communication,NZ European,5,Open,False,2023-02,2023
+CMP-00068,2023-02-28,Community Services West,Cardiology,Treatment/Care,Pacific Peoples,1,Resolved,True,2023-02,2023
+CMP-00069,2023-02-28,North Shore Hospital,Mental Health,Staff Behaviour,NZ European,1,Open,False,2023-02,2023
+CMP-00070,2023-02-28,Waitakere Hospital,General Surgery,Staff Behaviour,NZ European,13,Resolved,False,2023-02,2023
+CMP-00071,2023-02-28,North Shore Hospital,Mental Health,Facilities/Environment,Asian,28,Resolved,False,2023-02,2023
+CMP-00072,2023-02-28,Community Services West,Orthopaedics,Wait Times,NZ European,6,Resolved,True,2023-02,2023
+CMP-00073,2023-02-28,Waitakere Hospital,Oncology,Treatment/Care,Other,21,In Progress,False,2023-02,2023
+CMP-00074,2023-03-01,North Shore Hospital,Maternity,Access to Services,NZ European,1,In Progress,False,2023-03,2023
+CMP-00075,2023-03-01,Community Services North,Cardiology,Facilities/Environment,Asian,18,Resolved,False,2023-03,2023
+CMP-00076,2023-03-01,North Shore Hospital,General Medicine,Communication,NZ European,1,Resolved,False,2023-03,2023
+CMP-00077,2023-03-02,Community Services West,Emergency Department,Access to Services,NZ European,21,Resolved,False,2023-03,2023
+CMP-00078,2023-03-02,Waitakere Hospital,Emergency Department,Other,Māori,25,Resolved,False,2023-03,2023
+CMP-00079,2023-03-03,Community Services North,Emergency Department,Staff Behaviour,NZ European,18,Open,False,2023-03,2023
+CMP-00080,2023-03-03,North Shore Hospital,Oncology,Treatment/Care,Māori,20,Resolved,False,2023-03,2023
+CMP-00081,2023-03-03,Community Services North,Mental Health,Staff Behaviour,Other,9,Resolved,False,2023-03,2023
+CMP-00082,2023-03-05,Community Services West,Orthopaedics,Treatment/Care,Pacific Peoples,3,Resolved,False,2023-03,2023
+CMP-00083,2023-03-05,Community Services North,Cardiology,Staff Behaviour,NZ European,12,Resolved,False,2023-03,2023
+CMP-00084,2023-03-05,Community Services West,Mental Health,Wait Times,NZ European,6,Open,True,2023-03,2023
+CMP-00085,2023-03-06,North Shore Hospital,Oncology,Discharge Process,NZ European,1,Resolved,False,2023-03,2023
+CMP-00086,2023-03-07,Community Services West,General Surgery,Staff Behaviour,Māori,7,Resolved,False,2023-03,2023
+CMP-00087,2023-03-07,Waitakere Hospital,General Surgery,Communication,Māori,12,Resolved,False,2023-03,2023
+CMP-00088,2023-03-08,Community Services West,General Medicine,Facilities/Environment,NZ European,1,Resolved,False,2023-03,2023
+CMP-00089,2023-03-08,Community Services North,Older Adult Health,Treatment/Care,Asian,11,Resolved,False,2023-03,2023
+CMP-00090,2023-03-09,North Shore Hospital,Paediatrics,Treatment/Care,NZ European,12,In Progress,False,2023-03,2023
+CMP-00091,2023-03-09,Waitakere Hospital,General Medicine,Treatment/Care,Māori,2,Resolved,True,2023-03,2023
+CMP-00092,2023-03-11,North Shore Hospital,Orthopaedics,Communication,Māori,6,Resolved,True,2023-03,2023
+CMP-00093,2023-03-11,Community Services North,Paediatrics,Discharge Process,NZ European,40,Open,True,2023-03,2023
+CMP-00094,2023-03-11,Waitakere Hospital,Emergency Department,Wait Times,Asian,25,Resolved,False,2023-03,2023
+CMP-00095,2023-03-12,North Shore Hospital,Emergency Department,Facilities/Environment,Māori,6,Resolved,False,2023-03,2023
+CMP-00096,2023-03-12,Community Services West,Older Adult Health,Treatment/Care,Pacific Peoples,5,Resolved,True,2023-03,2023
+CMP-00097,2023-03-13,Community Services West,Maternity,Facilities/Environment,Māori,1,Resolved,False,2023-03,2023
+CMP-00098,2023-03-13,Community Services West,General Medicine,Wait Times,Other,1,Resolved,True,2023-03,2023
+CMP-00099,2023-03-13,Community Services North,Cardiology,Treatment/Care,Pacific Peoples,4,Resolved,False,2023-03,2023
+CMP-00100,2023-03-14,Community Services North,Cardiology,Other,NZ European,33,Resolved,False,2023-03,2023
+CMP-00101,2023-03-14,Community Services North,Emergency Department,Wait Times,NZ European,38,Resolved,False,2023-03,2023
+CMP-00102,2023-03-16,North Shore Hospital,General Surgery,Staff Behaviour,NZ European,20,Resolved,False,2023-03,2023
+CMP-00103,2023-03-17,Community Services West,Orthopaedics,Communication,NZ European,5,Resolved,False,2023-03,2023
+CMP-00104,2023-03-17,Community Services West,Mental Health,Treatment/Care,Other,1,Resolved,False,2023-03,2023
+CMP-00105,2023-03-19,Community Services North,Cardiology,Access to Services,NZ European,10,In Progress,False,2023-03,2023
+CMP-00106,2023-03-19,Community Services West,General Surgery,Facilities/Environment,Asian,12,In Progress,False,2023-03,2023
+CMP-00107,2023-03-20,Waitakere Hospital,Mental Health,Wait Times,NZ European,6,Resolved,False,2023-03,2023
+CMP-00108,2023-03-20,Waitakere Hospital,Paediatrics,Discharge Process,NZ European,14,In Progress,True,2023-03,2023
+CMP-00109,2023-03-20,Community Services West,Oncology,Wait Times,Other,16,Resolved,False,2023-03,2023
+CMP-00110,2023-03-22,Waitakere Hospital,Mental Health,Wait Times,NZ European,18,Open,False,2023-03,2023
+CMP-00111,2023-03-22,Waitakere Hospital,Orthopaedics,Treatment/Care,Māori,8,Resolved,False,2023-03,2023
+CMP-00112,2023-03-22,Waitakere Hospital,Cardiology,Staff Behaviour,Other,18,Resolved,True,2023-03,2023
+CMP-00113,2023-03-23,Waitakere Hospital,Oncology,Treatment/Care,Other,1,In Progress,False,2023-03,2023
+CMP-00114,2023-03-23,Community Services North,Older Adult Health,Treatment/Care,Asian,13,In Progress,False,2023-03,2023
+CMP-00115,2023-03-24,Waitakere Hospital,Mental Health,Discharge Process,Asian,3,Resolved,True,2023-03,2023
+CMP-00116,2023-03-24,Waitakere Hospital,Oncology,Communication,Pacific Peoples,3,In Progress,False,2023-03,2023
+CMP-00117,2023-03-25,North Shore Hospital,Oncology,Communication,NZ European,1,Resolved,False,2023-03,2023
+CMP-00118,2023-03-26,Waitakere Hospital,Emergency Department,Communication,Pacific Peoples,2,Resolved,True,2023-03,2023
+CMP-00119,2023-03-26,Community Services West,Maternity,Treatment/Care,Other,57,Resolved,False,2023-03,2023
+CMP-00120,2023-03-26,North Shore Hospital,Mental Health,Treatment/Care,Māori,6,Resolved,False,2023-03,2023
+CMP-00121,2023-03-27,North Shore Hospital,Maternity,Communication,NZ European,31,Open,False,2023-03,2023
+CMP-00122,2023-03-29,North Shore Hospital,Cardiology,Wait Times,Māori,2,In Progress,False,2023-03,2023
+CMP-00123,2023-03-29,Community Services West,General Surgery,Wait Times,Pacific Peoples,2,Resolved,False,2023-03,2023
+CMP-00124,2023-03-29,Community Services North,General Surgery,Facilities/Environment,NZ European,9,Resolved,False,2023-03,2023
+CMP-00125,2023-03-31,Community Services West,Cardiology,Other,Pacific Peoples,5,Open,False,2023-03,2023
+CMP-00126,2023-04-02,Waitakere Hospital,Mental Health,Staff Behaviour,Māori,12,Resolved,False,2023-04,2023
+CMP-00127,2023-04-03,Waitakere Hospital,Paediatrics,Communication,Māori,6,Resolved,False,2023-04,2023
+CMP-00128,2023-04-03,Community Services North,Orthopaedics,Communication,NZ European,20,Resolved,False,2023-04,2023
+CMP-00129,2023-04-03,North Shore Hospital,Maternity,Facilities/Environment,NZ European,6,Resolved,False,2023-04,2023
+CMP-00130,2023-04-03,Waitakere Hospital,Mental Health,Staff Behaviour,Māori,10,In Progress,False,2023-04,2023
+CMP-00131,2023-04-04,Waitakere Hospital,General Medicine,Communication,Māori,4,Resolved,False,2023-04,2023
+CMP-00132,2023-04-04,North Shore Hospital,Emergency Department,Treatment/Care,NZ European,14,Resolved,False,2023-04,2023
+CMP-00133,2023-04-04,Waitakere Hospital,Maternity,Facilities/Environment,NZ European,12,Open,False,2023-04,2023
+CMP-00134,2023-04-05,North Shore Hospital,Mental Health,Wait Times,NZ European,6,Resolved,False,2023-04,2023
+CMP-00135,2023-04-05,North Shore Hospital,Oncology,Wait Times,Māori,3,Resolved,False,2023-04,2023
+CMP-00136,2023-04-06,North Shore Hospital,Paediatrics,Communication,Other,11,Resolved,False,2023-04,2023
+CMP-00137,2023-04-07,Community Services North,Emergency Department,Staff Behaviour,Asian,34,Resolved,False,2023-04,2023
+CMP-00138,2023-04-07,North Shore Hospital,Cardiology,Facilities/Environment,Asian,1,Open,False,2023-04,2023
+CMP-00139,2023-04-08,North Shore Hospital,Maternity,Access to Services,Māori,19,Resolved,False,2023-04,2023
+CMP-00140,2023-04-08,North Shore Hospital,Paediatrics,Facilities/Environment,Māori,9,In Progress,False,2023-04,2023
+CMP-00141,2023-04-08,Waitakere Hospital,General Surgery,Wait Times,NZ European,8,Resolved,False,2023-04,2023
+CMP-00142,2023-04-09,Waitakere Hospital,Oncology,Staff Behaviour,Pacific Peoples,39,Resolved,False,2023-04,2023
+CMP-00143,2023-04-12,Community Services West,General Medicine,Wait Times,NZ European,11,Resolved,False,2023-04,2023
+CMP-00144,2023-04-12,Community Services North,Emergency Department,Communication,Pacific Peoples,21,In Progress,True,2023-04,2023
+CMP-00145,2023-04-13,North Shore Hospital,Cardiology,Access to Services,NZ European,8,Resolved,False,2023-04,2023
+CMP-00146,2023-04-13,North Shore Hospital,Cardiology,Wait Times,NZ European,3,Resolved,False,2023-04,2023
+CMP-00147,2023-04-13,North Shore Hospital,Oncology,Wait Times,NZ European,14,Resolved,False,2023-04,2023
+CMP-00148,2023-04-14,Community Services West,Paediatrics,Other,Asian,30,Resolved,False,2023-04,2023
+CMP-00149,2023-04-14,Community Services North,Cardiology,Other,NZ European,22,Resolved,False,2023-04,2023
+CMP-00150,2023-04-16,North Shore Hospital,Emergency Department,Wait Times,NZ European,2,Resolved,False,2023-04,2023
+CMP-00151,2023-04-17,North Shore Hospital,Orthopaedics,Communication,Other,4,In Progress,False,2023-04,2023
+CMP-00152,2023-04-18,Waitakere Hospital,Cardiology,Treatment/Care,Pacific Peoples,8,In Progress,False,2023-04,2023
+CMP-00153,2023-04-19,North Shore Hospital,General Surgery,Discharge Process,NZ European,10,Resolved,True,2023-04,2023
+CMP-00154,2023-04-20,Community Services North,Paediatrics,Treatment/Care,NZ European,2,Resolved,False,2023-04,2023
+CMP-00155,2023-04-20,Waitakere Hospital,Mental Health,Other,NZ European,3,Resolved,False,2023-04,2023
+CMP-00156,2023-04-20,Waitakere Hospital,Oncology,Communication,Māori,17,Resolved,True,2023-04,2023
+CMP-00157,2023-04-21,Waitakere Hospital,General Surgery,Wait Times,Asian,15,Resolved,False,2023-04,2023
+CMP-00158,2023-04-21,North Shore Hospital,Maternity,Wait Times,NZ European,21,Resolved,False,2023-04,2023
+CMP-00159,2023-04-23,Waitakere Hospital,Cardiology,Treatment/Care,Asian,32,Open,False,2023-04,2023
+CMP-00160,2023-04-23,Community Services North,General Medicine,Discharge Process,NZ European,4,Resolved,False,2023-04,2023
+CMP-00161,2023-04-23,Waitakere Hospital,General Surgery,Staff Behaviour,NZ European,23,Resolved,False,2023-04,2023
+CMP-00162,2023-04-25,Waitakere Hospital,Orthopaedics,Communication,Other,13,In Progress,True,2023-04,2023
+CMP-00163,2023-04-25,Community Services West,Maternity,Treatment/Care,NZ European,37,In Progress,False,2023-04,2023
+CMP-00164,2023-04-27,North Shore Hospital,Emergency Department,Facilities/Environment,Asian,3,Resolved,False,2023-04,2023
+CMP-00165,2023-04-28,Waitakere Hospital,Maternity,Treatment/Care,Pacific Peoples,3,Resolved,False,2023-04,2023
+CMP-00166,2023-04-29,North Shore Hospital,Orthopaedics,Access to Services,NZ European,14,Resolved,False,2023-04,2023
+CMP-00167,2023-04-30,Community Services North,Older Adult Health,Communication,Māori,31,Resolved,False,2023-04,2023
+CMP-00168,2023-05-01,North Shore Hospital,Oncology,Treatment/Care,Māori,20,In Progress,False,2023-05,2023
+CMP-00169,2023-05-01,Community Services North,Older Adult Health,Communication,Other,15,Open,False,2023-05,2023
+CMP-00170,2023-05-01,North Shore Hospital,Older Adult Health,Communication,NZ European,5,Open,False,2023-05,2023
+CMP-00171,2023-05-03,North Shore Hospital,General Medicine,Treatment/Care,NZ European,15,Resolved,False,2023-05,2023
+CMP-00172,2023-05-04,Community Services North,Cardiology,Other,NZ European,19,Resolved,False,2023-05,2023
+CMP-00173,2023-05-05,Waitakere Hospital,General Medicine,Communication,Pacific Peoples,16,Resolved,True,2023-05,2023
+CMP-00174,2023-05-05,Community Services West,Maternity,Communication,NZ European,13,Resolved,False,2023-05,2023
+CMP-00175,2023-05-05,Waitakere Hospital,Mental Health,Treatment/Care,NZ European,1,Resolved,True,2023-05,2023
+CMP-00176,2023-05-06,Waitakere Hospital,Maternity,Staff Behaviour,Other,12,Resolved,False,2023-05,2023
+CMP-00177,2023-05-06,Community Services North,Oncology,Facilities/Environment,NZ European,7,Resolved,False,2023-05,2023
+CMP-00178,2023-05-06,North Shore Hospital,Cardiology,Facilities/Environment,NZ European,39,Resolved,False,2023-05,2023
+CMP-00179,2023-05-06,North Shore Hospital,Paediatrics,Communication,Pacific Peoples,11,Resolved,False,2023-05,2023
+CMP-00180,2023-05-07,North Shore Hospital,Mental Health,Staff Behaviour,Asian,11,Resolved,False,2023-05,2023
+CMP-00181,2023-05-08,North Shore Hospital,Cardiology,Staff Behaviour,NZ European,61,Resolved,False,2023-05,2023
+CMP-00182,2023-05-08,North Shore Hospital,Paediatrics,Wait Times,NZ European,1,Resolved,False,2023-05,2023
+CMP-00183,2023-05-10,Community Services West,Older Adult Health,Treatment/Care,NZ European,3,Resolved,False,2023-05,2023
+CMP-00184,2023-05-13,Community Services North,Emergency Department,Facilities/Environment,NZ European,12,In Progress,False,2023-05,2023
+CMP-00185,2023-05-14,Community Services West,Cardiology,Treatment/Care,Pacific Peoples,4,Resolved,True,2023-05,2023
+CMP-00186,2023-05-14,Community Services West,Paediatrics,Communication,Māori,5,Open,False,2023-05,2023
+CMP-00187,2023-05-14,Waitakere Hospital,Orthopaedics,Treatment/Care,Pacific Peoples,26,In Progress,False,2023-05,2023
+CMP-00188,2023-05-15,North Shore Hospital,Mental Health,Treatment/Care,Māori,10,Resolved,True,2023-05,2023
+CMP-00189,2023-05-16,Waitakere Hospital,General Medicine,Communication,Asian,1,Resolved,False,2023-05,2023
+CMP-00190,2023-05-17,Community Services West,Cardiology,Staff Behaviour,Māori,4,Resolved,False,2023-05,2023
+CMP-00191,2023-05-18,Waitakere Hospital,Mental Health,Access to Services,Other,1,Resolved,False,2023-05,2023
+CMP-00192,2023-05-19,Waitakere Hospital,Oncology,Wait Times,Māori,9,Resolved,False,2023-05,2023
+CMP-00193,2023-05-20,North Shore Hospital,Emergency Department,Treatment/Care,Asian,2,Open,False,2023-05,2023
+CMP-00194,2023-05-21,Waitakere Hospital,General Surgery,Facilities/Environment,NZ European,23,Resolved,False,2023-05,2023
+CMP-00195,2023-05-21,Waitakere Hospital,Orthopaedics,Facilities/Environment,NZ European,10,In Progress,False,2023-05,2023
+CMP-00196,2023-05-22,Waitakere Hospital,Oncology,Treatment/Care,Asian,1,Open,False,2023-05,2023
+CMP-00197,2023-05-22,Community Services West,General Medicine,Staff Behaviour,NZ European,4,Resolved,True,2023-05,2023
+CMP-00198,2023-05-22,North Shore Hospital,Paediatrics,Facilities/Environment,Māori,11,Resolved,False,2023-05,2023
+CMP-00199,2023-05-23,Community Services West,Oncology,Communication,Pacific Peoples,4,Resolved,False,2023-05,2023
+CMP-00200,2023-05-24,North Shore Hospital,Cardiology,Treatment/Care,Asian,8,Resolved,False,2023-05,2023
+CMP-00201,2023-05-24,Community Services West,Orthopaedics,Communication,Māori,28,Resolved,True,2023-05,2023
+CMP-00202,2023-05-24,Waitakere Hospital,Mental Health,Other,NZ European,5,In Progress,False,2023-05,2023
+CMP-00203,2023-05-28,Community Services North,Cardiology,Communication,NZ European,4,Resolved,False,2023-05,2023
+CMP-00204,2023-05-28,North Shore Hospital,Orthopaedics,Communication,Other,20,Resolved,False,2023-05,2023
+CMP-00205,2023-05-29,Community Services North,Paediatrics,Wait Times,NZ European,4,In Progress,False,2023-05,2023
+CMP-00206,2023-05-30,Community Services West,Older Adult Health,Access to Services,Asian,1,Resolved,False,2023-05,2023
+CMP-00207,2023-05-31,North Shore Hospital,Older Adult Health,Treatment/Care,NZ European,2,Resolved,False,2023-05,2023
+CMP-00208,2023-05-31,North Shore Hospital,General Surgery,Facilities/Environment,NZ European,35,Resolved,False,2023-05,2023
+CMP-00209,2023-06-01,North Shore Hospital,General Medicine,Staff Behaviour,NZ European,32,Resolved,False,2023-06,2023
+CMP-00210,2023-06-01,North Shore Hospital,Maternity,Staff Behaviour,Pacific Peoples,3,In Progress,False,2023-06,2023
+CMP-00211,2023-06-02,North Shore Hospital,Emergency Department,Access to Services,NZ European,9,In Progress,False,2023-06,2023
+CMP-00212,2023-06-02,Community Services North,Oncology,Communication,NZ European,1,Resolved,False,2023-06,2023
+CMP-00213,2023-06-03,North Shore Hospital,Paediatrics,Discharge Process,NZ European,13,Resolved,False,2023-06,2023
+CMP-00214,2023-06-03,Community Services North,Older Adult Health,Access to Services,NZ European,2,Resolved,True,2023-06,2023
+CMP-00215,2023-06-04,Community Services West,Paediatrics,Discharge Process,NZ European,1,Open,False,2023-06,2023
+CMP-00216,2023-06-04,Community Services North,Mental Health,Facilities/Environment,NZ European,20,Resolved,False,2023-06,2023
+CMP-00217,2023-06-05,North Shore Hospital,Mental Health,Access to Services,Asian,4,Resolved,False,2023-06,2023
+CMP-00218,2023-06-05,Waitakere Hospital,Paediatrics,Communication,NZ European,1,Resolved,False,2023-06,2023
+CMP-00219,2023-06-07,Waitakere Hospital,Paediatrics,Treatment/Care,NZ European,21,In Progress,False,2023-06,2023
+CMP-00220,2023-06-07,North Shore Hospital,General Medicine,Treatment/Care,Other,17,Resolved,False,2023-06,2023
+CMP-00221,2023-06-07,North Shore Hospital,General Medicine,Communication,NZ European,13,Resolved,True,2023-06,2023
+CMP-00222,2023-06-08,Community Services West,Paediatrics,Facilities/Environment,Other,29,In Progress,False,2023-06,2023
+CMP-00223,2023-06-16,Community Services North,Mental Health,Communication,NZ European,8,Resolved,False,2023-06,2023
+CMP-00224,2023-06-16,North Shore Hospital,General Medicine,Communication,NZ European,1,Resolved,False,2023-06,2023
+CMP-00225,2023-06-17,Waitakere Hospital,Emergency Department,Facilities/Environment,NZ European,1,Resolved,False,2023-06,2023
+CMP-00226,2023-06-17,North Shore Hospital,Oncology,Discharge Process,Māori,4,In Progress,False,2023-06,2023
+CMP-00227,2023-06-19,Community Services West,Older Adult Health,Facilities/Environment,Māori,1,Resolved,False,2023-06,2023
+CMP-00228,2023-06-19,Community Services West,General Medicine,Access to Services,NZ European,9,Resolved,True,2023-06,2023
+CMP-00229,2023-06-19,North Shore Hospital,General Medicine,Wait Times,Asian,1,Resolved,False,2023-06,2023
+CMP-00230,2023-06-20,Waitakere Hospital,General Surgery,Access to Services,Māori,7,Open,False,2023-06,2023
+CMP-00231,2023-06-20,Waitakere Hospital,Orthopaedics,Wait Times,NZ European,2,Resolved,False,2023-06,2023
+CMP-00232,2023-06-23,Waitakere Hospital,Oncology,Other,Māori,5,Resolved,False,2023-06,2023
+CMP-00233,2023-06-24,North Shore Hospital,Maternity,Communication,Asian,13,Resolved,False,2023-06,2023
+CMP-00234,2023-06-24,Community Services North,General Surgery,Facilities/Environment,NZ European,5,Resolved,True,2023-06,2023
+CMP-00235,2023-06-26,North Shore Hospital,Older Adult Health,Staff Behaviour,NZ European,5,Open,False,2023-06,2023
+CMP-00236,2023-06-27,Community Services North,Maternity,Wait Times,Asian,56,Resolved,False,2023-06,2023
+CMP-00237,2023-06-28,Waitakere Hospital,Older Adult Health,Facilities/Environment,Other,15,Open,False,2023-06,2023
+CMP-00238,2023-06-29,Community Services North,Cardiology,Access to Services,NZ European,8,Open,False,2023-06,2023
+CMP-00239,2023-06-29,Community Services North,General Medicine,Access to Services,Other,10,In Progress,False,2023-06,2023
+CMP-00240,2023-06-30,Waitakere Hospital,Older Adult Health,Communication,NZ European,11,Resolved,False,2023-06,2023
+CMP-00241,2023-07-01,Community Services North,Mental Health,Communication,Other,1,Resolved,False,2023-07,2023
+CMP-00242,2023-07-01,Waitakere Hospital,Cardiology,Communication,Pacific Peoples,1,Resolved,False,2023-07,2023
+CMP-00243,2023-07-02,North Shore Hospital,Orthopaedics,Communication,Asian,12,In Progress,False,2023-07,2023
+CMP-00244,2023-07-03,North Shore Hospital,General Surgery,Treatment/Care,Asian,5,In Progress,False,2023-07,2023
+CMP-00245,2023-07-04,North Shore Hospital,Oncology,Facilities/Environment,NZ European,1,Resolved,False,2023-07,2023
+CMP-00246,2023-07-04,North Shore Hospital,Cardiology,Wait Times,NZ European,4,In Progress,True,2023-07,2023
+CMP-00247,2023-07-05,Community Services North,Paediatrics,Facilities/Environment,Māori,1,In Progress,False,2023-07,2023
+CMP-00248,2023-07-05,Waitakere Hospital,Paediatrics,Wait Times,NZ European,29,In Progress,False,2023-07,2023
+CMP-00249,2023-07-07,North Shore Hospital,Maternity,Wait Times,Māori,2,Resolved,False,2023-07,2023
+CMP-00250,2023-07-08,Community Services North,Oncology,Communication,Other,1,In Progress,False,2023-07,2023
+CMP-00251,2023-07-09,Community Services North,General Surgery,Facilities/Environment,NZ European,11,In Progress,True,2023-07,2023
+CMP-00252,2023-07-10,Waitakere Hospital,Emergency Department,Facilities/Environment,Māori,8,Resolved,True,2023-07,2023
+CMP-00253,2023-07-11,North Shore Hospital,Paediatrics,Treatment/Care,NZ European,10,In Progress,False,2023-07,2023
+CMP-00254,2023-07-11,North Shore Hospital,Oncology,Treatment/Care,Māori,6,Resolved,False,2023-07,2023
+CMP-00255,2023-07-12,Waitakere Hospital,Maternity,Communication,NZ European,7,Resolved,False,2023-07,2023
+CMP-00256,2023-07-12,Community Services West,Cardiology,Facilities/Environment,NZ European,18,Open,False,2023-07,2023
+CMP-00257,2023-07-12,North Shore Hospital,General Medicine,Facilities/Environment,Asian,2,Resolved,False,2023-07,2023
+CMP-00258,2023-07-13,Waitakere Hospital,Older Adult Health,Staff Behaviour,Asian,6,In Progress,False,2023-07,2023
+CMP-00259,2023-07-14,Community Services West,Oncology,Communication,Asian,37,Resolved,False,2023-07,2023
+CMP-00260,2023-07-15,Waitakere Hospital,Cardiology,Communication,Asian,2,Resolved,False,2023-07,2023
+CMP-00261,2023-07-15,Waitakere Hospital,Older Adult Health,Communication,Māori,4,Resolved,False,2023-07,2023
+CMP-00262,2023-07-17,Community Services North,Oncology,Communication,Pacific Peoples,2,Resolved,False,2023-07,2023
+CMP-00263,2023-07-20,Community Services North,Emergency Department,Communication,NZ European,1,Open,False,2023-07,2023
+CMP-00264,2023-07-20,Waitakere Hospital,General Surgery,Communication,NZ European,3,Resolved,True,2023-07,2023
+CMP-00265,2023-07-20,Community Services West,General Surgery,Wait Times,NZ European,1,Resolved,False,2023-07,2023
+CMP-00266,2023-07-22,Waitakere Hospital,Oncology,Treatment/Care,NZ European,2,Resolved,False,2023-07,2023
+CMP-00267,2023-07-22,Community Services West,General Surgery,Treatment/Care,NZ European,5,Open,False,2023-07,2023
+CMP-00268,2023-07-23,Community Services West,Cardiology,Wait Times,NZ European,1,Resolved,False,2023-07,2023
+CMP-00269,2023-07-25,Waitakere Hospital,Emergency Department,Staff Behaviour,Māori,16,Open,False,2023-07,2023
+CMP-00270,2023-07-26,Waitakere Hospital,General Surgery,Staff Behaviour,NZ European,19,Resolved,False,2023-07,2023
+CMP-00271,2023-07-26,Waitakere Hospital,General Medicine,Treatment/Care,Pacific Peoples,6,Resolved,False,2023-07,2023
+CMP-00272,2023-07-26,Community Services North,Oncology,Facilities/Environment,Māori,50,In Progress,False,2023-07,2023
+CMP-00273,2023-07-26,Community Services North,Emergency Department,Discharge Process,Other,13,Resolved,False,2023-07,2023
+CMP-00274,2023-07-27,North Shore Hospital,General Medicine,Treatment/Care,NZ European,16,Resolved,False,2023-07,2023
+CMP-00275,2023-07-27,Community Services North,Emergency Department,Communication,Pacific Peoples,2,Open,False,2023-07,2023
+CMP-00276,2023-07-28,Community Services North,Oncology,Access to Services,Pacific Peoples,21,Resolved,True,2023-07,2023
+CMP-00277,2023-07-28,Community Services North,Paediatrics,Discharge Process,Other,34,Open,False,2023-07,2023
+CMP-00278,2023-07-29,Community Services North,Emergency Department,Communication,NZ European,3,Open,False,2023-07,2023
+CMP-00279,2023-07-30,North Shore Hospital,Cardiology,Communication,NZ European,13,Resolved,False,2023-07,2023
+CMP-00280,2023-07-30,Waitakere Hospital,Maternity,Facilities/Environment,NZ European,16,Resolved,False,2023-07,2023
+CMP-00281,2023-07-31,Community Services North,Mental Health,Treatment/Care,NZ European,4,Resolved,False,2023-07,2023
+CMP-00282,2023-07-31,Community Services West,Cardiology,Discharge Process,Māori,7,In Progress,False,2023-07,2023
+CMP-00283,2023-07-31,North Shore Hospital,Mental Health,Communication,Asian,1,In Progress,False,2023-07,2023
+CMP-00284,2023-08-01,Waitakere Hospital,Orthopaedics,Access to Services,NZ European,2,Resolved,False,2023-08,2023
+CMP-00285,2023-08-02,Community Services North,General Surgery,Communication,NZ European,1,Resolved,True,2023-08,2023
+CMP-00286,2023-08-03,Community Services North,Older Adult Health,Treatment/Care,NZ European,9,Resolved,False,2023-08,2023
+CMP-00287,2023-08-03,Waitakere Hospital,Paediatrics,Other,NZ European,11,Resolved,True,2023-08,2023
+CMP-00288,2023-08-03,North Shore Hospital,Mental Health,Communication,Other,29,Resolved,False,2023-08,2023
+CMP-00289,2023-08-06,Community Services North,Oncology,Communication,Asian,9,Open,False,2023-08,2023
+CMP-00290,2023-08-06,Community Services North,Paediatrics,Access to Services,NZ European,3,In Progress,False,2023-08,2023
+CMP-00291,2023-08-06,Community Services North,Cardiology,Communication,NZ European,1,In Progress,False,2023-08,2023
+CMP-00292,2023-08-07,Community Services North,General Medicine,Communication,Other,25,Resolved,False,2023-08,2023
+CMP-00293,2023-08-07,Waitakere Hospital,Paediatrics,Treatment/Care,NZ European,7,In Progress,False,2023-08,2023
+CMP-00294,2023-08-07,Community Services West,Paediatrics,Staff Behaviour,Māori,16,Open,False,2023-08,2023
+CMP-00295,2023-08-08,Community Services North,Orthopaedics,Staff Behaviour,Other,1,Resolved,True,2023-08,2023
+CMP-00296,2023-08-08,Waitakere Hospital,Older Adult Health,Access to Services,Māori,8,Resolved,False,2023-08,2023
+CMP-00297,2023-08-09,Community Services West,Orthopaedics,Wait Times,NZ European,4,Open,False,2023-08,2023
+CMP-00298,2023-08-09,Community Services West,Paediatrics,Treatment/Care,NZ European,1,In Progress,False,2023-08,2023
+CMP-00299,2023-08-10,Community Services North,Orthopaedics,Treatment/Care,Other,17,Resolved,False,2023-08,2023
+CMP-00300,2023-08-10,Waitakere Hospital,Older Adult Health,Access to Services,NZ European,8,Resolved,False,2023-08,2023
+CMP-00301,2023-08-10,Waitakere Hospital,General Surgery,Facilities/Environment,NZ European,4,Resolved,False,2023-08,2023
+CMP-00302,2023-08-12,North Shore Hospital,General Medicine,Discharge Process,Asian,19,In Progress,False,2023-08,2023
+CMP-00303,2023-08-12,North Shore Hospital,Cardiology,Discharge Process,Asian,7,In Progress,False,2023-08,2023
+CMP-00304,2023-08-13,Waitakere Hospital,Maternity,Treatment/Care,Māori,1,Resolved,False,2023-08,2023
+CMP-00305,2023-08-13,Waitakere Hospital,Paediatrics,Wait Times,NZ European,34,Resolved,False,2023-08,2023
+CMP-00306,2023-08-16,North Shore Hospital,Paediatrics,Staff Behaviour,Māori,3,In Progress,False,2023-08,2023
+CMP-00307,2023-08-16,Community Services West,Maternity,Communication,NZ European,21,Open,False,2023-08,2023
+CMP-00308,2023-08-16,Waitakere Hospital,Older Adult Health,Communication,NZ European,20,In Progress,False,2023-08,2023
+CMP-00309,2023-08-17,Waitakere Hospital,Maternity,Access to Services,Asian,2,In Progress,False,2023-08,2023
+CMP-00310,2023-08-18,Waitakere Hospital,Maternity,Wait Times,NZ European,7,Resolved,False,2023-08,2023
+CMP-00311,2023-08-18,North Shore Hospital,General Surgery,Wait Times,NZ European,1,Open,False,2023-08,2023
+CMP-00312,2023-08-20,Community Services West,General Medicine,Wait Times,NZ European,5,Resolved,False,2023-08,2023
+CMP-00313,2023-08-21,North Shore Hospital,Paediatrics,Facilities/Environment,Māori,15,Open,False,2023-08,2023
+CMP-00314,2023-08-22,Waitakere Hospital,Maternity,Communication,Pacific Peoples,3,Resolved,False,2023-08,2023
+CMP-00315,2023-08-22,Waitakere Hospital,Emergency Department,Staff Behaviour,Asian,1,In Progress,False,2023-08,2023
+CMP-00316,2023-08-22,Waitakere Hospital,General Medicine,Wait Times,Pacific Peoples,8,In Progress,False,2023-08,2023
+CMP-00317,2023-08-22,Waitakere Hospital,General Medicine,Access to Services,Māori,9,Resolved,False,2023-08,2023
+CMP-00318,2023-08-24,North Shore Hospital,Emergency Department,Wait Times,Pacific Peoples,13,Resolved,False,2023-08,2023
+CMP-00319,2023-08-24,North Shore Hospital,General Surgery,Discharge Process,NZ European,17,Resolved,False,2023-08,2023
+CMP-00320,2023-08-26,Waitakere Hospital,Mental Health,Treatment/Care,NZ European,14,In Progress,True,2023-08,2023
+CMP-00321,2023-08-28,Community Services North,Orthopaedics,Discharge Process,Māori,22,Open,False,2023-08,2023
+CMP-00322,2023-08-29,Waitakere Hospital,General Medicine,Access to Services,NZ European,3,In Progress,False,2023-08,2023
+CMP-00323,2023-08-30,North Shore Hospital,Older Adult Health,Wait Times,NZ European,10,Resolved,False,2023-08,2023
+CMP-00324,2023-08-30,North Shore Hospital,Oncology,Treatment/Care,NZ European,5,Resolved,False,2023-08,2023
+CMP-00325,2023-08-31,Community Services North,Older Adult Health,Treatment/Care,Māori,39,Resolved,False,2023-08,2023
+CMP-00326,2023-09-01,Waitakere Hospital,Paediatrics,Facilities/Environment,Māori,6,Resolved,False,2023-09,2023
+CMP-00327,2023-09-01,North Shore Hospital,Cardiology,Wait Times,Pacific Peoples,38,Resolved,False,2023-09,2023
+CMP-00328,2023-09-03,Community Services North,General Medicine,Treatment/Care,Māori,17,In Progress,False,2023-09,2023
+CMP-00329,2023-09-04,North Shore Hospital,Maternity,Staff Behaviour,Other,15,Resolved,False,2023-09,2023
+CMP-00330,2023-09-04,Waitakere Hospital,Orthopaedics,Facilities/Environment,NZ European,8,In Progress,False,2023-09,2023
+CMP-00331,2023-09-04,North Shore Hospital,Mental Health,Communication,Māori,7,Resolved,False,2023-09,2023
+CMP-00332,2023-09-05,Community Services West,Oncology,Communication,NZ European,8,Resolved,False,2023-09,2023
+CMP-00333,2023-09-05,North Shore Hospital,Oncology,Communication,NZ European,4,Resolved,False,2023-09,2023
+CMP-00334,2023-09-06,Waitakere Hospital,Orthopaedics,Communication,Asian,28,Resolved,False,2023-09,2023
+CMP-00335,2023-09-06,Community Services West,Older Adult Health,Treatment/Care,NZ European,18,In Progress,False,2023-09,2023
+CMP-00336,2023-09-08,North Shore Hospital,Mental Health,Facilities/Environment,NZ European,19,Resolved,False,2023-09,2023
+CMP-00337,2023-09-08,Waitakere Hospital,Oncology,Treatment/Care,Māori,6,Resolved,False,2023-09,2023
+CMP-00338,2023-09-08,North Shore Hospital,General Medicine,Communication,NZ European,1,In Progress,False,2023-09,2023
+CMP-00339,2023-09-08,North Shore Hospital,Orthopaedics,Wait Times,Māori,13,In Progress,False,2023-09,2023
+CMP-00340,2023-09-09,Waitakere Hospital,General Surgery,Other,NZ European,5,Resolved,True,2023-09,2023
+CMP-00341,2023-09-09,Community Services West,Paediatrics,Treatment/Care,NZ European,24,Resolved,False,2023-09,2023
+CMP-00342,2023-09-09,Waitakere Hospital,General Medicine,Discharge Process,Asian,18,Resolved,False,2023-09,2023
+CMP-00343,2023-09-10,Waitakere Hospital,General Surgery,Communication,Pacific Peoples,1,Resolved,False,2023-09,2023
+CMP-00344,2023-09-10,Waitakere Hospital,Oncology,Communication,NZ European,11,Resolved,False,2023-09,2023
+CMP-00345,2023-09-11,Waitakere Hospital,Older Adult Health,Facilities/Environment,Māori,14,In Progress,False,2023-09,2023
+CMP-00346,2023-09-11,Waitakere Hospital,General Medicine,Wait Times,Asian,10,Resolved,False,2023-09,2023
+CMP-00347,2023-09-11,North Shore Hospital,Maternity,Facilities/Environment,Pacific Peoples,8,Resolved,False,2023-09,2023
+CMP-00348,2023-09-11,Waitakere Hospital,General Surgery,Access to Services,NZ European,3,Resolved,False,2023-09,2023
+CMP-00349,2023-09-11,Waitakere Hospital,Maternity,Treatment/Care,NZ European,3,In Progress,True,2023-09,2023
+CMP-00350,2023-09-12,Community Services West,Mental Health,Staff Behaviour,NZ European,17,Resolved,False,2023-09,2023
+CMP-00351,2023-09-13,North Shore Hospital,Cardiology,Staff Behaviour,NZ European,1,Resolved,False,2023-09,2023
+CMP-00352,2023-09-14,Waitakere Hospital,Orthopaedics,Access to Services,NZ European,18,Resolved,False,2023-09,2023
+CMP-00353,2023-09-14,North Shore Hospital,Paediatrics,Treatment/Care,NZ European,8,Resolved,False,2023-09,2023
+CMP-00354,2023-09-15,North Shore Hospital,Cardiology,Communication,Asian,33,Resolved,False,2023-09,2023
+CMP-00355,2023-09-15,Waitakere Hospital,Paediatrics,Wait Times,Māori,71,Resolved,False,2023-09,2023
+CMP-00356,2023-09-15,Community Services North,Orthopaedics,Discharge Process,NZ European,13,Resolved,False,2023-09,2023
+CMP-00357,2023-09-15,Waitakere Hospital,General Surgery,Communication,Māori,6,Resolved,False,2023-09,2023
+CMP-00358,2023-09-16,North Shore Hospital,Orthopaedics,Communication,Pacific Peoples,7,Resolved,False,2023-09,2023
+CMP-00359,2023-09-16,Community Services West,General Medicine,Treatment/Care,NZ European,2,In Progress,False,2023-09,2023
+CMP-00360,2023-09-17,North Shore Hospital,Orthopaedics,Facilities/Environment,Māori,1,Resolved,False,2023-09,2023
+CMP-00361,2023-09-18,Community Services North,Orthopaedics,Treatment/Care,NZ European,10,In Progress,False,2023-09,2023
+CMP-00362,2023-09-19,Community Services North,Mental Health,Communication,Māori,19,Resolved,True,2023-09,2023
+CMP-00363,2023-09-19,Community Services North,Emergency Department,Staff Behaviour,NZ European,3,Open,False,2023-09,2023
+CMP-00364,2023-09-19,Community Services West,General Medicine,Communication,NZ European,6,Resolved,False,2023-09,2023
+CMP-00365,2023-09-20,Community Services North,Older Adult Health,Communication,NZ European,9,Resolved,True,2023-09,2023
+CMP-00366,2023-09-21,North Shore Hospital,Older Adult Health,Treatment/Care,Pacific Peoples,28,Open,False,2023-09,2023
+CMP-00367,2023-09-22,Waitakere Hospital,Older Adult Health,Treatment/Care,Māori,1,Open,False,2023-09,2023
+CMP-00368,2023-09-22,Waitakere Hospital,Mental Health,Treatment/Care,NZ European,3,In Progress,False,2023-09,2023
+CMP-00369,2023-09-22,North Shore Hospital,Older Adult Health,Communication,NZ European,30,Open,False,2023-09,2023
+CMP-00370,2023-09-23,Community Services West,Oncology,Treatment/Care,Māori,1,Resolved,False,2023-09,2023
+CMP-00371,2023-09-23,North Shore Hospital,Orthopaedics,Facilities/Environment,Asian,12,Resolved,False,2023-09,2023
+CMP-00372,2023-09-23,Community Services North,Orthopaedics,Treatment/Care,Asian,12,Resolved,False,2023-09,2023
+CMP-00373,2023-09-24,Community Services North,Paediatrics,Wait Times,Other,5,Resolved,False,2023-09,2023
+CMP-00374,2023-09-26,Community Services West,Mental Health,Communication,NZ European,7,Open,False,2023-09,2023
+CMP-00375,2023-09-27,Waitakere Hospital,Cardiology,Communication,NZ European,23,Resolved,False,2023-09,2023
+CMP-00376,2023-09-27,Community Services North,Emergency Department,Access to Services,Māori,2,In Progress,False,2023-09,2023
+CMP-00377,2023-09-29,North Shore Hospital,Older Adult Health,Treatment/Care,NZ European,3,Resolved,True,2023-09,2023
+CMP-00378,2023-09-29,Community Services North,Orthopaedics,Treatment/Care,NZ European,8,Resolved,True,2023-09,2023
+CMP-00379,2023-09-30,North Shore Hospital,Older Adult Health,Access to Services,NZ European,6,Resolved,False,2023-09,2023
+CMP-00380,2023-10-01,Community Services West,General Medicine,Staff Behaviour,NZ European,10,Resolved,False,2023-10,2023
+CMP-00381,2023-10-02,North Shore Hospital,Orthopaedics,Facilities/Environment,NZ European,30,In Progress,False,2023-10,2023
+CMP-00382,2023-10-03,North Shore Hospital,General Medicine,Staff Behaviour,Other,29,In Progress,False,2023-10,2023
+CMP-00383,2023-10-04,Waitakere Hospital,Mental Health,Communication,NZ European,3,Resolved,False,2023-10,2023
+CMP-00384,2023-10-05,Community Services North,Cardiology,Discharge Process,NZ European,4,Open,False,2023-10,2023
+CMP-00385,2023-10-05,Community Services North,Cardiology,Discharge Process,NZ European,2,Resolved,False,2023-10,2023
+CMP-00386,2023-10-06,North Shore Hospital,Older Adult Health,Communication,Asian,31,In Progress,False,2023-10,2023
+CMP-00387,2023-10-06,North Shore Hospital,Paediatrics,Facilities/Environment,Pacific Peoples,6,Resolved,False,2023-10,2023
+CMP-00388,2023-10-06,North Shore Hospital,Mental Health,Treatment/Care,NZ European,7,Resolved,False,2023-10,2023
+CMP-00389,2023-10-07,Waitakere Hospital,Paediatrics,Staff Behaviour,NZ European,19,Resolved,False,2023-10,2023
+CMP-00390,2023-10-09,Waitakere Hospital,Mental Health,Communication,Pacific Peoples,8,Resolved,False,2023-10,2023
+CMP-00391,2023-10-10,Waitakere Hospital,Paediatrics,Wait Times,NZ European,1,Resolved,False,2023-10,2023
+CMP-00392,2023-10-11,Community Services North,Orthopaedics,Communication,Other,6,Resolved,False,2023-10,2023
+CMP-00393,2023-10-11,Waitakere Hospital,Orthopaedics,Wait Times,Māori,11,Resolved,False,2023-10,2023
+CMP-00394,2023-10-12,Community Services West,Cardiology,Communication,NZ European,15,Resolved,False,2023-10,2023
+CMP-00395,2023-10-13,North Shore Hospital,Orthopaedics,Wait Times,Asian,12,Open,False,2023-10,2023
+CMP-00396,2023-10-15,Waitakere Hospital,Older Adult Health,Staff Behaviour,NZ European,1,Open,False,2023-10,2023
+CMP-00397,2023-10-15,Waitakere Hospital,Emergency Department,Access to Services,NZ European,4,In Progress,True,2023-10,2023
+CMP-00398,2023-10-15,North Shore Hospital,Cardiology,Communication,NZ European,15,Resolved,True,2023-10,2023
+CMP-00399,2023-10-16,Waitakere Hospital,Mental Health,Access to Services,Asian,25,Resolved,False,2023-10,2023
+CMP-00400,2023-10-17,Waitakere Hospital,Cardiology,Treatment/Care,NZ European,1,Resolved,False,2023-10,2023
+CMP-00401,2023-10-17,North Shore Hospital,General Medicine,Access to Services,NZ European,1,Resolved,False,2023-10,2023
+CMP-00402,2023-10-18,Waitakere Hospital,Cardiology,Wait Times,NZ European,12,Resolved,False,2023-10,2023
+CMP-00403,2023-10-19,Waitakere Hospital,Orthopaedics,Access to Services,Asian,9,Resolved,True,2023-10,2023
+CMP-00404,2023-10-19,North Shore Hospital,Mental Health,Staff Behaviour,NZ European,2,Resolved,False,2023-10,2023
+CMP-00405,2023-10-20,Waitakere Hospital,Older Adult Health,Wait Times,NZ European,9,Resolved,True,2023-10,2023
+CMP-00406,2023-10-21,Waitakere Hospital,General Medicine,Treatment/Care,Māori,44,Resolved,True,2023-10,2023
+CMP-00407,2023-10-21,North Shore Hospital,General Medicine,Discharge Process,Pacific Peoples,11,In Progress,False,2023-10,2023
+CMP-00408,2023-10-21,North Shore Hospital,General Medicine,Facilities/Environment,Asian,7,In Progress,False,2023-10,2023
+CMP-00409,2023-10-22,Waitakere Hospital,Older Adult Health,Treatment/Care,NZ European,21,Resolved,False,2023-10,2023
+CMP-00410,2023-10-22,Community Services North,General Surgery,Communication,Asian,2,Resolved,False,2023-10,2023
+CMP-00411,2023-10-22,Community Services West,Mental Health,Facilities/Environment,Māori,6,In Progress,False,2023-10,2023
+CMP-00412,2023-10-26,North Shore Hospital,General Medicine,Other,NZ European,9,In Progress,True,2023-10,2023
+CMP-00413,2023-10-27,North Shore Hospital,Maternity,Treatment/Care,Asian,8,In Progress,False,2023-10,2023
+CMP-00414,2023-10-27,North Shore Hospital,Cardiology,Discharge Process,Māori,30,Resolved,False,2023-10,2023
+CMP-00415,2023-10-28,Waitakere Hospital,Maternity,Communication,Māori,4,Resolved,False,2023-10,2023
+CMP-00416,2023-10-28,Waitakere Hospital,General Medicine,Discharge Process,Other,1,Resolved,False,2023-10,2023
+CMP-00417,2023-10-28,Waitakere Hospital,Orthopaedics,Facilities/Environment,Māori,29,In Progress,True,2023-10,2023
+CMP-00418,2023-10-29,Community Services North,General Medicine,Treatment/Care,NZ European,2,In Progress,False,2023-10,2023
+CMP-00419,2023-10-29,Community Services North,Cardiology,Treatment/Care,Asian,5,Resolved,False,2023-10,2023
+CMP-00420,2023-10-29,Community Services West,Orthopaedics,Staff Behaviour,NZ European,9,Resolved,False,2023-10,2023
+CMP-00421,2023-10-31,North Shore Hospital,Paediatrics,Wait Times,Māori,44,Resolved,False,2023-10,2023
+CMP-00422,2023-11-01,North Shore Hospital,Mental Health,Discharge Process,NZ European,9,Open,True,2023-11,2023
+CMP-00423,2023-11-03,North Shore Hospital,Cardiology,Facilities/Environment,NZ European,7,Open,False,2023-11,2023
+CMP-00424,2023-11-04,North Shore Hospital,Orthopaedics,Wait Times,Pacific Peoples,10,Resolved,True,2023-11,2023
+CMP-00425,2023-11-04,Community Services West,Cardiology,Discharge Process,NZ European,42,Resolved,False,2023-11,2023
+CMP-00426,2023-11-04,North Shore Hospital,Cardiology,Wait Times,Māori,20,Resolved,False,2023-11,2023
+CMP-00427,2023-11-07,Waitakere Hospital,General Surgery,Access to Services,Asian,2,Open,False,2023-11,2023
+CMP-00428,2023-11-07,North Shore Hospital,Maternity,Access to Services,NZ European,19,Open,True,2023-11,2023
+CMP-00429,2023-11-09,North Shore Hospital,General Medicine,Discharge Process,Māori,22,Resolved,True,2023-11,2023
+CMP-00430,2023-11-12,North Shore Hospital,Orthopaedics,Communication,Asian,14,Resolved,False,2023-11,2023
+CMP-00431,2023-11-13,North Shore Hospital,Older Adult Health,Wait Times,Pacific Peoples,12,Resolved,False,2023-11,2023
+CMP-00432,2023-11-14,Waitakere Hospital,General Medicine,Wait Times,Māori,6,Resolved,False,2023-11,2023
+CMP-00433,2023-11-15,Community Services West,Oncology,Wait Times,NZ European,12,Resolved,False,2023-11,2023
+CMP-00434,2023-11-16,Waitakere Hospital,General Medicine,Wait Times,NZ European,16,Resolved,False,2023-11,2023
+CMP-00435,2023-11-16,Waitakere Hospital,Older Adult Health,Access to Services,NZ European,1,Open,True,2023-11,2023
+CMP-00436,2023-11-16,North Shore Hospital,Older Adult Health,Treatment/Care,NZ European,3,Open,False,2023-11,2023
+CMP-00437,2023-11-16,Community Services West,Paediatrics,Wait Times,Pacific Peoples,2,Resolved,False,2023-11,2023
+CMP-00438,2023-11-18,North Shore Hospital,Cardiology,Communication,NZ European,22,Resolved,False,2023-11,2023
+CMP-00439,2023-11-18,Community Services West,Maternity,Treatment/Care,Other,13,Resolved,False,2023-11,2023
+CMP-00440,2023-11-18,Waitakere Hospital,Emergency Department,Staff Behaviour,Asian,7,In Progress,False,2023-11,2023
+CMP-00441,2023-11-19,North Shore Hospital,General Medicine,Communication,NZ European,20,In Progress,True,2023-11,2023
+CMP-00442,2023-11-20,Waitakere Hospital,Paediatrics,Communication,NZ European,15,Resolved,False,2023-11,2023
+CMP-00443,2023-11-20,Community Services West,Orthopaedics,Wait Times,Pacific Peoples,29,Resolved,True,2023-11,2023
+CMP-00444,2023-11-20,North Shore Hospital,Oncology,Communication,Pacific Peoples,1,Resolved,False,2023-11,2023
+CMP-00445,2023-11-21,North Shore Hospital,General Surgery,Communication,Other,8,Resolved,False,2023-11,2023
+CMP-00446,2023-11-21,North Shore Hospital,Orthopaedics,Access to Services,NZ European,14,Resolved,False,2023-11,2023
+CMP-00447,2023-11-22,Waitakere Hospital,General Surgery,Access to Services,NZ European,2,Resolved,False,2023-11,2023
+CMP-00448,2023-11-22,North Shore Hospital,Paediatrics,Treatment/Care,Other,4,Resolved,False,2023-11,2023
+CMP-00449,2023-11-23,Community Services North,General Medicine,Treatment/Care,NZ European,6,Resolved,False,2023-11,2023
+CMP-00450,2023-11-23,Community Services West,Cardiology,Discharge Process,Pacific Peoples,18,In Progress,False,2023-11,2023
+CMP-00451,2023-11-24,Community Services West,General Medicine,Communication,NZ European,8,Resolved,True,2023-11,2023
+CMP-00452,2023-11-26,North Shore Hospital,General Medicine,Wait Times,Asian,8,In Progress,False,2023-11,2023
+CMP-00453,2023-11-27,Waitakere Hospital,Orthopaedics,Wait Times,NZ European,6,Resolved,True,2023-11,2023
+CMP-00454,2023-11-28,North Shore Hospital,Older Adult Health,Facilities/Environment,Pacific Peoples,3,Resolved,True,2023-11,2023
+CMP-00455,2023-11-29,Waitakere Hospital,Older Adult Health,Discharge Process,Māori,30,Resolved,False,2023-11,2023
+CMP-00456,2023-11-30,Community Services North,Older Adult Health,Treatment/Care,Other,4,Resolved,False,2023-11,2023
+CMP-00457,2023-11-30,Waitakere Hospital,Older Adult Health,Treatment/Care,NZ European,10,Resolved,False,2023-11,2023
+CMP-00458,2023-12-02,Community Services West,Paediatrics,Staff Behaviour,NZ European,1,Resolved,False,2023-12,2023
+CMP-00459,2023-12-02,Community Services North,Maternity,Discharge Process,NZ European,6,Resolved,False,2023-12,2023
+CMP-00460,2023-12-05,North Shore Hospital,Paediatrics,Access to Services,Asian,28,In Progress,False,2023-12,2023
+CMP-00461,2023-12-05,Waitakere Hospital,Mental Health,Staff Behaviour,Māori,64,Resolved,False,2023-12,2023
+CMP-00462,2023-12-06,North Shore Hospital,Older Adult Health,Access to Services,Māori,5,Resolved,False,2023-12,2023
+CMP-00463,2023-12-07,Waitakere Hospital,General Medicine,Communication,NZ European,2,In Progress,True,2023-12,2023
+CMP-00464,2023-12-08,North Shore Hospital,Mental Health,Treatment/Care,Māori,4,Open,False,2023-12,2023
+CMP-00465,2023-12-10,Community Services West,Paediatrics,Communication,NZ European,4,Resolved,True,2023-12,2023
+CMP-00466,2023-12-11,Waitakere Hospital,Oncology,Communication,NZ European,12,Resolved,True,2023-12,2023
+CMP-00467,2023-12-12,Community Services North,Cardiology,Staff Behaviour,Asian,8,Resolved,False,2023-12,2023
+CMP-00468,2023-12-13,Community Services North,Emergency Department,Access to Services,NZ European,17,Resolved,False,2023-12,2023
+CMP-00469,2023-12-13,Community Services North,Oncology,Staff Behaviour,Pacific Peoples,14,Resolved,False,2023-12,2023
+CMP-00470,2023-12-14,Community Services North,General Surgery,Staff Behaviour,Asian,3,Resolved,False,2023-12,2023
+CMP-00471,2023-12-15,North Shore Hospital,Emergency Department,Communication,Other,18,Open,False,2023-12,2023
+CMP-00472,2023-12-15,Community Services North,Paediatrics,Staff Behaviour,Pacific Peoples,22,Resolved,True,2023-12,2023
+CMP-00473,2023-12-16,Waitakere Hospital,General Surgery,Wait Times,NZ European,10,Resolved,True,2023-12,2023
+CMP-00474,2023-12-16,Waitakere Hospital,Older Adult Health,Staff Behaviour,Māori,31,Resolved,False,2023-12,2023
+CMP-00475,2023-12-16,North Shore Hospital,General Medicine,Treatment/Care,NZ European,18,Resolved,False,2023-12,2023
+CMP-00476,2023-12-16,North Shore Hospital,Orthopaedics,Wait Times,NZ European,10,Resolved,False,2023-12,2023
+CMP-00477,2023-12-17,Community Services West,General Medicine,Treatment/Care,Pacific Peoples,28,Resolved,False,2023-12,2023
+CMP-00478,2023-12-17,North Shore Hospital,Orthopaedics,Wait Times,Asian,11,Resolved,False,2023-12,2023
+CMP-00479,2023-12-18,Waitakere Hospital,Emergency Department,Communication,NZ European,8,In Progress,False,2023-12,2023
+CMP-00480,2023-12-18,North Shore Hospital,Cardiology,Treatment/Care,NZ European,5,Resolved,False,2023-12,2023
+CMP-00481,2023-12-22,North Shore Hospital,Mental Health,Treatment/Care,Māori,25,Resolved,False,2023-12,2023
+CMP-00482,2023-12-22,North Shore Hospital,General Surgery,Facilities/Environment,NZ European,1,In Progress,False,2023-12,2023
+CMP-00483,2023-12-22,Waitakere Hospital,Oncology,Staff Behaviour,Māori,7,In Progress,False,2023-12,2023
+CMP-00484,2023-12-22,Community Services West,Orthopaedics,Discharge Process,NZ European,9,Resolved,False,2023-12,2023
+CMP-00485,2023-12-23,North Shore Hospital,Maternity,Staff Behaviour,NZ European,9,In Progress,False,2023-12,2023
+CMP-00486,2023-12-23,North Shore Hospital,Oncology,Treatment/Care,Māori,12,Resolved,False,2023-12,2023
+CMP-00487,2023-12-24,Waitakere Hospital,General Medicine,Facilities/Environment,Asian,8,Resolved,False,2023-12,2023
+CMP-00488,2023-12-25,Waitakere Hospital,Paediatrics,Wait Times,Pacific Peoples,3,Resolved,True,2023-12,2023
+CMP-00489,2023-12-27,Community Services West,General Surgery,Communication,Asian,23,Resolved,False,2023-12,2023
+CMP-00490,2023-12-27,Waitakere Hospital,Emergency Department,Facilities/Environment,NZ European,12,Resolved,False,2023-12,2023
+CMP-00491,2023-12-28,Waitakere Hospital,Oncology,Communication,Asian,23,Resolved,False,2023-12,2023
+CMP-00492,2023-12-30,Waitakere Hospital,Oncology,Communication,NZ European,3,In Progress,False,2023-12,2023
+CMP-00493,2023-12-31,Community Services North,Orthopaedics,Facilities/Environment,Asian,12,Resolved,False,2023-12,2023
+CMP-00494,2024-01-01,Waitakere Hospital,Oncology,Facilities/Environment,Māori,15,Resolved,False,2024-01,2024
+CMP-00495,2024-01-02,North Shore Hospital,Paediatrics,Facilities/Environment,NZ European,5,Resolved,False,2024-01,2024
+CMP-00496,2024-01-02,North Shore Hospital,Orthopaedics,Treatment/Care,NZ European,20,In Progress,True,2024-01,2024
+CMP-00497,2024-01-02,Community Services West,General Medicine,Access to Services,Māori,1,In Progress,False,2024-01,2024
+CMP-00498,2024-01-03,Community Services North,Mental Health,Facilities/Environment,NZ European,10,Resolved,False,2024-01,2024
+CMP-00499,2024-01-04,North Shore Hospital,Older Adult Health,Access to Services,Other,11,In Progress,False,2024-01,2024
+CMP-00500,2024-01-04,Community Services North,Cardiology,Staff Behaviour,NZ European,9,Open,False,2024-01,2024
+CMP-00501,2024-01-05,Waitakere Hospital,Cardiology,Wait Times,NZ European,11,In Progress,False,2024-01,2024
+CMP-00502,2024-01-06,Waitakere Hospital,Maternity,Communication,NZ European,2,Resolved,False,2024-01,2024
+CMP-00503,2024-01-06,North Shore Hospital,Mental Health,Staff Behaviour,NZ European,13,Resolved,False,2024-01,2024
+CMP-00504,2024-01-07,Community Services North,Orthopaedics,Staff Behaviour,Pacific Peoples,4,Resolved,False,2024-01,2024
+CMP-00505,2024-01-07,North Shore Hospital,Maternity,Treatment/Care,Māori,7,In Progress,False,2024-01,2024
+CMP-00506,2024-01-08,Community Services North,General Surgery,Facilities/Environment,Asian,4,In Progress,False,2024-01,2024
+CMP-00507,2024-01-09,North Shore Hospital,General Medicine,Wait Times,NZ European,7,Open,False,2024-01,2024
+CMP-00508,2024-01-10,Community Services North,Emergency Department,Wait Times,Other,11,Resolved,False,2024-01,2024
+CMP-00509,2024-01-13,North Shore Hospital,Oncology,Treatment/Care,NZ European,21,Resolved,False,2024-01,2024
+CMP-00510,2024-01-13,North Shore Hospital,Emergency Department,Communication,Other,7,Resolved,False,2024-01,2024
+CMP-00511,2024-01-16,North Shore Hospital,Orthopaedics,Communication,NZ European,4,Resolved,False,2024-01,2024
+CMP-00512,2024-01-16,North Shore Hospital,Maternity,Facilities/Environment,Pacific Peoples,8,Resolved,False,2024-01,2024
+CMP-00513,2024-01-17,Waitakere Hospital,Oncology,Treatment/Care,Māori,14,Resolved,False,2024-01,2024
+CMP-00514,2024-01-17,North Shore Hospital,Orthopaedics,Communication,NZ European,5,In Progress,False,2024-01,2024
+CMP-00515,2024-01-18,Community Services West,Paediatrics,Other,NZ European,6,Resolved,False,2024-01,2024
+CMP-00516,2024-01-20,Waitakere Hospital,Paediatrics,Communication,Māori,9,In Progress,False,2024-01,2024
+CMP-00517,2024-01-25,Waitakere Hospital,Maternity,Staff Behaviour,NZ European,4,Open,False,2024-01,2024
+CMP-00518,2024-01-27,North Shore Hospital,Oncology,Discharge Process,Māori,2,Resolved,False,2024-01,2024
+CMP-00519,2024-01-28,Waitakere Hospital,Cardiology,Wait Times,Māori,1,Resolved,False,2024-01,2024
+CMP-00520,2024-01-28,North Shore Hospital,Paediatrics,Facilities/Environment,Pacific Peoples,5,In Progress,False,2024-01,2024
+CMP-00521,2024-01-29,Community Services North,General Surgery,Other,Other,1,Open,False,2024-01,2024
+CMP-00522,2024-01-30,North Shore Hospital,Maternity,Access to Services,NZ European,10,Resolved,False,2024-01,2024
+CMP-00523,2024-01-30,Community Services North,Paediatrics,Wait Times,NZ European,2,Resolved,False,2024-01,2024
+CMP-00524,2024-01-31,Waitakere Hospital,Paediatrics,Treatment/Care,NZ European,5,Resolved,False,2024-01,2024
+CMP-00525,2024-02-01,Community Services West,Maternity,Wait Times,Pacific Peoples,3,Resolved,True,2024-02,2024
+CMP-00526,2024-02-02,North Shore Hospital,General Surgery,Access to Services,Other,11,Resolved,True,2024-02,2024
+CMP-00527,2024-02-02,North Shore Hospital,Maternity,Access to Services,Other,22,Open,False,2024-02,2024
+CMP-00528,2024-02-02,Waitakere Hospital,General Medicine,Access to Services,Other,12,Resolved,False,2024-02,2024
+CMP-00529,2024-02-03,Community Services West,Cardiology,Wait Times,Asian,9,Resolved,False,2024-02,2024
+CMP-00530,2024-02-04,Waitakere Hospital,Emergency Department,Wait Times,Other,13,In Progress,True,2024-02,2024
+CMP-00531,2024-02-06,North Shore Hospital,Older Adult Health,Treatment/Care,NZ European,1,Resolved,False,2024-02,2024
+CMP-00532,2024-02-07,Waitakere Hospital,General Surgery,Communication,Other,1,In Progress,False,2024-02,2024
+CMP-00533,2024-02-07,Community Services West,Older Adult Health,Facilities/Environment,Asian,1,Resolved,False,2024-02,2024
+CMP-00534,2024-02-07,North Shore Hospital,General Surgery,Treatment/Care,NZ European,1,Resolved,True,2024-02,2024
+CMP-00535,2024-02-08,North Shore Hospital,General Medicine,Treatment/Care,NZ European,3,Resolved,False,2024-02,2024
+CMP-00536,2024-02-09,Community Services North,Older Adult Health,Access to Services,NZ European,9,Resolved,False,2024-02,2024
+CMP-00537,2024-02-09,Community Services West,General Surgery,Communication,Asian,1,In Progress,False,2024-02,2024
+CMP-00538,2024-02-10,Community Services North,Older Adult Health,Discharge Process,Pacific Peoples,32,In Progress,False,2024-02,2024
+CMP-00539,2024-02-11,Community Services West,General Medicine,Communication,NZ European,23,Open,False,2024-02,2024
+CMP-00540,2024-02-11,North Shore Hospital,Orthopaedics,Discharge Process,Pacific Peoples,42,Resolved,False,2024-02,2024
+CMP-00541,2024-02-12,Waitakere Hospital,Oncology,Wait Times,NZ European,1,Open,True,2024-02,2024
+CMP-00542,2024-02-12,Community Services North,Emergency Department,Communication,Asian,22,Resolved,False,2024-02,2024
+CMP-00543,2024-02-12,Community Services North,General Medicine,Staff Behaviour,Asian,19,Resolved,False,2024-02,2024
+CMP-00544,2024-02-14,Community Services North,General Medicine,Access to Services,Other,27,Resolved,False,2024-02,2024
+CMP-00545,2024-02-15,Community Services West,Oncology,Treatment/Care,NZ European,9,Resolved,False,2024-02,2024
+CMP-00546,2024-02-16,Waitakere Hospital,Cardiology,Staff Behaviour,Other,18,Resolved,True,2024-02,2024
+CMP-00547,2024-02-17,North Shore Hospital,Mental Health,Other,NZ European,1,Resolved,False,2024-02,2024
+CMP-00548,2024-02-18,Waitakere Hospital,Orthopaedics,Communication,NZ European,1,Resolved,True,2024-02,2024
+CMP-00549,2024-02-19,Community Services North,Cardiology,Access to Services,Māori,1,Resolved,False,2024-02,2024
+CMP-00550,2024-02-19,North Shore Hospital,Cardiology,Treatment/Care,Māori,29,Resolved,False,2024-02,2024
+CMP-00551,2024-02-20,Community Services North,Orthopaedics,Treatment/Care,Other,1,Open,False,2024-02,2024
+CMP-00552,2024-02-20,North Shore Hospital,Paediatrics,Treatment/Care,Māori,1,Resolved,True,2024-02,2024
+CMP-00553,2024-02-22,North Shore Hospital,General Surgery,Treatment/Care,Other,31,Resolved,False,2024-02,2024
+CMP-00554,2024-02-23,Waitakere Hospital,Oncology,Communication,NZ European,1,Open,False,2024-02,2024
+CMP-00555,2024-02-24,Community Services North,Mental Health,Treatment/Care,NZ European,24,Resolved,False,2024-02,2024
+CMP-00556,2024-02-25,North Shore Hospital,Oncology,Treatment/Care,Māori,18,Resolved,True,2024-02,2024
+CMP-00557,2024-02-25,Community Services North,Emergency Department,Staff Behaviour,NZ European,1,In Progress,False,2024-02,2024
+CMP-00558,2024-02-26,Waitakere Hospital,Cardiology,Staff Behaviour,Other,1,Resolved,False,2024-02,2024
+CMP-00559,2024-02-28,North Shore Hospital,Older Adult Health,Wait Times,Pacific Peoples,9,In Progress,False,2024-02,2024
+CMP-00560,2024-02-28,North Shore Hospital,General Medicine,Treatment/Care,Māori,70,Resolved,False,2024-02,2024
+CMP-00561,2024-02-28,Community Services North,Older Adult Health,Discharge Process,Asian,25,Resolved,False,2024-02,2024
+CMP-00562,2024-02-29,Waitakere Hospital,Orthopaedics,Treatment/Care,Māori,4,Resolved,True,2024-02,2024
+CMP-00563,2024-03-01,Community Services West,General Medicine,Communication,NZ European,5,Resolved,False,2024-03,2024
+CMP-00564,2024-03-02,Waitakere Hospital,General Medicine,Wait Times,Māori,5,Resolved,False,2024-03,2024
+CMP-00565,2024-03-05,North Shore Hospital,Maternity,Facilities/Environment,Māori,15,Resolved,False,2024-03,2024
+CMP-00566,2024-03-06,North Shore Hospital,General Surgery,Communication,Other,5,Resolved,False,2024-03,2024
+CMP-00567,2024-03-07,North Shore Hospital,Cardiology,Treatment/Care,NZ European,1,Open,False,2024-03,2024
+CMP-00568,2024-03-07,Waitakere Hospital,General Surgery,Access to Services,Māori,16,In Progress,False,2024-03,2024
+CMP-00569,2024-03-07,Waitakere Hospital,Oncology,Wait Times,NZ European,7,In Progress,False,2024-03,2024
+CMP-00570,2024-03-07,Community Services North,Mental Health,Treatment/Care,NZ European,1,Resolved,False,2024-03,2024
+CMP-00571,2024-03-09,North Shore Hospital,Paediatrics,Discharge Process,Māori,18,Resolved,False,2024-03,2024
+CMP-00572,2024-03-09,North Shore Hospital,Mental Health,Communication,NZ European,10,Resolved,True,2024-03,2024
+CMP-00573,2024-03-10,North Shore Hospital,General Medicine,Staff Behaviour,Pacific Peoples,8,Resolved,False,2024-03,2024
+CMP-00574,2024-03-10,North Shore Hospital,Older Adult Health,Treatment/Care,Māori,13,In Progress,False,2024-03,2024
+CMP-00575,2024-03-11,Waitakere Hospital,Oncology,Communication,NZ European,8,Resolved,False,2024-03,2024
+CMP-00576,2024-03-11,Community Services West,General Medicine,Communication,Māori,12,In Progress,False,2024-03,2024
+CMP-00577,2024-03-12,Community Services North,General Medicine,Staff Behaviour,NZ European,24,In Progress,False,2024-03,2024
+CMP-00578,2024-03-12,Community Services North,Orthopaedics,Communication,Asian,11,Open,False,2024-03,2024
+CMP-00579,2024-03-12,North Shore Hospital,Older Adult Health,Wait Times,NZ European,12,Resolved,False,2024-03,2024
+CMP-00580,2024-03-13,North Shore Hospital,Mental Health,Discharge Process,NZ European,11,Open,False,2024-03,2024
+CMP-00581,2024-03-14,North Shore Hospital,Mental Health,Facilities/Environment,Māori,9,In Progress,False,2024-03,2024
+CMP-00582,2024-03-16,North Shore Hospital,Paediatrics,Treatment/Care,Other,2,Open,False,2024-03,2024
+CMP-00583,2024-03-16,Waitakere Hospital,Orthopaedics,Communication,Asian,4,Resolved,False,2024-03,2024
+CMP-00584,2024-03-16,North Shore Hospital,Oncology,Wait Times,NZ European,14,Resolved,False,2024-03,2024
+CMP-00585,2024-03-17,Community Services West,Orthopaedics,Treatment/Care,NZ European,6,Resolved,True,2024-03,2024
+CMP-00586,2024-03-17,Community Services West,Older Adult Health,Other,Māori,6,In Progress,True,2024-03,2024
+CMP-00587,2024-03-17,North Shore Hospital,General Surgery,Other,Asian,17,In Progress,False,2024-03,2024
+CMP-00588,2024-03-19,Community Services North,Maternity,Treatment/Care,NZ European,1,Resolved,False,2024-03,2024
+CMP-00589,2024-03-23,Community Services North,Emergency Department,Communication,NZ European,13,Open,False,2024-03,2024
+CMP-00590,2024-03-23,North Shore Hospital,Paediatrics,Discharge Process,NZ European,8,In Progress,False,2024-03,2024
+CMP-00591,2024-03-24,Community Services West,Paediatrics,Facilities/Environment,NZ European,5,Resolved,False,2024-03,2024
+CMP-00592,2024-03-25,North Shore Hospital,General Medicine,Wait Times,Māori,4,Resolved,False,2024-03,2024
+CMP-00593,2024-03-28,Community Services North,Mental Health,Treatment/Care,NZ European,2,Resolved,True,2024-03,2024
+CMP-00594,2024-03-29,North Shore Hospital,Orthopaedics,Treatment/Care,NZ European,4,Open,False,2024-03,2024
+CMP-00595,2024-03-30,Waitakere Hospital,Cardiology,Discharge Process,NZ European,5,Resolved,False,2024-03,2024
+CMP-00596,2024-03-31,Waitakere Hospital,Oncology,Communication,NZ European,6,Open,False,2024-03,2024
+CMP-00597,2024-04-01,Community Services West,General Medicine,Facilities/Environment,NZ European,13,Resolved,False,2024-04,2024
+CMP-00598,2024-04-01,North Shore Hospital,General Surgery,Communication,Māori,7,Resolved,True,2024-04,2024
+CMP-00599,2024-04-02,North Shore Hospital,Emergency Department,Discharge Process,Other,19,Resolved,False,2024-04,2024
+CMP-00600,2024-04-03,Waitakere Hospital,Cardiology,Wait Times,NZ European,12,Resolved,True,2024-04,2024
+CMP-00601,2024-04-03,North Shore Hospital,Mental Health,Communication,Pacific Peoples,2,Resolved,False,2024-04,2024
+CMP-00602,2024-04-04,Community Services North,General Surgery,Communication,Asian,3,Resolved,False,2024-04,2024
+CMP-00603,2024-04-04,Community Services North,Orthopaedics,Wait Times,NZ European,1,Resolved,True,2024-04,2024
+CMP-00604,2024-04-06,Community Services West,Orthopaedics,Communication,NZ European,34,Resolved,False,2024-04,2024
+CMP-00605,2024-04-06,Community Services North,Maternity,Staff Behaviour,NZ European,26,Resolved,False,2024-04,2024
+CMP-00606,2024-04-07,Community Services West,Cardiology,Treatment/Care,Pacific Peoples,1,Resolved,False,2024-04,2024
+CMP-00607,2024-04-07,Community Services North,Paediatrics,Communication,Māori,10,Resolved,False,2024-04,2024
+CMP-00608,2024-04-07,Community Services West,Paediatrics,Wait Times,NZ European,38,Resolved,True,2024-04,2024
+CMP-00609,2024-04-09,North Shore Hospital,Older Adult Health,Wait Times,Asian,16,Open,False,2024-04,2024
+CMP-00610,2024-04-09,Waitakere Hospital,General Surgery,Wait Times,Pacific Peoples,8,Resolved,False,2024-04,2024
+CMP-00611,2024-04-09,Community Services West,Mental Health,Wait Times,NZ European,3,Resolved,True,2024-04,2024
+CMP-00612,2024-04-09,Community Services North,Cardiology,Wait Times,Asian,3,In Progress,False,2024-04,2024
+CMP-00613,2024-04-10,Community Services West,Maternity,Wait Times,NZ European,15,Open,False,2024-04,2024
+CMP-00614,2024-04-11,North Shore Hospital,Maternity,Communication,Pacific Peoples,18,Resolved,False,2024-04,2024
+CMP-00615,2024-04-12,Community Services West,Older Adult Health,Communication,NZ European,9,Resolved,False,2024-04,2024
+CMP-00616,2024-04-13,Community Services North,Mental Health,Communication,Pacific Peoples,1,In Progress,False,2024-04,2024
+CMP-00617,2024-04-14,North Shore Hospital,Mental Health,Staff Behaviour,NZ European,32,In Progress,False,2024-04,2024
+CMP-00618,2024-04-14,North Shore Hospital,Emergency Department,Wait Times,Māori,22,Resolved,False,2024-04,2024
+CMP-00619,2024-04-15,North Shore Hospital,Emergency Department,Treatment/Care,NZ European,1,Resolved,False,2024-04,2024
+CMP-00620,2024-04-16,Community Services West,Maternity,Facilities/Environment,Pacific Peoples,1,Resolved,False,2024-04,2024
+CMP-00621,2024-04-16,Community Services North,Cardiology,Treatment/Care,NZ European,9,Resolved,False,2024-04,2024
+CMP-00622,2024-04-17,Community Services West,Cardiology,Wait Times,NZ European,4,In Progress,False,2024-04,2024
+CMP-00623,2024-04-19,Waitakere Hospital,Mental Health,Communication,NZ European,3,Resolved,False,2024-04,2024
+CMP-00624,2024-04-20,Community Services West,Cardiology,Facilities/Environment,NZ European,1,Resolved,False,2024-04,2024
+CMP-00625,2024-04-20,Waitakere Hospital,Maternity,Staff Behaviour,Pacific Peoples,36,In Progress,False,2024-04,2024
+CMP-00626,2024-04-20,North Shore Hospital,Oncology,Facilities/Environment,Other,21,Resolved,False,2024-04,2024
+CMP-00627,2024-04-21,North Shore Hospital,Older Adult Health,Access to Services,Asian,1,Resolved,False,2024-04,2024
+CMP-00628,2024-04-21,Community Services West,Paediatrics,Facilities/Environment,Asian,25,Resolved,False,2024-04,2024
+CMP-00629,2024-04-21,North Shore Hospital,Paediatrics,Access to Services,NZ European,13,Resolved,False,2024-04,2024
+CMP-00630,2024-04-22,North Shore Hospital,Maternity,Treatment/Care,NZ European,4,Open,False,2024-04,2024
+CMP-00631,2024-04-25,North Shore Hospital,Maternity,Treatment/Care,Māori,24,Resolved,False,2024-04,2024
+CMP-00632,2024-04-29,North Shore Hospital,Emergency Department,Discharge Process,Other,10,Resolved,False,2024-04,2024
+CMP-00633,2024-04-30,Community Services West,Paediatrics,Discharge Process,Pacific Peoples,22,Resolved,False,2024-04,2024
+CMP-00634,2024-05-01,Waitakere Hospital,Mental Health,Wait Times,NZ European,7,Open,True,2024-05,2024
+CMP-00635,2024-05-01,Waitakere Hospital,Paediatrics,Treatment/Care,NZ European,8,Resolved,False,2024-05,2024
+CMP-00636,2024-05-02,Community Services West,Maternity,Access to Services,NZ European,4,Resolved,False,2024-05,2024
+CMP-00637,2024-05-02,Waitakere Hospital,Older Adult Health,Treatment/Care,NZ European,5,Open,False,2024-05,2024
+CMP-00638,2024-05-02,Community Services West,General Surgery,Communication,Pacific Peoples,10,In Progress,False,2024-05,2024
+CMP-00639,2024-05-03,North Shore Hospital,Older Adult Health,Staff Behaviour,NZ European,35,Open,False,2024-05,2024
+CMP-00640,2024-05-03,Community Services West,Paediatrics,Communication,Asian,10,Resolved,False,2024-05,2024
+CMP-00641,2024-05-04,North Shore Hospital,Emergency Department,Treatment/Care,Other,1,Resolved,False,2024-05,2024
+CMP-00642,2024-05-05,Community Services North,General Surgery,Facilities/Environment,Asian,1,Resolved,False,2024-05,2024
+CMP-00643,2024-05-05,Community Services North,Cardiology,Treatment/Care,Other,22,In Progress,False,2024-05,2024
+CMP-00644,2024-05-06,North Shore Hospital,Orthopaedics,Discharge Process,NZ European,5,In Progress,False,2024-05,2024
+CMP-00645,2024-05-06,Waitakere Hospital,Oncology,Discharge Process,Other,4,In Progress,True,2024-05,2024
+CMP-00646,2024-05-07,North Shore Hospital,Maternity,Facilities/Environment,NZ European,19,Open,False,2024-05,2024
+CMP-00647,2024-05-10,North Shore Hospital,Paediatrics,Other,Asian,34,Resolved,False,2024-05,2024
+CMP-00648,2024-05-11,Waitakere Hospital,Mental Health,Wait Times,NZ European,16,Open,False,2024-05,2024
+CMP-00649,2024-05-11,Community Services West,General Surgery,Wait Times,NZ European,2,Open,False,2024-05,2024
+CMP-00650,2024-05-11,Waitakere Hospital,Mental Health,Access to Services,NZ European,5,In Progress,False,2024-05,2024
+CMP-00651,2024-05-11,Waitakere Hospital,Paediatrics,Wait Times,NZ European,17,In Progress,False,2024-05,2024
+CMP-00652,2024-05-12,North Shore Hospital,Oncology,Treatment/Care,Other,28,Resolved,False,2024-05,2024
+CMP-00653,2024-05-13,North Shore Hospital,Oncology,Staff Behaviour,Asian,78,Resolved,False,2024-05,2024
+CMP-00654,2024-05-13,Waitakere Hospital,Older Adult Health,Staff Behaviour,Māori,8,Resolved,False,2024-05,2024
+CMP-00655,2024-05-13,Community Services West,Mental Health,Facilities/Environment,Māori,20,Resolved,False,2024-05,2024
+CMP-00656,2024-05-14,Community Services West,Paediatrics,Staff Behaviour,Pacific Peoples,1,Resolved,False,2024-05,2024
+CMP-00657,2024-05-14,North Shore Hospital,Orthopaedics,Facilities/Environment,NZ European,4,In Progress,False,2024-05,2024
+CMP-00658,2024-05-14,Waitakere Hospital,Cardiology,Staff Behaviour,Asian,5,In Progress,False,2024-05,2024
+CMP-00659,2024-05-15,Waitakere Hospital,Mental Health,Wait Times,Māori,44,Open,False,2024-05,2024
+CMP-00660,2024-05-15,Community Services North,Orthopaedics,Communication,Pacific Peoples,1,Resolved,True,2024-05,2024
+CMP-00661,2024-05-15,Community Services North,General Surgery,Facilities/Environment,Other,4,Resolved,False,2024-05,2024
+CMP-00662,2024-05-15,Community Services North,Emergency Department,Communication,Māori,31,Resolved,False,2024-05,2024
+CMP-00663,2024-05-15,North Shore Hospital,Mental Health,Other,NZ European,4,Resolved,False,2024-05,2024
+CMP-00664,2024-05-15,Community Services West,General Medicine,Access to Services,Other,3,Resolved,True,2024-05,2024
+CMP-00665,2024-05-16,North Shore Hospital,Maternity,Staff Behaviour,Other,15,In Progress,False,2024-05,2024
+CMP-00666,2024-05-16,Waitakere Hospital,Mental Health,Discharge Process,Other,16,Resolved,False,2024-05,2024
+CMP-00667,2024-05-17,Community Services West,General Medicine,Staff Behaviour,Māori,7,Resolved,False,2024-05,2024
+CMP-00668,2024-05-17,Waitakere Hospital,Older Adult Health,Communication,NZ European,35,Resolved,False,2024-05,2024
+CMP-00669,2024-05-18,North Shore Hospital,Mental Health,Wait Times,NZ European,2,In Progress,False,2024-05,2024
+CMP-00670,2024-05-19,North Shore Hospital,General Medicine,Treatment/Care,NZ European,29,In Progress,False,2024-05,2024
+CMP-00671,2024-05-20,Waitakere Hospital,Emergency Department,Treatment/Care,Pacific Peoples,16,In Progress,False,2024-05,2024
+CMP-00672,2024-05-21,North Shore Hospital,General Medicine,Wait Times,NZ European,5,Open,False,2024-05,2024
+CMP-00673,2024-05-21,Waitakere Hospital,Emergency Department,Facilities/Environment,Māori,19,Resolved,False,2024-05,2024
+CMP-00674,2024-05-21,North Shore Hospital,Cardiology,Wait Times,Other,1,In Progress,False,2024-05,2024
+CMP-00675,2024-05-22,Community Services North,Cardiology,Wait Times,Other,1,Resolved,False,2024-05,2024
+CMP-00676,2024-05-22,North Shore Hospital,General Surgery,Treatment/Care,NZ European,31,Resolved,False,2024-05,2024
+CMP-00677,2024-05-24,Community Services North,General Surgery,Wait Times,NZ European,1,Resolved,False,2024-05,2024
+CMP-00678,2024-05-24,Waitakere Hospital,Cardiology,Communication,Asian,1,Open,False,2024-05,2024
+CMP-00679,2024-05-25,Waitakere Hospital,Emergency Department,Treatment/Care,Māori,5,In Progress,False,2024-05,2024
+CMP-00680,2024-05-25,North Shore Hospital,Paediatrics,Facilities/Environment,Asian,1,Resolved,False,2024-05,2024
+CMP-00681,2024-05-26,Waitakere Hospital,Cardiology,Treatment/Care,Asian,23,Resolved,False,2024-05,2024
+CMP-00682,2024-05-28,Community Services North,Paediatrics,Communication,NZ European,30,In Progress,True,2024-05,2024
+CMP-00683,2024-05-29,North Shore Hospital,Oncology,Treatment/Care,NZ European,7,Resolved,False,2024-05,2024
+CMP-00684,2024-05-29,Community Services North,Mental Health,Staff Behaviour,Māori,6,Open,False,2024-05,2024
+CMP-00685,2024-05-29,Community Services West,Orthopaedics,Facilities/Environment,Pacific Peoples,9,Resolved,False,2024-05,2024
+CMP-00686,2024-05-30,North Shore Hospital,Mental Health,Discharge Process,NZ European,3,Resolved,False,2024-05,2024
+CMP-00687,2024-05-31,Waitakere Hospital,Older Adult Health,Facilities/Environment,Asian,4,Resolved,False,2024-05,2024
+CMP-00688,2024-05-31,Waitakere Hospital,Older Adult Health,Treatment/Care,Other,1,Resolved,False,2024-05,2024
+CMP-00689,2024-06-01,North Shore Hospital,Orthopaedics,Treatment/Care,NZ European,7,Open,True,2024-06,2024
+CMP-00690,2024-06-05,North Shore Hospital,Older Adult Health,Communication,Other,11,In Progress,False,2024-06,2024
+CMP-00691,2024-06-08,Community Services West,Orthopaedics,Staff Behaviour,Māori,31,Resolved,False,2024-06,2024
+CMP-00692,2024-06-09,Waitakere Hospital,Orthopaedics,Wait Times,Asian,16,In Progress,True,2024-06,2024
+CMP-00693,2024-06-09,Community Services West,Older Adult Health,Staff Behaviour,NZ European,15,Open,True,2024-06,2024
+CMP-00694,2024-06-10,Community Services North,General Medicine,Communication,NZ European,4,Resolved,False,2024-06,2024
+CMP-00695,2024-06-11,North Shore Hospital,Orthopaedics,Treatment/Care,NZ European,26,Resolved,True,2024-06,2024
+CMP-00696,2024-06-11,North Shore Hospital,Emergency Department,Treatment/Care,NZ European,35,Resolved,False,2024-06,2024
+CMP-00697,2024-06-14,Community Services North,Emergency Department,Facilities/Environment,NZ European,32,Resolved,False,2024-06,2024
+CMP-00698,2024-06-15,Waitakere Hospital,Older Adult Health,Communication,Asian,1,Resolved,False,2024-06,2024
+CMP-00699,2024-06-15,North Shore Hospital,Orthopaedics,Staff Behaviour,NZ European,11,In Progress,False,2024-06,2024
+CMP-00700,2024-06-16,Waitakere Hospital,Maternity,Communication,Other,12,Resolved,False,2024-06,2024
+CMP-00701,2024-06-17,Community Services North,Mental Health,Wait Times,Māori,4,Resolved,True,2024-06,2024
+CMP-00702,2024-06-17,Community Services North,Cardiology,Communication,NZ European,58,Resolved,False,2024-06,2024
+CMP-00703,2024-06-17,North Shore Hospital,Maternity,Communication,Māori,4,Resolved,False,2024-06,2024
+CMP-00704,2024-06-18,North Shore Hospital,Orthopaedics,Communication,Other,2,Resolved,False,2024-06,2024
+CMP-00705,2024-06-18,Community Services West,Orthopaedics,Treatment/Care,Māori,7,Resolved,False,2024-06,2024
+CMP-00706,2024-06-20,Community Services West,Paediatrics,Treatment/Care,NZ European,4,Resolved,False,2024-06,2024
+CMP-00707,2024-06-21,North Shore Hospital,Emergency Department,Access to Services,Other,30,Resolved,False,2024-06,2024
+CMP-00708,2024-06-21,Community Services North,Oncology,Communication,NZ European,6,Resolved,False,2024-06,2024
+CMP-00709,2024-06-21,North Shore Hospital,Cardiology,Communication,Pacific Peoples,6,Resolved,False,2024-06,2024
+CMP-00710,2024-06-21,North Shore Hospital,General Surgery,Staff Behaviour,Māori,11,Resolved,False,2024-06,2024
+CMP-00711,2024-06-21,North Shore Hospital,Orthopaedics,Staff Behaviour,NZ European,1,Resolved,True,2024-06,2024
+CMP-00712,2024-06-22,North Shore Hospital,Oncology,Treatment/Care,NZ European,16,Resolved,False,2024-06,2024
+CMP-00713,2024-06-22,Community Services West,Mental Health,Staff Behaviour,Other,17,Resolved,True,2024-06,2024
+CMP-00714,2024-06-22,Waitakere Hospital,Orthopaedics,Facilities/Environment,Other,7,Resolved,False,2024-06,2024
+CMP-00715,2024-06-22,North Shore Hospital,Maternity,Treatment/Care,Māori,37,Resolved,False,2024-06,2024
+CMP-00716,2024-06-23,Community Services West,Emergency Department,Wait Times,NZ European,10,Resolved,False,2024-06,2024
+CMP-00717,2024-06-23,Community Services North,Cardiology,Communication,NZ European,14,In Progress,True,2024-06,2024
+CMP-00718,2024-06-24,North Shore Hospital,Emergency Department,Communication,NZ European,30,Resolved,True,2024-06,2024
+CMP-00719,2024-06-24,Waitakere Hospital,Mental Health,Other,Māori,13,Resolved,False,2024-06,2024
+CMP-00720,2024-06-24,Community Services North,Mental Health,Treatment/Care,NZ European,6,Resolved,False,2024-06,2024
+CMP-00721,2024-06-24,Community Services North,Oncology,Treatment/Care,NZ European,1,In Progress,False,2024-06,2024
+CMP-00722,2024-06-25,Community Services North,Emergency Department,Other,Māori,15,In Progress,False,2024-06,2024
+CMP-00723,2024-06-25,North Shore Hospital,General Surgery,Facilities/Environment,Pacific Peoples,40,Resolved,False,2024-06,2024
+CMP-00724,2024-06-26,North Shore Hospital,General Surgery,Wait Times,Asian,7,Resolved,False,2024-06,2024
+CMP-00725,2024-06-26,Community Services West,Orthopaedics,Staff Behaviour,Māori,4,Resolved,False,2024-06,2024
+CMP-00726,2024-06-26,Community Services West,Paediatrics,Staff Behaviour,Pacific Peoples,8,Resolved,False,2024-06,2024
+CMP-00727,2024-06-27,North Shore Hospital,Paediatrics,Facilities/Environment,NZ European,15,Resolved,False,2024-06,2024
+CMP-00728,2024-06-27,North Shore Hospital,Cardiology,Communication,Māori,1,Resolved,False,2024-06,2024
+CMP-00729,2024-06-29,Community Services West,Mental Health,Treatment/Care,Pacific Peoples,26,Resolved,False,2024-06,2024
+CMP-00730,2024-06-30,Waitakere Hospital,Oncology,Treatment/Care,Pacific Peoples,26,Resolved,False,2024-06,2024
+CMP-00731,2024-06-30,North Shore Hospital,Paediatrics,Communication,NZ European,9,Resolved,True,2024-06,2024
+CMP-00732,2024-06-30,North Shore Hospital,General Medicine,Treatment/Care,Māori,1,In Progress,False,2024-06,2024
+CMP-00733,2024-07-01,Waitakere Hospital,General Surgery,Staff Behaviour,Other,13,Resolved,False,2024-07,2024
+CMP-00734,2024-07-02,Waitakere Hospital,Paediatrics,Communication,Pacific Peoples,1,Open,False,2024-07,2024
+CMP-00735,2024-07-05,Waitakere Hospital,Mental Health,Treatment/Care,Pacific Peoples,8,Resolved,False,2024-07,2024
+CMP-00736,2024-07-06,North Shore Hospital,Paediatrics,Staff Behaviour,Asian,1,Resolved,False,2024-07,2024
+CMP-00737,2024-07-06,Community Services West,Oncology,Wait Times,NZ European,10,In Progress,False,2024-07,2024
+CMP-00738,2024-07-07,Community Services West,Oncology,Access to Services,Māori,4,Resolved,False,2024-07,2024
+CMP-00739,2024-07-07,Community Services West,General Surgery,Facilities/Environment,Other,21,Resolved,False,2024-07,2024
+CMP-00740,2024-07-08,Community Services West,Older Adult Health,Discharge Process,NZ European,19,Resolved,False,2024-07,2024
+CMP-00741,2024-07-08,Community Services North,Maternity,Wait Times,NZ European,77,Resolved,False,2024-07,2024
+CMP-00742,2024-07-09,North Shore Hospital,Orthopaedics,Staff Behaviour,Māori,3,Resolved,False,2024-07,2024
+CMP-00743,2024-07-09,North Shore Hospital,Orthopaedics,Access to Services,NZ European,1,Resolved,False,2024-07,2024
+CMP-00744,2024-07-09,North Shore Hospital,Orthopaedics,Access to Services,Māori,7,Resolved,True,2024-07,2024
+CMP-00745,2024-07-09,North Shore Hospital,Paediatrics,Staff Behaviour,NZ European,1,Resolved,False,2024-07,2024
+CMP-00746,2024-07-10,Waitakere Hospital,Maternity,Wait Times,Māori,2,Resolved,False,2024-07,2024
+CMP-00747,2024-07-10,Community Services West,General Medicine,Treatment/Care,Māori,10,Resolved,False,2024-07,2024
+CMP-00748,2024-07-10,Waitakere Hospital,Mental Health,Access to Services,NZ European,10,Open,True,2024-07,2024
+CMP-00749,2024-07-11,Waitakere Hospital,Mental Health,Facilities/Environment,NZ European,1,Resolved,False,2024-07,2024
+CMP-00750,2024-07-12,Community Services North,Maternity,Access to Services,NZ European,7,Resolved,False,2024-07,2024
+CMP-00751,2024-07-13,North Shore Hospital,Paediatrics,Communication,NZ European,9,In Progress,False,2024-07,2024
+CMP-00752,2024-07-13,Community Services West,Older Adult Health,Treatment/Care,Māori,3,Resolved,False,2024-07,2024
+CMP-00753,2024-07-14,Waitakere Hospital,Cardiology,Treatment/Care,NZ European,24,Resolved,True,2024-07,2024
+CMP-00754,2024-07-16,North Shore Hospital,Older Adult Health,Access to Services,Asian,2,Resolved,False,2024-07,2024
+CMP-00755,2024-07-16,Community Services West,Mental Health,Access to Services,Pacific Peoples,3,Resolved,False,2024-07,2024
+CMP-00756,2024-07-16,Waitakere Hospital,General Medicine,Treatment/Care,NZ European,2,Resolved,False,2024-07,2024
+CMP-00757,2024-07-20,Waitakere Hospital,Cardiology,Staff Behaviour,NZ European,1,Resolved,False,2024-07,2024
+CMP-00758,2024-07-21,Waitakere Hospital,Older Adult Health,Communication,NZ European,25,Resolved,False,2024-07,2024
+CMP-00759,2024-07-21,Community Services North,Maternity,Treatment/Care,Māori,3,Resolved,False,2024-07,2024
+CMP-00760,2024-07-21,North Shore Hospital,General Surgery,Wait Times,NZ European,15,Open,False,2024-07,2024
+CMP-00761,2024-07-21,Community Services West,Orthopaedics,Facilities/Environment,NZ European,6,Resolved,False,2024-07,2024
+CMP-00762,2024-07-22,Community Services West,Emergency Department,Access to Services,NZ European,12,In Progress,False,2024-07,2024
+CMP-00763,2024-07-23,Waitakere Hospital,General Surgery,Treatment/Care,Other,31,Open,False,2024-07,2024
+CMP-00764,2024-07-23,Community Services North,Orthopaedics,Wait Times,Pacific Peoples,22,Resolved,False,2024-07,2024
+CMP-00765,2024-07-24,Community Services West,General Medicine,Staff Behaviour,Asian,1,Resolved,False,2024-07,2024
+CMP-00766,2024-07-25,Waitakere Hospital,Maternity,Treatment/Care,NZ European,22,Resolved,False,2024-07,2024
+CMP-00767,2024-07-25,Community Services West,Older Adult Health,Other,NZ European,7,Resolved,False,2024-07,2024
+CMP-00768,2024-07-25,Community Services North,Maternity,Access to Services,NZ European,5,Open,False,2024-07,2024
+CMP-00769,2024-07-25,Waitakere Hospital,Cardiology,Treatment/Care,Other,13,Resolved,False,2024-07,2024
+CMP-00770,2024-07-25,Community Services North,General Surgery,Wait Times,NZ European,35,Resolved,False,2024-07,2024
+CMP-00771,2024-07-26,Waitakere Hospital,Oncology,Communication,Māori,1,Resolved,False,2024-07,2024
+CMP-00772,2024-07-26,North Shore Hospital,Orthopaedics,Wait Times,NZ European,17,Resolved,False,2024-07,2024
+CMP-00773,2024-07-27,Community Services North,Maternity,Staff Behaviour,Pacific Peoples,2,Resolved,False,2024-07,2024
+CMP-00774,2024-07-27,Waitakere Hospital,Orthopaedics,Communication,NZ European,5,Resolved,False,2024-07,2024
+CMP-00775,2024-07-27,Community Services North,Orthopaedics,Access to Services,Māori,24,Resolved,False,2024-07,2024
+CMP-00776,2024-07-29,North Shore Hospital,General Medicine,Wait Times,Other,9,Resolved,False,2024-07,2024
+CMP-00777,2024-07-31,Waitakere Hospital,Cardiology,Other,NZ European,1,Resolved,False,2024-07,2024
+CMP-00778,2024-07-31,Community Services North,General Medicine,Communication,Māori,8,Resolved,True,2024-07,2024
+CMP-00779,2024-08-01,Community Services West,General Medicine,Access to Services,Māori,18,Resolved,True,2024-08,2024
+CMP-00780,2024-08-02,Community Services West,General Medicine,Facilities/Environment,Asian,9,Resolved,False,2024-08,2024
+CMP-00781,2024-08-02,Community Services West,Older Adult Health,Communication,NZ European,2,Resolved,False,2024-08,2024
+CMP-00782,2024-08-02,North Shore Hospital,Cardiology,Treatment/Care,NZ European,7,Resolved,False,2024-08,2024
+CMP-00783,2024-08-03,Community Services West,Orthopaedics,Access to Services,Asian,30,Resolved,False,2024-08,2024
+CMP-00784,2024-08-03,North Shore Hospital,Orthopaedics,Wait Times,NZ European,12,Resolved,False,2024-08,2024
+CMP-00785,2024-08-04,North Shore Hospital,Cardiology,Treatment/Care,Other,15,Resolved,False,2024-08,2024
+CMP-00786,2024-08-04,North Shore Hospital,Cardiology,Discharge Process,Pacific Peoples,18,Resolved,False,2024-08,2024
+CMP-00787,2024-08-05,Community Services West,General Surgery,Communication,Māori,1,Resolved,True,2024-08,2024
+CMP-00788,2024-08-05,North Shore Hospital,Mental Health,Wait Times,NZ European,10,Resolved,False,2024-08,2024
+CMP-00789,2024-08-06,North Shore Hospital,Orthopaedics,Staff Behaviour,Pacific Peoples,5,Resolved,False,2024-08,2024
+CMP-00790,2024-08-06,North Shore Hospital,Paediatrics,Staff Behaviour,Pacific Peoples,1,Resolved,False,2024-08,2024
+CMP-00791,2024-08-06,Waitakere Hospital,Cardiology,Treatment/Care,Pacific Peoples,2,Open,True,2024-08,2024
+CMP-00792,2024-08-07,Community Services West,Paediatrics,Wait Times,NZ European,18,Resolved,False,2024-08,2024
+CMP-00793,2024-08-07,Waitakere Hospital,Maternity,Staff Behaviour,Other,2,Resolved,True,2024-08,2024
+CMP-00794,2024-08-07,Waitakere Hospital,Paediatrics,Wait Times,NZ European,4,Resolved,False,2024-08,2024
+CMP-00795,2024-08-08,North Shore Hospital,Paediatrics,Staff Behaviour,NZ European,4,Resolved,False,2024-08,2024
+CMP-00796,2024-08-09,North Shore Hospital,Older Adult Health,Treatment/Care,Other,1,Resolved,True,2024-08,2024
+CMP-00797,2024-08-09,North Shore Hospital,Emergency Department,Access to Services,Pacific Peoples,7,Resolved,True,2024-08,2024
+CMP-00798,2024-08-09,Waitakere Hospital,General Surgery,Treatment/Care,NZ European,17,Resolved,False,2024-08,2024
+CMP-00799,2024-08-09,Waitakere Hospital,General Surgery,Other,Other,1,In Progress,False,2024-08,2024
+CMP-00800,2024-08-09,North Shore Hospital,Mental Health,Communication,NZ European,1,Resolved,True,2024-08,2024
+CMP-00801,2024-08-10,Community Services West,Cardiology,Treatment/Care,NZ European,15,In Progress,False,2024-08,2024
+CMP-00802,2024-08-10,Community Services West,Paediatrics,Communication,Pacific Peoples,10,In Progress,False,2024-08,2024
+CMP-00803,2024-08-10,North Shore Hospital,Cardiology,Wait Times,NZ European,15,In Progress,False,2024-08,2024
+CMP-00804,2024-08-10,North Shore Hospital,Maternity,Communication,Other,3,In Progress,True,2024-08,2024
+CMP-00805,2024-08-13,Community Services North,Orthopaedics,Facilities/Environment,Asian,19,Resolved,False,2024-08,2024
+CMP-00806,2024-08-13,North Shore Hospital,Maternity,Access to Services,NZ European,7,Resolved,False,2024-08,2024
+CMP-00807,2024-08-14,Waitakere Hospital,Paediatrics,Communication,Asian,11,Resolved,True,2024-08,2024
+CMP-00808,2024-08-14,Waitakere Hospital,Orthopaedics,Communication,NZ European,1,Resolved,False,2024-08,2024
+CMP-00809,2024-08-15,Community Services West,Older Adult Health,Access to Services,Māori,2,Resolved,False,2024-08,2024
+CMP-00810,2024-08-16,Community Services North,Mental Health,Treatment/Care,Other,17,In Progress,False,2024-08,2024
+CMP-00811,2024-08-17,North Shore Hospital,General Surgery,Treatment/Care,Asian,3,Resolved,True,2024-08,2024
+CMP-00812,2024-08-17,North Shore Hospital,General Medicine,Communication,NZ European,1,Resolved,False,2024-08,2024
+CMP-00813,2024-08-17,North Shore Hospital,Emergency Department,Treatment/Care,NZ European,10,Resolved,False,2024-08,2024
+CMP-00814,2024-08-17,North Shore Hospital,Orthopaedics,Communication,NZ European,9,Resolved,False,2024-08,2024
+CMP-00815,2024-08-19,Waitakere Hospital,General Medicine,Staff Behaviour,Māori,11,Resolved,False,2024-08,2024
+CMP-00816,2024-08-19,Community Services West,General Surgery,Wait Times,Māori,11,Resolved,False,2024-08,2024
+CMP-00817,2024-08-21,North Shore Hospital,Emergency Department,Facilities/Environment,NZ European,8,In Progress,False,2024-08,2024
+CMP-00818,2024-08-22,Waitakere Hospital,Maternity,Treatment/Care,NZ European,8,Resolved,False,2024-08,2024
+CMP-00819,2024-08-23,North Shore Hospital,Orthopaedics,Wait Times,Asian,30,Resolved,False,2024-08,2024
+CMP-00820,2024-08-23,North Shore Hospital,Mental Health,Treatment/Care,NZ European,9,Resolved,True,2024-08,2024
+CMP-00821,2024-08-23,Community Services West,Older Adult Health,Discharge Process,NZ European,11,In Progress,False,2024-08,2024
+CMP-00822,2024-08-25,North Shore Hospital,Orthopaedics,Wait Times,Other,3,Resolved,True,2024-08,2024
+CMP-00823,2024-08-25,North Shore Hospital,Maternity,Communication,NZ European,24,Open,False,2024-08,2024
+CMP-00824,2024-08-26,North Shore Hospital,General Surgery,Treatment/Care,Asian,1,In Progress,False,2024-08,2024
+CMP-00825,2024-08-26,Waitakere Hospital,Older Adult Health,Communication,NZ European,9,Resolved,True,2024-08,2024
+CMP-00826,2024-08-27,Community Services West,General Surgery,Communication,NZ European,5,Resolved,True,2024-08,2024
+CMP-00827,2024-08-28,North Shore Hospital,Paediatrics,Wait Times,Māori,11,Resolved,False,2024-08,2024
+CMP-00828,2024-08-29,Waitakere Hospital,Paediatrics,Treatment/Care,Māori,5,Resolved,False,2024-08,2024
+CMP-00829,2024-08-29,North Shore Hospital,General Surgery,Discharge Process,Māori,15,In Progress,False,2024-08,2024
+CMP-00830,2024-08-29,Community Services North,General Surgery,Communication,NZ European,1,Resolved,False,2024-08,2024
+CMP-00831,2024-08-30,Waitakere Hospital,Cardiology,Facilities/Environment,Māori,6,In Progress,False,2024-08,2024
+CMP-00832,2024-08-30,Community Services North,Cardiology,Treatment/Care,Māori,21,Resolved,False,2024-08,2024
+CMP-00833,2024-08-31,Waitakere Hospital,Older Adult Health,Communication,NZ European,3,Resolved,False,2024-08,2024
+CMP-00834,2024-09-01,Community Services West,General Surgery,Discharge Process,Other,1,Resolved,False,2024-09,2024
+CMP-00835,2024-09-01,Waitakere Hospital,General Medicine,Facilities/Environment,Asian,8,Resolved,False,2024-09,2024
+CMP-00836,2024-09-03,Waitakere Hospital,Mental Health,Staff Behaviour,Asian,45,Resolved,False,2024-09,2024
+CMP-00837,2024-09-03,Community Services North,Paediatrics,Staff Behaviour,Pacific Peoples,1,Resolved,True,2024-09,2024
+CMP-00838,2024-09-04,Waitakere Hospital,Older Adult Health,Other,NZ European,1,Resolved,True,2024-09,2024
+CMP-00839,2024-09-05,North Shore Hospital,Emergency Department,Wait Times,Māori,10,In Progress,False,2024-09,2024
+CMP-00840,2024-09-05,North Shore Hospital,General Medicine,Communication,Asian,3,Resolved,False,2024-09,2024
+CMP-00841,2024-09-05,North Shore Hospital,Paediatrics,Communication,NZ European,6,Resolved,False,2024-09,2024
+CMP-00842,2024-09-06,Waitakere Hospital,Oncology,Staff Behaviour,Māori,21,Resolved,False,2024-09,2024
+CMP-00843,2024-09-07,Waitakere Hospital,General Surgery,Staff Behaviour,NZ European,2,Open,False,2024-09,2024
+CMP-00844,2024-09-07,North Shore Hospital,Older Adult Health,Facilities/Environment,NZ European,15,Resolved,True,2024-09,2024
+CMP-00845,2024-09-07,Waitakere Hospital,Cardiology,Communication,NZ European,8,Resolved,False,2024-09,2024
+CMP-00846,2024-09-08,Community Services West,General Surgery,Discharge Process,Other,28,In Progress,False,2024-09,2024
+CMP-00847,2024-09-08,North Shore Hospital,Orthopaedics,Wait Times,Pacific Peoples,43,In Progress,True,2024-09,2024
+CMP-00848,2024-09-09,North Shore Hospital,General Medicine,Staff Behaviour,NZ European,7,Resolved,False,2024-09,2024
+CMP-00849,2024-09-09,Community Services West,Oncology,Communication,Māori,10,In Progress,False,2024-09,2024
+CMP-00850,2024-09-10,Community Services North,Mental Health,Discharge Process,NZ European,16,Resolved,True,2024-09,2024
+CMP-00851,2024-09-10,North Shore Hospital,Mental Health,Wait Times,Māori,4,In Progress,False,2024-09,2024
+CMP-00852,2024-09-11,Waitakere Hospital,Orthopaedics,Wait Times,Asian,3,Resolved,False,2024-09,2024
+CMP-00853,2024-09-11,Community Services North,Mental Health,Discharge Process,Māori,40,Resolved,False,2024-09,2024
+CMP-00854,2024-09-12,Waitakere Hospital,Emergency Department,Discharge Process,Pacific Peoples,6,In Progress,False,2024-09,2024
+CMP-00855,2024-09-13,Waitakere Hospital,Cardiology,Communication,Māori,1,Resolved,False,2024-09,2024
+CMP-00856,2024-09-13,Waitakere Hospital,Cardiology,Discharge Process,Māori,21,Resolved,False,2024-09,2024
+CMP-00857,2024-09-14,Community Services North,Maternity,Facilities/Environment,Pacific Peoples,10,Resolved,False,2024-09,2024
+CMP-00858,2024-09-15,North Shore Hospital,Orthopaedics,Communication,Asian,2,Resolved,True,2024-09,2024
+CMP-00859,2024-09-16,Community Services North,Orthopaedics,Communication,Pacific Peoples,1,Resolved,False,2024-09,2024
+CMP-00860,2024-09-17,Community Services West,Mental Health,Treatment/Care,Other,4,Resolved,False,2024-09,2024
+CMP-00861,2024-09-17,Waitakere Hospital,Emergency Department,Wait Times,Asian,31,In Progress,True,2024-09,2024
+CMP-00862,2024-09-18,Community Services North,Orthopaedics,Staff Behaviour,Asian,32,Resolved,False,2024-09,2024
+CMP-00863,2024-09-18,North Shore Hospital,Cardiology,Communication,Asian,4,Open,False,2024-09,2024
+CMP-00864,2024-09-18,North Shore Hospital,General Surgery,Access to Services,NZ European,21,Resolved,False,2024-09,2024
+CMP-00865,2024-09-19,Community Services West,Mental Health,Access to Services,NZ European,6,Resolved,False,2024-09,2024
+CMP-00866,2024-09-21,North Shore Hospital,Cardiology,Staff Behaviour,Māori,12,Resolved,False,2024-09,2024
+CMP-00867,2024-09-22,North Shore Hospital,Mental Health,Discharge Process,Māori,4,In Progress,False,2024-09,2024
+CMP-00868,2024-09-22,Waitakere Hospital,Older Adult Health,Facilities/Environment,Asian,8,Resolved,False,2024-09,2024
+CMP-00869,2024-09-22,Waitakere Hospital,Emergency Department,Communication,NZ European,4,Resolved,False,2024-09,2024
+CMP-00870,2024-09-22,Waitakere Hospital,General Surgery,Facilities/Environment,NZ European,1,Resolved,False,2024-09,2024
+CMP-00871,2024-09-22,North Shore Hospital,Mental Health,Discharge Process,Asian,1,In Progress,True,2024-09,2024
+CMP-00872,2024-09-23,North Shore Hospital,General Surgery,Communication,NZ European,4,Resolved,False,2024-09,2024
+CMP-00873,2024-09-23,Waitakere Hospital,Maternity,Other,NZ European,44,Resolved,False,2024-09,2024
+CMP-00874,2024-09-23,Waitakere Hospital,Cardiology,Communication,NZ European,40,In Progress,False,2024-09,2024
+CMP-00875,2024-09-24,Waitakere Hospital,General Surgery,Wait Times,Asian,21,Resolved,False,2024-09,2024
+CMP-00876,2024-09-25,Waitakere Hospital,Maternity,Facilities/Environment,Māori,3,In Progress,False,2024-09,2024
+CMP-00877,2024-09-26,Waitakere Hospital,Older Adult Health,Facilities/Environment,Other,6,In Progress,False,2024-09,2024
+CMP-00878,2024-09-26,North Shore Hospital,Orthopaedics,Facilities/Environment,NZ European,6,Resolved,False,2024-09,2024
+CMP-00879,2024-09-28,Community Services North,Older Adult Health,Wait Times,Asian,5,Resolved,True,2024-09,2024
+CMP-00880,2024-09-28,North Shore Hospital,Paediatrics,Staff Behaviour,NZ European,1,Resolved,False,2024-09,2024
+CMP-00881,2024-09-28,North Shore Hospital,Orthopaedics,Staff Behaviour,NZ European,9,In Progress,False,2024-09,2024
+CMP-00882,2024-09-30,Community Services North,General Surgery,Wait Times,Māori,1,Resolved,False,2024-09,2024
+CMP-00883,2024-10-01,North Shore Hospital,Mental Health,Wait Times,NZ European,19,Open,False,2024-10,2024
+CMP-00884,2024-10-02,Waitakere Hospital,Mental Health,Access to Services,NZ European,14,Resolved,False,2024-10,2024
+CMP-00885,2024-10-02,North Shore Hospital,Paediatrics,Treatment/Care,NZ European,5,Resolved,False,2024-10,2024
+CMP-00886,2024-10-03,Waitakere Hospital,Emergency Department,Wait Times,NZ European,12,Resolved,False,2024-10,2024
+CMP-00887,2024-10-04,North Shore Hospital,Oncology,Communication,Asian,3,Resolved,False,2024-10,2024
+CMP-00888,2024-10-05,Community Services West,General Medicine,Staff Behaviour,NZ European,3,Resolved,False,2024-10,2024
+CMP-00889,2024-10-05,Waitakere Hospital,Oncology,Communication,Other,4,Resolved,True,2024-10,2024
+CMP-00890,2024-10-05,Waitakere Hospital,Oncology,Wait Times,Asian,19,Resolved,False,2024-10,2024
+CMP-00891,2024-10-06,Community Services West,General Surgery,Communication,NZ European,2,Resolved,False,2024-10,2024
+CMP-00892,2024-10-07,Waitakere Hospital,Paediatrics,Communication,Māori,9,Resolved,False,2024-10,2024
+CMP-00893,2024-10-07,Waitakere Hospital,General Surgery,Wait Times,Māori,2,Resolved,False,2024-10,2024
+CMP-00894,2024-10-07,Waitakere Hospital,Older Adult Health,Treatment/Care,Asian,4,Resolved,True,2024-10,2024
+CMP-00895,2024-10-07,Waitakere Hospital,Older Adult Health,Treatment/Care,Asian,3,Resolved,False,2024-10,2024
+CMP-00896,2024-10-07,Community Services North,General Surgery,Communication,Māori,12,Open,False,2024-10,2024
+CMP-00897,2024-10-09,North Shore Hospital,Mental Health,Discharge Process,NZ European,8,Resolved,False,2024-10,2024
+CMP-00898,2024-10-09,Community Services West,Paediatrics,Communication,Māori,15,In Progress,False,2024-10,2024
+CMP-00899,2024-10-10,Waitakere Hospital,Emergency Department,Access to Services,Asian,2,Resolved,True,2024-10,2024
+CMP-00900,2024-10-11,Community Services West,General Surgery,Facilities/Environment,Pacific Peoples,1,In Progress,False,2024-10,2024
+CMP-00901,2024-10-12,North Shore Hospital,Emergency Department,Communication,Asian,13,Resolved,False,2024-10,2024
+CMP-00902,2024-10-13,Community Services West,General Medicine,Wait Times,Pacific Peoples,1,Resolved,False,2024-10,2024
+CMP-00903,2024-10-14,North Shore Hospital,Paediatrics,Other,NZ European,3,Resolved,False,2024-10,2024
+CMP-00904,2024-10-14,Community Services North,Paediatrics,Staff Behaviour,Other,4,Resolved,False,2024-10,2024
+CMP-00905,2024-10-15,Waitakere Hospital,General Surgery,Communication,Other,16,Resolved,False,2024-10,2024
+CMP-00906,2024-10-15,Community Services North,Maternity,Wait Times,NZ European,11,Resolved,False,2024-10,2024
+CMP-00907,2024-10-15,Waitakere Hospital,Maternity,Wait Times,NZ European,2,Resolved,False,2024-10,2024
+CMP-00908,2024-10-17,North Shore Hospital,General Medicine,Facilities/Environment,Māori,10,Resolved,False,2024-10,2024
+CMP-00909,2024-10-18,Waitakere Hospital,Oncology,Discharge Process,Asian,14,Open,False,2024-10,2024
+CMP-00910,2024-10-18,North Shore Hospital,Older Adult Health,Communication,NZ European,5,Resolved,False,2024-10,2024
+CMP-00911,2024-10-18,Waitakere Hospital,General Medicine,Treatment/Care,NZ European,3,Resolved,False,2024-10,2024
+CMP-00912,2024-10-18,Community Services North,Orthopaedics,Treatment/Care,Māori,13,Resolved,False,2024-10,2024
+CMP-00913,2024-10-18,North Shore Hospital,Oncology,Other,NZ European,11,Resolved,False,2024-10,2024
+CMP-00914,2024-10-19,Waitakere Hospital,Orthopaedics,Wait Times,NZ European,1,Resolved,False,2024-10,2024
+CMP-00915,2024-10-22,Waitakere Hospital,Paediatrics,Access to Services,Pacific Peoples,13,Resolved,True,2024-10,2024
+CMP-00916,2024-10-22,North Shore Hospital,Mental Health,Treatment/Care,Asian,8,Resolved,False,2024-10,2024
+CMP-00917,2024-10-22,Community Services West,Cardiology,Facilities/Environment,Māori,16,Resolved,False,2024-10,2024
+CMP-00918,2024-10-23,Waitakere Hospital,Maternity,Treatment/Care,Pacific Peoples,2,Resolved,False,2024-10,2024
+CMP-00919,2024-10-23,North Shore Hospital,Emergency Department,Discharge Process,Pacific Peoples,3,In Progress,False,2024-10,2024
+CMP-00920,2024-10-24,North Shore Hospital,Orthopaedics,Wait Times,Māori,9,In Progress,False,2024-10,2024
+CMP-00921,2024-10-25,Waitakere Hospital,Mental Health,Facilities/Environment,NZ European,7,Resolved,False,2024-10,2024
+CMP-00922,2024-10-25,Waitakere Hospital,Maternity,Treatment/Care,NZ European,5,Resolved,False,2024-10,2024
+CMP-00923,2024-10-27,North Shore Hospital,Maternity,Staff Behaviour,NZ European,16,Resolved,False,2024-10,2024
+CMP-00924,2024-10-27,North Shore Hospital,Mental Health,Treatment/Care,Other,9,Resolved,False,2024-10,2024
+CMP-00925,2024-10-29,Waitakere Hospital,General Surgery,Communication,Asian,14,Resolved,False,2024-10,2024
+CMP-00926,2024-10-30,Waitakere Hospital,General Medicine,Treatment/Care,Māori,1,Resolved,False,2024-10,2024
+CMP-00927,2024-10-30,North Shore Hospital,Paediatrics,Wait Times,Other,15,Resolved,False,2024-10,2024
+CMP-00928,2024-10-31,Waitakere Hospital,Emergency Department,Communication,Asian,7,In Progress,False,2024-10,2024
+CMP-00929,2024-11-01,Community Services West,Mental Health,Communication,Other,1,In Progress,False,2024-11,2024
+CMP-00930,2024-11-01,Community Services West,Orthopaedics,Wait Times,NZ European,3,In Progress,False,2024-11,2024
+CMP-00931,2024-11-01,Community Services West,Paediatrics,Treatment/Care,Pacific Peoples,1,Resolved,False,2024-11,2024
+CMP-00932,2024-11-02,Community Services North,General Medicine,Treatment/Care,Māori,7,In Progress,False,2024-11,2024
+CMP-00933,2024-11-04,North Shore Hospital,Older Adult Health,Wait Times,Pacific Peoples,4,Resolved,False,2024-11,2024
+CMP-00934,2024-11-05,North Shore Hospital,Oncology,Communication,NZ European,52,Resolved,False,2024-11,2024
+CMP-00935,2024-11-05,Waitakere Hospital,Cardiology,Communication,Pacific Peoples,24,In Progress,False,2024-11,2024
+CMP-00936,2024-11-06,Waitakere Hospital,Emergency Department,Access to Services,NZ European,20,In Progress,False,2024-11,2024
+CMP-00937,2024-11-06,Community Services West,Mental Health,Communication,Asian,8,Open,False,2024-11,2024
+CMP-00938,2024-11-07,North Shore Hospital,Orthopaedics,Staff Behaviour,Asian,19,Resolved,False,2024-11,2024
+CMP-00939,2024-11-07,Waitakere Hospital,Mental Health,Treatment/Care,NZ European,3,Resolved,True,2024-11,2024
+CMP-00940,2024-11-08,Waitakere Hospital,Oncology,Discharge Process,NZ European,9,Resolved,False,2024-11,2024
+CMP-00941,2024-11-09,Waitakere Hospital,General Surgery,Communication,Pacific Peoples,5,In Progress,False,2024-11,2024
+CMP-00942,2024-11-10,Waitakere Hospital,Emergency Department,Access to Services,Māori,2,Resolved,False,2024-11,2024
+CMP-00943,2024-11-10,North Shore Hospital,General Surgery,Wait Times,Māori,1,Resolved,True,2024-11,2024
+CMP-00944,2024-11-11,Community Services West,Orthopaedics,Communication,Asian,9,Resolved,False,2024-11,2024
+CMP-00945,2024-11-11,Waitakere Hospital,General Medicine,Treatment/Care,Asian,1,Resolved,False,2024-11,2024
+CMP-00946,2024-11-12,Waitakere Hospital,Emergency Department,Treatment/Care,NZ European,15,In Progress,False,2024-11,2024
+CMP-00947,2024-11-13,North Shore Hospital,Emergency Department,Treatment/Care,Māori,30,Resolved,False,2024-11,2024
+CMP-00948,2024-11-14,Waitakere Hospital,Older Adult Health,Treatment/Care,Asian,2,Resolved,False,2024-11,2024
+CMP-00949,2024-11-15,North Shore Hospital,Orthopaedics,Discharge Process,Asian,7,In Progress,True,2024-11,2024
+CMP-00950,2024-11-16,North Shore Hospital,General Medicine,Treatment/Care,NZ European,16,Resolved,False,2024-11,2024
+CMP-00951,2024-11-16,North Shore Hospital,Cardiology,Treatment/Care,NZ European,4,Open,False,2024-11,2024
+CMP-00952,2024-11-17,North Shore Hospital,General Surgery,Facilities/Environment,NZ European,30,Open,False,2024-11,2024
+CMP-00953,2024-11-17,Waitakere Hospital,Older Adult Health,Facilities/Environment,Other,26,Resolved,False,2024-11,2024
+CMP-00954,2024-11-17,Waitakere Hospital,Maternity,Communication,Māori,1,Resolved,False,2024-11,2024
+CMP-00955,2024-11-18,Community Services West,Older Adult Health,Staff Behaviour,NZ European,1,Resolved,False,2024-11,2024
+CMP-00956,2024-11-19,North Shore Hospital,Cardiology,Wait Times,NZ European,44,Resolved,True,2024-11,2024
+CMP-00957,2024-11-19,North Shore Hospital,Mental Health,Communication,NZ European,37,Resolved,True,2024-11,2024
+CMP-00958,2024-11-19,Community Services West,General Surgery,Treatment/Care,Pacific Peoples,6,Resolved,False,2024-11,2024
+CMP-00959,2024-11-20,North Shore Hospital,Maternity,Communication,Māori,1,Resolved,False,2024-11,2024
+CMP-00960,2024-11-20,North Shore Hospital,Cardiology,Treatment/Care,Māori,11,Resolved,False,2024-11,2024
+CMP-00961,2024-11-20,North Shore Hospital,Older Adult Health,Treatment/Care,NZ European,4,Resolved,False,2024-11,2024
+CMP-00962,2024-11-21,Community Services North,Mental Health,Treatment/Care,NZ European,33,Resolved,False,2024-11,2024
+CMP-00963,2024-11-21,Community Services North,Mental Health,Wait Times,Asian,18,Resolved,False,2024-11,2024
+CMP-00964,2024-11-22,North Shore Hospital,General Surgery,Facilities/Environment,NZ European,12,Resolved,True,2024-11,2024
+CMP-00965,2024-11-22,Community Services North,General Surgery,Staff Behaviour,Asian,4,Resolved,True,2024-11,2024
+CMP-00966,2024-11-22,Waitakere Hospital,Older Adult Health,Staff Behaviour,NZ European,14,Open,False,2024-11,2024
+CMP-00967,2024-11-24,Community Services West,Emergency Department,Access to Services,NZ European,4,Resolved,False,2024-11,2024
+CMP-00968,2024-11-25,North Shore Hospital,Orthopaedics,Access to Services,Māori,1,In Progress,False,2024-11,2024
+CMP-00969,2024-11-25,Community Services North,Oncology,Access to Services,Other,8,Resolved,False,2024-11,2024
+CMP-00970,2024-11-29,North Shore Hospital,Maternity,Communication,NZ European,8,Resolved,False,2024-11,2024
+CMP-00971,2024-11-29,Waitakere Hospital,Maternity,Treatment/Care,Pacific Peoples,17,Open,True,2024-11,2024
+CMP-00972,2024-11-30,North Shore Hospital,Cardiology,Wait Times,Māori,24,Resolved,False,2024-11,2024
+CMP-00973,2024-12-01,Community Services North,Paediatrics,Treatment/Care,NZ European,5,Resolved,False,2024-12,2024
+CMP-00974,2024-12-01,Community Services North,Paediatrics,Communication,NZ European,7,Resolved,False,2024-12,2024
+CMP-00975,2024-12-02,Waitakere Hospital,Maternity,Treatment/Care,Other,7,Resolved,False,2024-12,2024
+CMP-00976,2024-12-03,Community Services North,Oncology,Other,NZ European,4,Resolved,False,2024-12,2024
+CMP-00977,2024-12-03,Waitakere Hospital,Older Adult Health,Treatment/Care,Pacific Peoples,16,Resolved,False,2024-12,2024
+CMP-00978,2024-12-03,Community Services North,Older Adult Health,Treatment/Care,Other,8,Resolved,False,2024-12,2024
+CMP-00979,2024-12-03,North Shore Hospital,General Medicine,Communication,NZ European,29,In Progress,False,2024-12,2024
+CMP-00980,2024-12-04,Waitakere Hospital,Paediatrics,Staff Behaviour,NZ European,12,Open,False,2024-12,2024
+CMP-00981,2024-12-04,North Shore Hospital,Emergency Department,Treatment/Care,NZ European,2,Resolved,False,2024-12,2024
+CMP-00982,2024-12-05,Waitakere Hospital,Cardiology,Communication,NZ European,2,In Progress,False,2024-12,2024
+CMP-00983,2024-12-06,Community Services North,Older Adult Health,Discharge Process,NZ European,5,Resolved,False,2024-12,2024
+CMP-00984,2024-12-06,Community Services North,General Surgery,Facilities/Environment,Pacific Peoples,5,Resolved,False,2024-12,2024
+CMP-00985,2024-12-09,Community Services North,Oncology,Facilities/Environment,Pacific Peoples,6,Open,True,2024-12,2024
+CMP-00986,2024-12-11,North Shore Hospital,Mental Health,Discharge Process,Pacific Peoples,2,Resolved,False,2024-12,2024
+CMP-00987,2024-12-13,Community Services North,Paediatrics,Treatment/Care,Other,45,Resolved,False,2024-12,2024
+CMP-00988,2024-12-13,Waitakere Hospital,Paediatrics,Staff Behaviour,NZ European,1,Resolved,False,2024-12,2024
+CMP-00989,2024-12-15,Community Services West,Oncology,Communication,NZ European,12,Resolved,False,2024-12,2024
+CMP-00990,2024-12-16,North Shore Hospital,General Medicine,Staff Behaviour,NZ European,1,Resolved,False,2024-12,2024
+CMP-00991,2024-12-16,Waitakere Hospital,Orthopaedics,Communication,NZ European,6,Open,False,2024-12,2024
+CMP-00992,2024-12-19,Community Services North,Older Adult Health,Communication,NZ European,4,Resolved,False,2024-12,2024
+CMP-00993,2024-12-20,Community Services West,Mental Health,Treatment/Care,Māori,5,Resolved,False,2024-12,2024
+CMP-00994,2024-12-20,Waitakere Hospital,Mental Health,Communication,Asian,8,Resolved,False,2024-12,2024
+CMP-00995,2024-12-21,Waitakere Hospital,General Surgery,Wait Times,Other,11,Open,False,2024-12,2024
+CMP-00996,2024-12-21,Waitakere Hospital,Mental Health,Wait Times,NZ European,10,Resolved,False,2024-12,2024
+CMP-00997,2024-12-21,North Shore Hospital,Paediatrics,Staff Behaviour,Asian,11,Resolved,False,2024-12,2024
+CMP-00998,2024-12-21,Community Services North,Orthopaedics,Communication,Asian,22,Open,False,2024-12,2024
+CMP-00999,2024-12-22,Community Services West,Older Adult Health,Communication,NZ European,26,Resolved,True,2024-12,2024
+CMP-01000,2024-12-23,North Shore Hospital,Maternity,Staff Behaviour,NZ European,16,Resolved,False,2024-12,2024
+CMP-01001,2024-12-23,Waitakere Hospital,Maternity,Staff Behaviour,Other,1,Resolved,False,2024-12,2024
+CMP-01002,2024-12-24,Community Services West,Maternity,Communication,Pacific Peoples,39,Resolved,False,2024-12,2024
+CMP-01003,2024-12-24,North Shore Hospital,Orthopaedics,Wait Times,Other,35,Resolved,False,2024-12,2024
+CMP-01004,2024-12-26,Waitakere Hospital,General Surgery,Facilities/Environment,Māori,14,Resolved,False,2024-12,2024
+CMP-01005,2024-12-27,Community Services West,Cardiology,Communication,NZ European,8,Resolved,False,2024-12,2024
+CMP-01006,2024-12-28,Community Services West,Maternity,Treatment/Care,NZ European,3,In Progress,False,2024-12,2024
+CMP-01007,2024-12-29,Waitakere Hospital,Maternity,Treatment/Care,Other,16,Resolved,False,2024-12,2024
+CMP-01008,2024-12-29,North Shore Hospital,General Medicine,Discharge Process,NZ European,25,Resolved,False,2024-12,2024
+CMP-01009,2024-12-30,North Shore Hospital,Cardiology,Communication,NZ European,13,In Progress,True,2024-12,2024
+CMP-01010,2024-12-30,Waitakere Hospital,Oncology,Treatment/Care,Māori,11,Resolved,False,2024-12,2024
+CMP-01011,2025-01-01,North Shore Hospital,Orthopaedics,Access to Services,NZ European,2,Resolved,True,2025-01,2025
+CMP-01012,2025-01-04,North Shore Hospital,Orthopaedics,Treatment/Care,NZ European,5,Resolved,False,2025-01,2025
+CMP-01013,2025-01-05,Community Services North,Cardiology,Wait Times,Pacific Peoples,15,Resolved,False,2025-01,2025
+CMP-01014,2025-01-08,Community Services North,Older Adult Health,Communication,NZ European,1,Resolved,False,2025-01,2025
+CMP-01015,2025-01-09,Community Services West,General Surgery,Other,NZ European,12,Resolved,False,2025-01,2025
+CMP-01016,2025-01-09,North Shore Hospital,Cardiology,Access to Services,NZ European,17,Open,False,2025-01,2025
+CMP-01017,2025-01-11,North Shore Hospital,Paediatrics,Staff Behaviour,Māori,4,Resolved,False,2025-01,2025
+CMP-01018,2025-01-11,Community Services West,Paediatrics,Communication,NZ European,1,Resolved,False,2025-01,2025
+CMP-01019,2025-01-12,Community Services North,General Medicine,Communication,NZ European,20,Resolved,True,2025-01,2025
+CMP-01020,2025-01-15,Community Services North,General Surgery,Wait Times,Pacific Peoples,1,Open,False,2025-01,2025
+CMP-01021,2025-01-16,Community Services West,Orthopaedics,Treatment/Care,NZ European,5,Resolved,False,2025-01,2025
+CMP-01022,2025-01-17,Community Services West,General Medicine,Staff Behaviour,NZ European,14,Open,False,2025-01,2025
+CMP-01023,2025-01-18,Waitakere Hospital,Oncology,Wait Times,Māori,20,Resolved,True,2025-01,2025
+CMP-01024,2025-01-18,North Shore Hospital,Cardiology,Access to Services,NZ European,23,Resolved,False,2025-01,2025
+CMP-01025,2025-01-19,Waitakere Hospital,Maternity,Treatment/Care,NZ European,9,Resolved,False,2025-01,2025
+CMP-01026,2025-01-21,Waitakere Hospital,Emergency Department,Wait Times,Māori,7,Resolved,False,2025-01,2025
+CMP-01027,2025-01-22,North Shore Hospital,Emergency Department,Facilities/Environment,Pacific Peoples,22,Resolved,False,2025-01,2025
+CMP-01028,2025-01-22,Community Services North,Older Adult Health,Wait Times,Pacific Peoples,9,Resolved,False,2025-01,2025
+CMP-01029,2025-01-22,North Shore Hospital,Maternity,Access to Services,Māori,10,In Progress,False,2025-01,2025
+CMP-01030,2025-01-22,Community Services North,Cardiology,Communication,Māori,6,Open,True,2025-01,2025
+CMP-01031,2025-01-23,North Shore Hospital,Paediatrics,Facilities/Environment,Asian,5,Resolved,False,2025-01,2025
+CMP-01032,2025-01-23,Waitakere Hospital,Maternity,Discharge Process,NZ European,7,Open,False,2025-01,2025
+CMP-01033,2025-01-25,Community Services West,General Medicine,Treatment/Care,NZ European,5,Resolved,False,2025-01,2025
+CMP-01034,2025-01-26,North Shore Hospital,General Surgery,Treatment/Care,Pacific Peoples,5,Resolved,False,2025-01,2025
+CMP-01035,2025-01-26,Waitakere Hospital,Older Adult Health,Communication,NZ European,60,Resolved,False,2025-01,2025
+CMP-01036,2025-01-27,North Shore Hospital,Orthopaedics,Staff Behaviour,Pacific Peoples,4,Resolved,False,2025-01,2025
+CMP-01037,2025-01-28,Community Services West,Older Adult Health,Wait Times,NZ European,3,Resolved,False,2025-01,2025
+CMP-01038,2025-01-29,Community Services West,General Surgery,Communication,NZ European,5,Resolved,True,2025-01,2025
+CMP-01039,2025-01-30,Community Services West,General Medicine,Facilities/Environment,Asian,10,In Progress,True,2025-01,2025
+CMP-01040,2025-01-30,Community Services West,Paediatrics,Access to Services,NZ European,29,Resolved,False,2025-01,2025
+CMP-01041,2025-01-30,Community Services North,Emergency Department,Discharge Process,Māori,18,In Progress,False,2025-01,2025
+CMP-01042,2025-01-30,North Shore Hospital,General Surgery,Wait Times,NZ European,22,Resolved,False,2025-01,2025
+CMP-01043,2025-01-30,North Shore Hospital,General Medicine,Wait Times,NZ European,23,Resolved,False,2025-01,2025
+CMP-01044,2025-01-31,Waitakere Hospital,Mental Health,Access to Services,NZ European,30,In Progress,False,2025-01,2025
+CMP-01045,2025-01-31,Waitakere Hospital,General Medicine,Treatment/Care,NZ European,3,Resolved,False,2025-01,2025
+CMP-01046,2025-01-31,Community Services North,Cardiology,Staff Behaviour,Other,7,In Progress,False,2025-01,2025
+CMP-01047,2025-02-01,North Shore Hospital,Mental Health,Staff Behaviour,Asian,5,Resolved,True,2025-02,2025
+CMP-01048,2025-02-01,North Shore Hospital,General Surgery,Treatment/Care,Pacific Peoples,5,In Progress,False,2025-02,2025
+CMP-01049,2025-02-02,Waitakere Hospital,Oncology,Communication,Asian,12,Resolved,True,2025-02,2025
+CMP-01050,2025-02-04,North Shore Hospital,Cardiology,Communication,Māori,6,Resolved,False,2025-02,2025
+CMP-01051,2025-02-04,Community Services North,Oncology,Treatment/Care,NZ European,11,Resolved,False,2025-02,2025
+CMP-01052,2025-02-04,Waitakere Hospital,Older Adult Health,Wait Times,NZ European,5,Open,False,2025-02,2025
+CMP-01053,2025-02-06,Community Services North,Mental Health,Access to Services,Pacific Peoples,4,Resolved,True,2025-02,2025
+CMP-01054,2025-02-07,North Shore Hospital,Cardiology,Treatment/Care,NZ European,5,In Progress,False,2025-02,2025
+CMP-01055,2025-02-07,Community Services West,Paediatrics,Treatment/Care,NZ European,19,Resolved,False,2025-02,2025
+CMP-01056,2025-02-07,North Shore Hospital,General Medicine,Wait Times,Asian,11,Resolved,True,2025-02,2025
+CMP-01057,2025-02-09,North Shore Hospital,General Surgery,Communication,NZ European,43,Resolved,False,2025-02,2025
+CMP-01058,2025-02-11,Community Services North,General Medicine,Communication,NZ European,21,Resolved,False,2025-02,2025
+CMP-01059,2025-02-11,North Shore Hospital,Cardiology,Communication,NZ European,7,Resolved,False,2025-02,2025
+CMP-01060,2025-02-12,North Shore Hospital,Emergency Department,Treatment/Care,Māori,3,Resolved,False,2025-02,2025
+CMP-01061,2025-02-13,North Shore Hospital,General Surgery,Communication,NZ European,13,Open,False,2025-02,2025
+CMP-01062,2025-02-13,Waitakere Hospital,Orthopaedics,Communication,Māori,15,Resolved,True,2025-02,2025
+CMP-01063,2025-02-13,Community Services West,Oncology,Facilities/Environment,NZ European,7,Resolved,True,2025-02,2025
+CMP-01064,2025-02-14,Waitakere Hospital,General Medicine,Communication,Māori,3,Resolved,False,2025-02,2025
+CMP-01065,2025-02-16,Waitakere Hospital,Oncology,Communication,NZ European,9,In Progress,False,2025-02,2025
+CMP-01066,2025-02-16,North Shore Hospital,Emergency Department,Discharge Process,Other,3,Resolved,False,2025-02,2025
+CMP-01067,2025-02-16,North Shore Hospital,Oncology,Staff Behaviour,Māori,33,Resolved,False,2025-02,2025
+CMP-01068,2025-02-17,North Shore Hospital,Maternity,Communication,Pacific Peoples,11,Resolved,False,2025-02,2025
+CMP-01069,2025-02-19,Community Services West,Older Adult Health,Communication,Pacific Peoples,4,Open,False,2025-02,2025
+CMP-01070,2025-02-21,North Shore Hospital,General Surgery,Staff Behaviour,Māori,2,In Progress,False,2025-02,2025
+CMP-01071,2025-02-21,Community Services West,Older Adult Health,Wait Times,NZ European,15,In Progress,False,2025-02,2025
+CMP-01072,2025-02-22,North Shore Hospital,Oncology,Communication,Māori,14,In Progress,False,2025-02,2025
+CMP-01073,2025-02-22,Community Services North,Paediatrics,Communication,Pacific Peoples,10,Resolved,False,2025-02,2025
+CMP-01074,2025-02-22,Community Services West,Orthopaedics,Discharge Process,Māori,11,Resolved,False,2025-02,2025
+CMP-01075,2025-02-23,Waitakere Hospital,Maternity,Wait Times,NZ European,11,Resolved,False,2025-02,2025
+CMP-01076,2025-02-24,Community Services North,Maternity,Treatment/Care,NZ European,5,Resolved,False,2025-02,2025
+CMP-01077,2025-02-24,Waitakere Hospital,General Medicine,Treatment/Care,NZ European,33,Resolved,False,2025-02,2025
+CMP-01078,2025-02-25,North Shore Hospital,General Medicine,Communication,NZ European,7,Resolved,False,2025-02,2025
+CMP-01079,2025-02-25,North Shore Hospital,Mental Health,Treatment/Care,Other,1,Resolved,False,2025-02,2025
+CMP-01080,2025-02-26,Community Services North,Emergency Department,Discharge Process,NZ European,5,Resolved,False,2025-02,2025
+CMP-01081,2025-02-28,North Shore Hospital,Mental Health,Communication,NZ European,1,Resolved,False,2025-02,2025
+CMP-01082,2025-02-28,North Shore Hospital,Cardiology,Other,Pacific Peoples,5,Resolved,False,2025-02,2025
+CMP-01083,2025-03-01,Community Services West,General Surgery,Communication,Asian,11,In Progress,False,2025-03,2025
+CMP-01084,2025-03-02,North Shore Hospital,General Surgery,Treatment/Care,Māori,1,Resolved,False,2025-03,2025
+CMP-01085,2025-03-02,Waitakere Hospital,Older Adult Health,Communication,NZ European,24,In Progress,False,2025-03,2025
+CMP-01086,2025-03-02,Community Services West,General Surgery,Wait Times,NZ European,11,Resolved,True,2025-03,2025
+CMP-01087,2025-03-03,Waitakere Hospital,General Surgery,Wait Times,NZ European,4,Resolved,False,2025-03,2025
+CMP-01088,2025-03-03,Waitakere Hospital,Emergency Department,Staff Behaviour,NZ European,4,Resolved,False,2025-03,2025
+CMP-01089,2025-03-05,Community Services North,Older Adult Health,Wait Times,NZ European,7,Resolved,False,2025-03,2025
+CMP-01090,2025-03-05,North Shore Hospital,Cardiology,Treatment/Care,NZ European,3,In Progress,False,2025-03,2025
+CMP-01091,2025-03-06,North Shore Hospital,Cardiology,Facilities/Environment,Other,1,Resolved,False,2025-03,2025
+CMP-01092,2025-03-06,Waitakere Hospital,Maternity,Communication,NZ European,1,In Progress,False,2025-03,2025
+CMP-01093,2025-03-06,Community Services North,Older Adult Health,Wait Times,NZ European,5,Resolved,False,2025-03,2025
+CMP-01094,2025-03-08,North Shore Hospital,General Surgery,Communication,Other,1,Resolved,False,2025-03,2025
+CMP-01095,2025-03-09,Waitakere Hospital,Maternity,Treatment/Care,Pacific Peoples,1,Resolved,False,2025-03,2025
+CMP-01096,2025-03-10,North Shore Hospital,General Medicine,Facilities/Environment,NZ European,23,Resolved,True,2025-03,2025
+CMP-01097,2025-03-11,North Shore Hospital,General Surgery,Communication,NZ European,3,Resolved,False,2025-03,2025
+CMP-01098,2025-03-11,Community Services North,Orthopaedics,Discharge Process,Other,8,Resolved,False,2025-03,2025
+CMP-01099,2025-03-12,North Shore Hospital,Oncology,Access to Services,NZ European,2,Open,False,2025-03,2025
+CMP-01100,2025-03-13,Waitakere Hospital,Orthopaedics,Treatment/Care,Pacific Peoples,1,Resolved,False,2025-03,2025
+CMP-01101,2025-03-14,Waitakere Hospital,Paediatrics,Communication,Asian,16,Resolved,False,2025-03,2025
+CMP-01102,2025-03-14,North Shore Hospital,Older Adult Health,Facilities/Environment,NZ European,1,In Progress,False,2025-03,2025
+CMP-01103,2025-03-15,North Shore Hospital,Mental Health,Access to Services,Pacific Peoples,1,Resolved,False,2025-03,2025
+CMP-01104,2025-03-15,North Shore Hospital,General Medicine,Communication,Other,10,Resolved,False,2025-03,2025
+CMP-01105,2025-03-16,North Shore Hospital,Older Adult Health,Discharge Process,Pacific Peoples,1,Resolved,True,2025-03,2025
+CMP-01106,2025-03-17,Waitakere Hospital,Mental Health,Discharge Process,NZ European,6,In Progress,False,2025-03,2025
+CMP-01107,2025-03-18,Community Services North,Mental Health,Wait Times,Asian,4,Resolved,False,2025-03,2025
+CMP-01108,2025-03-19,North Shore Hospital,Paediatrics,Facilities/Environment,Māori,4,Resolved,False,2025-03,2025
+CMP-01109,2025-03-20,Waitakere Hospital,Maternity,Treatment/Care,Pacific Peoples,1,In Progress,False,2025-03,2025
+CMP-01110,2025-03-22,Community Services West,General Surgery,Wait Times,Māori,40,Open,False,2025-03,2025
+CMP-01111,2025-03-24,North Shore Hospital,Paediatrics,Treatment/Care,NZ European,8,Resolved,True,2025-03,2025
+CMP-01112,2025-03-25,Waitakere Hospital,Emergency Department,Communication,NZ European,10,Open,True,2025-03,2025
+CMP-01113,2025-03-25,Community Services North,Orthopaedics,Facilities/Environment,NZ European,13,Open,True,2025-03,2025
+CMP-01114,2025-03-26,North Shore Hospital,Orthopaedics,Communication,NZ European,19,Resolved,True,2025-03,2025
+CMP-01115,2025-03-26,Community Services North,Maternity,Wait Times,NZ European,11,Resolved,False,2025-03,2025
+CMP-01116,2025-03-26,Community Services West,Maternity,Access to Services,NZ European,17,Open,False,2025-03,2025
+CMP-01117,2025-03-27,North Shore Hospital,Cardiology,Communication,NZ European,7,Resolved,False,2025-03,2025
+CMP-01118,2025-03-27,Community Services North,Older Adult Health,Treatment/Care,Asian,5,Resolved,True,2025-03,2025
+CMP-01119,2025-03-27,Waitakere Hospital,Emergency Department,Wait Times,Asian,20,Open,False,2025-03,2025
+CMP-01120,2025-03-28,North Shore Hospital,Paediatrics,Communication,Māori,24,In Progress,True,2025-03,2025
+CMP-01121,2025-03-29,Waitakere Hospital,Orthopaedics,Access to Services,Māori,1,Resolved,False,2025-03,2025
+CMP-01122,2025-03-30,North Shore Hospital,Maternity,Treatment/Care,NZ European,9,Resolved,False,2025-03,2025
+CMP-01123,2025-03-30,Waitakere Hospital,Cardiology,Wait Times,Māori,13,Resolved,False,2025-03,2025
+CMP-01124,2025-04-01,North Shore Hospital,Oncology,Communication,Pacific Peoples,1,Resolved,True,2025-04,2025
+CMP-01125,2025-04-02,Community Services North,General Surgery,Communication,Asian,31,In Progress,False,2025-04,2025
+CMP-01126,2025-04-02,Waitakere Hospital,Older Adult Health,Communication,NZ European,8,Resolved,True,2025-04,2025
+CMP-01127,2025-04-02,Waitakere Hospital,General Surgery,Communication,Pacific Peoples,12,Resolved,False,2025-04,2025
+CMP-01128,2025-04-03,North Shore Hospital,Maternity,Wait Times,Pacific Peoples,2,In Progress,False,2025-04,2025
+CMP-01129,2025-04-03,Waitakere Hospital,General Medicine,Wait Times,Māori,3,Resolved,False,2025-04,2025
+CMP-01130,2025-04-05,North Shore Hospital,Oncology,Communication,NZ European,1,Resolved,False,2025-04,2025
+CMP-01131,2025-04-06,Community Services North,General Medicine,Communication,Māori,3,Resolved,False,2025-04,2025
+CMP-01132,2025-04-07,North Shore Hospital,Mental Health,Wait Times,Māori,8,Resolved,False,2025-04,2025
+CMP-01133,2025-04-07,Waitakere Hospital,Maternity,Facilities/Environment,Māori,21,Resolved,False,2025-04,2025
+CMP-01134,2025-04-08,North Shore Hospital,Orthopaedics,Staff Behaviour,Māori,9,Resolved,False,2025-04,2025
+CMP-01135,2025-04-08,Community Services North,Paediatrics,Communication,NZ European,3,Resolved,False,2025-04,2025
+CMP-01136,2025-04-09,Waitakere Hospital,Paediatrics,Access to Services,NZ European,1,In Progress,True,2025-04,2025
+CMP-01137,2025-04-09,Waitakere Hospital,Paediatrics,Discharge Process,NZ European,11,Resolved,False,2025-04,2025
+CMP-01138,2025-04-09,Community Services North,Paediatrics,Treatment/Care,NZ European,6,Resolved,False,2025-04,2025
+CMP-01139,2025-04-10,Waitakere Hospital,Cardiology,Staff Behaviour,NZ European,49,Resolved,False,2025-04,2025
+CMP-01140,2025-04-10,Community Services North,Cardiology,Wait Times,NZ European,18,Resolved,False,2025-04,2025
+CMP-01141,2025-04-10,Community Services North,Oncology,Discharge Process,NZ European,19,Resolved,False,2025-04,2025
+CMP-01142,2025-04-11,Waitakere Hospital,General Medicine,Wait Times,Pacific Peoples,1,In Progress,False,2025-04,2025
+CMP-01143,2025-04-14,Community Services West,Mental Health,Discharge Process,Asian,18,Resolved,True,2025-04,2025
+CMP-01144,2025-04-15,Community Services North,Cardiology,Communication,NZ European,2,Resolved,False,2025-04,2025
+CMP-01145,2025-04-16,Waitakere Hospital,Oncology,Treatment/Care,NZ European,10,Resolved,True,2025-04,2025
+CMP-01146,2025-04-16,North Shore Hospital,General Medicine,Facilities/Environment,Asian,7,Resolved,False,2025-04,2025
+CMP-01147,2025-04-16,Waitakere Hospital,General Surgery,Facilities/Environment,Māori,10,In Progress,False,2025-04,2025
+CMP-01148,2025-04-17,Waitakere Hospital,Paediatrics,Facilities/Environment,NZ European,1,In Progress,False,2025-04,2025
+CMP-01149,2025-04-18,Waitakere Hospital,Oncology,Access to Services,Pacific Peoples,7,Resolved,False,2025-04,2025
+CMP-01150,2025-04-19,Waitakere Hospital,General Surgery,Staff Behaviour,NZ European,1,Open,True,2025-04,2025
+CMP-01151,2025-04-19,Waitakere Hospital,Cardiology,Staff Behaviour,Māori,1,Resolved,False,2025-04,2025
+CMP-01152,2025-04-19,Community Services North,Older Adult Health,Wait Times,Other,12,Resolved,True,2025-04,2025
+CMP-01153,2025-04-19,Community Services North,Older Adult Health,Wait Times,NZ European,36,In Progress,False,2025-04,2025
+CMP-01154,2025-04-20,North Shore Hospital,Orthopaedics,Treatment/Care,Other,18,Resolved,False,2025-04,2025
+CMP-01155,2025-04-20,North Shore Hospital,Maternity,Staff Behaviour,NZ European,7,Resolved,False,2025-04,2025
+CMP-01156,2025-04-20,Waitakere Hospital,Older Adult Health,Treatment/Care,Māori,1,Resolved,False,2025-04,2025
+CMP-01157,2025-04-22,Waitakere Hospital,Oncology,Communication,Māori,1,Resolved,False,2025-04,2025
+CMP-01158,2025-04-26,Community Services North,General Medicine,Communication,Asian,2,Resolved,False,2025-04,2025
+CMP-01159,2025-04-27,North Shore Hospital,Emergency Department,Discharge Process,NZ European,44,Open,False,2025-04,2025
+CMP-01160,2025-04-28,North Shore Hospital,Mental Health,Communication,Māori,6,Resolved,False,2025-04,2025
+CMP-01161,2025-05-01,Waitakere Hospital,Cardiology,Communication,Asian,22,Resolved,True,2025-05,2025
+CMP-01162,2025-05-01,Waitakere Hospital,General Surgery,Treatment/Care,Māori,14,Resolved,False,2025-05,2025
+CMP-01163,2025-05-04,North Shore Hospital,Maternity,Treatment/Care,NZ European,11,Resolved,False,2025-05,2025
+CMP-01164,2025-05-05,Waitakere Hospital,Emergency Department,Treatment/Care,NZ European,35,Open,False,2025-05,2025
+CMP-01165,2025-05-05,North Shore Hospital,Orthopaedics,Communication,Pacific Peoples,3,In Progress,False,2025-05,2025
+CMP-01166,2025-05-07,North Shore Hospital,Maternity,Communication,Asian,7,In Progress,False,2025-05,2025
+CMP-01167,2025-05-07,North Shore Hospital,General Medicine,Facilities/Environment,NZ European,24,Resolved,False,2025-05,2025
+CMP-01168,2025-05-08,Waitakere Hospital,Older Adult Health,Facilities/Environment,Māori,9,In Progress,True,2025-05,2025
+CMP-01169,2025-05-09,Community Services West,Orthopaedics,Communication,NZ European,3,Resolved,False,2025-05,2025
+CMP-01170,2025-05-09,North Shore Hospital,General Medicine,Staff Behaviour,NZ European,2,Resolved,False,2025-05,2025
+CMP-01171,2025-05-09,North Shore Hospital,Emergency Department,Staff Behaviour,NZ European,16,Open,True,2025-05,2025
+CMP-01172,2025-05-09,Community Services North,Older Adult Health,Staff Behaviour,Pacific Peoples,1,Resolved,False,2025-05,2025
+CMP-01173,2025-05-09,Community Services West,Cardiology,Wait Times,Other,29,Resolved,False,2025-05,2025
+CMP-01174,2025-05-10,North Shore Hospital,Emergency Department,Treatment/Care,Asian,1,In Progress,True,2025-05,2025
+CMP-01175,2025-05-13,Waitakere Hospital,Paediatrics,Staff Behaviour,NZ European,11,Open,False,2025-05,2025
+CMP-01176,2025-05-14,North Shore Hospital,Paediatrics,Treatment/Care,Māori,11,Resolved,False,2025-05,2025
+CMP-01177,2025-05-14,North Shore Hospital,Maternity,Communication,NZ European,10,Open,False,2025-05,2025
+CMP-01178,2025-05-14,Waitakere Hospital,Older Adult Health,Treatment/Care,NZ European,7,In Progress,True,2025-05,2025
+CMP-01179,2025-05-15,Community Services West,Cardiology,Facilities/Environment,NZ European,22,In Progress,False,2025-05,2025
+CMP-01180,2025-05-16,Community Services North,Emergency Department,Wait Times,NZ European,12,Resolved,False,2025-05,2025
+CMP-01181,2025-05-17,Community Services West,Emergency Department,Treatment/Care,Pacific Peoples,18,Open,False,2025-05,2025
+CMP-01182,2025-05-17,Waitakere Hospital,Emergency Department,Access to Services,Māori,1,Open,False,2025-05,2025
+CMP-01183,2025-05-18,Community Services West,Maternity,Access to Services,Other,1,Resolved,True,2025-05,2025
+CMP-01184,2025-05-18,North Shore Hospital,Paediatrics,Treatment/Care,NZ European,1,Resolved,False,2025-05,2025
+CMP-01185,2025-05-18,North Shore Hospital,Cardiology,Treatment/Care,NZ European,1,Resolved,True,2025-05,2025
+CMP-01186,2025-05-19,Community Services North,Oncology,Staff Behaviour,NZ European,13,Resolved,False,2025-05,2025
+CMP-01187,2025-05-19,Waitakere Hospital,Cardiology,Communication,NZ European,8,In Progress,False,2025-05,2025
+CMP-01188,2025-05-19,North Shore Hospital,Mental Health,Staff Behaviour,Other,16,Resolved,False,2025-05,2025
+CMP-01189,2025-05-19,Community Services North,Emergency Department,Facilities/Environment,NZ European,2,Resolved,False,2025-05,2025
+CMP-01190,2025-05-20,North Shore Hospital,Oncology,Treatment/Care,Other,5,Open,False,2025-05,2025
+CMP-01191,2025-05-22,Waitakere Hospital,Mental Health,Communication,NZ European,26,Resolved,True,2025-05,2025
+CMP-01192,2025-05-22,North Shore Hospital,Maternity,Communication,NZ European,32,Resolved,False,2025-05,2025
+CMP-01193,2025-05-23,Community Services North,Oncology,Staff Behaviour,NZ European,30,Resolved,False,2025-05,2025
+CMP-01194,2025-05-24,North Shore Hospital,General Medicine,Treatment/Care,Asian,20,Resolved,False,2025-05,2025
+CMP-01195,2025-05-25,Waitakere Hospital,General Surgery,Wait Times,NZ European,13,In Progress,False,2025-05,2025
+CMP-01196,2025-05-25,North Shore Hospital,Paediatrics,Treatment/Care,Other,29,Open,False,2025-05,2025
+CMP-01197,2025-05-26,Community Services North,General Surgery,Communication,NZ European,15,Resolved,False,2025-05,2025
+CMP-01198,2025-05-26,Waitakere Hospital,General Medicine,Wait Times,NZ European,36,In Progress,False,2025-05,2025
+CMP-01199,2025-05-27,North Shore Hospital,Paediatrics,Wait Times,Māori,1,Resolved,False,2025-05,2025
+CMP-01200,2025-05-27,North Shore Hospital,Older Adult Health,Staff Behaviour,NZ European,30,Resolved,False,2025-05,2025
+CMP-01201,2025-05-28,North Shore Hospital,Oncology,Treatment/Care,NZ European,9,Resolved,False,2025-05,2025
+CMP-01202,2025-05-28,Waitakere Hospital,General Medicine,Communication,Asian,1,In Progress,False,2025-05,2025
+CMP-01203,2025-05-29,Waitakere Hospital,General Medicine,Facilities/Environment,NZ European,2,Resolved,False,2025-05,2025
+CMP-01204,2025-05-30,North Shore Hospital,Paediatrics,Staff Behaviour,Māori,22,Resolved,True,2025-05,2025
+CMP-01205,2025-05-31,Community Services North,Orthopaedics,Facilities/Environment,NZ European,8,Resolved,False,2025-05,2025
+CMP-01206,2025-05-31,Community Services West,Mental Health,Communication,NZ European,48,Resolved,False,2025-05,2025
+CMP-01207,2025-05-31,North Shore Hospital,Emergency Department,Communication,NZ European,1,In Progress,False,2025-05,2025
+CMP-01208,2025-06-01,Waitakere Hospital,Maternity,Wait Times,Māori,6,Resolved,False,2025-06,2025
+CMP-01209,2025-06-01,Waitakere Hospital,Cardiology,Access to Services,Asian,4,Open,False,2025-06,2025
+CMP-01210,2025-06-01,Waitakere Hospital,Older Adult Health,Access to Services,Māori,8,Resolved,False,2025-06,2025
+CMP-01211,2025-06-02,North Shore Hospital,Emergency Department,Access to Services,Asian,12,Open,False,2025-06,2025
+CMP-01212,2025-06-04,North Shore Hospital,General Medicine,Communication,NZ European,13,In Progress,False,2025-06,2025
+CMP-01213,2025-06-04,North Shore Hospital,Paediatrics,Access to Services,NZ European,1,Resolved,True,2025-06,2025
+CMP-01214,2025-06-04,Waitakere Hospital,General Medicine,Access to Services,NZ European,1,Resolved,False,2025-06,2025
+CMP-01215,2025-06-05,Waitakere Hospital,Oncology,Communication,Asian,1,In Progress,False,2025-06,2025
+CMP-01216,2025-06-05,North Shore Hospital,Maternity,Treatment/Care,Asian,23,In Progress,False,2025-06,2025
+CMP-01217,2025-06-06,North Shore Hospital,Mental Health,Wait Times,NZ European,4,Resolved,False,2025-06,2025
+CMP-01218,2025-06-06,North Shore Hospital,Paediatrics,Communication,NZ European,5,Resolved,False,2025-06,2025
+CMP-01219,2025-06-09,Community Services North,Cardiology,Wait Times,Pacific Peoples,7,Open,False,2025-06,2025
+CMP-01220,2025-06-10,North Shore Hospital,Older Adult Health,Access to Services,Asian,22,Resolved,False,2025-06,2025
+CMP-01221,2025-06-11,Waitakere Hospital,Oncology,Access to Services,Asian,1,Resolved,False,2025-06,2025
+CMP-01222,2025-06-11,Community Services North,Maternity,Discharge Process,NZ European,1,In Progress,False,2025-06,2025
+CMP-01223,2025-06-14,Community Services North,Mental Health,Wait Times,Māori,13,In Progress,False,2025-06,2025
+CMP-01224,2025-06-14,Community Services North,Paediatrics,Treatment/Care,Asian,39,In Progress,False,2025-06,2025
+CMP-01225,2025-06-14,North Shore Hospital,General Medicine,Staff Behaviour,NZ European,12,Resolved,False,2025-06,2025
+CMP-01226,2025-06-14,Community Services North,Older Adult Health,Treatment/Care,Māori,3,In Progress,False,2025-06,2025
+CMP-01227,2025-06-14,Community Services North,Orthopaedics,Communication,NZ European,8,Resolved,False,2025-06,2025
+CMP-01228,2025-06-15,Community Services North,Emergency Department,Staff Behaviour,NZ European,44,Resolved,False,2025-06,2025
+CMP-01229,2025-06-15,North Shore Hospital,General Surgery,Treatment/Care,Other,9,Resolved,False,2025-06,2025
+CMP-01230,2025-06-16,North Shore Hospital,Oncology,Communication,Other,5,In Progress,False,2025-06,2025
+CMP-01231,2025-06-16,Community Services North,Orthopaedics,Communication,NZ European,5,Resolved,False,2025-06,2025
+CMP-01232,2025-06-19,Community Services West,Cardiology,Discharge Process,NZ European,40,In Progress,False,2025-06,2025
+CMP-01233,2025-06-19,Community Services North,Cardiology,Treatment/Care,Pacific Peoples,15,In Progress,False,2025-06,2025
+CMP-01234,2025-06-19,Community Services West,General Surgery,Treatment/Care,NZ European,13,Resolved,True,2025-06,2025
+CMP-01235,2025-06-21,Waitakere Hospital,Orthopaedics,Discharge Process,NZ European,3,In Progress,True,2025-06,2025
+CMP-01236,2025-06-23,North Shore Hospital,General Surgery,Wait Times,NZ European,9,In Progress,True,2025-06,2025
+CMP-01237,2025-06-23,Community Services North,General Surgery,Communication,Māori,5,Resolved,False,2025-06,2025
+CMP-01238,2025-06-24,Community Services North,General Medicine,Wait Times,NZ European,3,Resolved,False,2025-06,2025
+CMP-01239,2025-06-25,Community Services North,Maternity,Communication,Māori,27,Resolved,False,2025-06,2025
+CMP-01240,2025-06-25,Community Services West,Cardiology,Communication,NZ European,5,Resolved,False,2025-06,2025
+CMP-01241,2025-06-27,Waitakere Hospital,Maternity,Access to Services,Asian,3,Open,False,2025-06,2025
+CMP-01242,2025-06-27,North Shore Hospital,Cardiology,Treatment/Care,Other,32,Resolved,False,2025-06,2025
+CMP-01243,2025-06-29,Community Services West,Orthopaedics,Staff Behaviour,Pacific Peoples,2,In Progress,False,2025-06,2025
+CMP-01244,2025-06-30,North Shore Hospital,Older Adult Health,Wait Times,Māori,16,In Progress,False,2025-06,2025
+CMP-01245,2025-06-30,Community Services North,Maternity,Communication,NZ European,12,Resolved,False,2025-06,2025
+CMP-01246,2025-07-01,Community Services West,Older Adult Health,Wait Times,Pacific Peoples,30,Resolved,False,2025-07,2025
+CMP-01247,2025-07-01,North Shore Hospital,Maternity,Communication,Other,21,Resolved,False,2025-07,2025
+CMP-01248,2025-07-02,Community Services West,Oncology,Treatment/Care,NZ European,14,Resolved,False,2025-07,2025
+CMP-01249,2025-07-03,North Shore Hospital,General Surgery,Wait Times,Māori,4,Resolved,False,2025-07,2025
+CMP-01250,2025-07-03,Community Services North,General Surgery,Communication,NZ European,8,Resolved,False,2025-07,2025
+CMP-01251,2025-07-04,North Shore Hospital,General Medicine,Staff Behaviour,NZ European,34,Resolved,False,2025-07,2025
+CMP-01252,2025-07-04,Community Services North,Cardiology,Communication,NZ European,1,Resolved,False,2025-07,2025
+CMP-01253,2025-07-05,Community Services North,Maternity,Wait Times,Other,18,In Progress,False,2025-07,2025
+CMP-01254,2025-07-05,Waitakere Hospital,Paediatrics,Staff Behaviour,NZ European,3,Resolved,False,2025-07,2025
+CMP-01255,2025-07-05,Community Services North,Paediatrics,Treatment/Care,Māori,2,Resolved,False,2025-07,2025
+CMP-01256,2025-07-05,Community Services West,Mental Health,Access to Services,Other,3,Resolved,False,2025-07,2025
+CMP-01257,2025-07-05,Community Services North,Maternity,Staff Behaviour,Māori,1,Resolved,False,2025-07,2025
+CMP-01258,2025-07-05,Community Services West,Paediatrics,Discharge Process,Asian,57,Resolved,False,2025-07,2025
+CMP-01259,2025-07-06,Waitakere Hospital,General Medicine,Treatment/Care,NZ European,24,Resolved,True,2025-07,2025
+CMP-01260,2025-07-06,Waitakere Hospital,Cardiology,Discharge Process,Other,8,Resolved,False,2025-07,2025
+CMP-01261,2025-07-06,North Shore Hospital,Paediatrics,Staff Behaviour,NZ European,15,Resolved,False,2025-07,2025
+CMP-01262,2025-07-07,Community Services West,Emergency Department,Facilities/Environment,Other,9,Resolved,False,2025-07,2025
+CMP-01263,2025-07-07,North Shore Hospital,Maternity,Discharge Process,NZ European,20,Resolved,False,2025-07,2025
+CMP-01264,2025-07-07,Waitakere Hospital,Older Adult Health,Wait Times,NZ European,22,Resolved,False,2025-07,2025
+CMP-01265,2025-07-08,North Shore Hospital,Emergency Department,Access to Services,NZ European,3,Open,False,2025-07,2025
+CMP-01266,2025-07-08,Waitakere Hospital,Emergency Department,Wait Times,NZ European,7,Resolved,False,2025-07,2025
+CMP-01267,2025-07-09,Community Services West,Maternity,Wait Times,NZ European,12,Resolved,False,2025-07,2025
+CMP-01268,2025-07-09,Waitakere Hospital,Mental Health,Treatment/Care,Other,46,Open,False,2025-07,2025
+CMP-01269,2025-07-10,Community Services West,General Surgery,Communication,NZ European,13,In Progress,False,2025-07,2025
+CMP-01270,2025-07-10,Waitakere Hospital,Cardiology,Wait Times,Pacific Peoples,27,In Progress,False,2025-07,2025
+CMP-01271,2025-07-10,Community Services West,Cardiology,Other,NZ European,22,Resolved,False,2025-07,2025
+CMP-01272,2025-07-11,Waitakere Hospital,Paediatrics,Facilities/Environment,Asian,10,Resolved,False,2025-07,2025
+CMP-01273,2025-07-11,North Shore Hospital,Paediatrics,Facilities/Environment,Māori,26,Resolved,False,2025-07,2025
+CMP-01274,2025-07-11,Waitakere Hospital,Paediatrics,Staff Behaviour,Other,5,In Progress,False,2025-07,2025
+CMP-01275,2025-07-12,Waitakere Hospital,Maternity,Treatment/Care,NZ European,5,In Progress,False,2025-07,2025
+CMP-01276,2025-07-13,North Shore Hospital,Orthopaedics,Communication,NZ European,18,Resolved,False,2025-07,2025
+CMP-01277,2025-07-14,North Shore Hospital,Oncology,Communication,NZ European,1,Resolved,False,2025-07,2025
+CMP-01278,2025-07-15,North Shore Hospital,Oncology,Communication,Pacific Peoples,4,Resolved,True,2025-07,2025
+CMP-01279,2025-07-15,North Shore Hospital,Paediatrics,Staff Behaviour,Pacific Peoples,11,Resolved,False,2025-07,2025
+CMP-01280,2025-07-16,Waitakere Hospital,Paediatrics,Facilities/Environment,Asian,6,In Progress,False,2025-07,2025
+CMP-01281,2025-07-17,Waitakere Hospital,Older Adult Health,Treatment/Care,NZ European,33,Resolved,False,2025-07,2025
+CMP-01282,2025-07-17,Community Services North,Mental Health,Communication,Māori,38,Resolved,False,2025-07,2025
+CMP-01283,2025-07-20,Community Services West,Oncology,Treatment/Care,Other,8,In Progress,False,2025-07,2025
+CMP-01284,2025-07-24,Waitakere Hospital,Maternity,Treatment/Care,NZ European,9,Resolved,False,2025-07,2025
+CMP-01285,2025-07-26,Waitakere Hospital,Paediatrics,Wait Times,NZ European,15,Resolved,False,2025-07,2025
+CMP-01286,2025-07-26,North Shore Hospital,Paediatrics,Treatment/Care,Pacific Peoples,7,Resolved,False,2025-07,2025
+CMP-01287,2025-07-26,Waitakere Hospital,Oncology,Treatment/Care,NZ European,2,Resolved,False,2025-07,2025
+CMP-01288,2025-07-26,Community Services North,Paediatrics,Discharge Process,Pacific Peoples,16,Resolved,False,2025-07,2025
+CMP-01289,2025-07-27,North Shore Hospital,General Surgery,Treatment/Care,Māori,16,Resolved,False,2025-07,2025
+CMP-01290,2025-07-27,North Shore Hospital,Maternity,Facilities/Environment,Other,3,Resolved,True,2025-07,2025
+CMP-01291,2025-07-28,Waitakere Hospital,Maternity,Staff Behaviour,Asian,21,Resolved,False,2025-07,2025
+CMP-01292,2025-07-30,Community Services North,Paediatrics,Treatment/Care,Pacific Peoples,11,Resolved,False,2025-07,2025
+CMP-01293,2025-07-30,Waitakere Hospital,Maternity,Facilities/Environment,NZ European,3,In Progress,False,2025-07,2025
+CMP-01294,2025-07-31,Community Services West,Orthopaedics,Wait Times,NZ European,12,Resolved,False,2025-07,2025
+CMP-01295,2025-08-01,Community Services West,Maternity,Communication,Asian,3,Resolved,False,2025-08,2025
+CMP-01296,2025-08-02,North Shore Hospital,General Surgery,Communication,Māori,3,Resolved,False,2025-08,2025
+CMP-01297,2025-08-04,North Shore Hospital,Emergency Department,Facilities/Environment,Asian,22,Resolved,False,2025-08,2025
+CMP-01298,2025-08-05,Waitakere Hospital,Emergency Department,Treatment/Care,NZ European,31,Resolved,False,2025-08,2025
+CMP-01299,2025-08-05,Waitakere Hospital,Mental Health,Treatment/Care,NZ European,3,Open,False,2025-08,2025
+CMP-01300,2025-08-05,Waitakere Hospital,Older Adult Health,Communication,NZ European,31,Resolved,True,2025-08,2025
+CMP-01301,2025-08-06,North Shore Hospital,General Surgery,Communication,NZ European,3,Resolved,False,2025-08,2025
+CMP-01302,2025-08-06,North Shore Hospital,General Medicine,Facilities/Environment,Asian,1,Resolved,False,2025-08,2025
+CMP-01303,2025-08-06,North Shore Hospital,Older Adult Health,Access to Services,Pacific Peoples,1,In Progress,False,2025-08,2025
+CMP-01304,2025-08-06,Community Services West,Oncology,Wait Times,NZ European,3,In Progress,False,2025-08,2025
+CMP-01305,2025-08-07,Community Services West,Oncology,Treatment/Care,Māori,5,Resolved,True,2025-08,2025
+CMP-01306,2025-08-08,North Shore Hospital,General Medicine,Discharge Process,Asian,31,Resolved,False,2025-08,2025
+CMP-01307,2025-08-09,North Shore Hospital,Older Adult Health,Staff Behaviour,Pacific Peoples,3,Resolved,False,2025-08,2025
+CMP-01308,2025-08-11,North Shore Hospital,General Medicine,Facilities/Environment,Māori,5,In Progress,False,2025-08,2025
+CMP-01309,2025-08-12,Community Services West,Paediatrics,Communication,NZ European,15,Resolved,False,2025-08,2025
+CMP-01310,2025-08-12,Community Services West,Older Adult Health,Wait Times,Asian,4,Resolved,False,2025-08,2025
+CMP-01311,2025-08-12,North Shore Hospital,Emergency Department,Access to Services,NZ European,13,Resolved,False,2025-08,2025
+CMP-01312,2025-08-15,North Shore Hospital,Older Adult Health,Treatment/Care,Asian,6,Resolved,False,2025-08,2025
+CMP-01313,2025-08-16,Waitakere Hospital,General Surgery,Facilities/Environment,Asian,2,Resolved,False,2025-08,2025
+CMP-01314,2025-08-17,Waitakere Hospital,Emergency Department,Staff Behaviour,Asian,15,Resolved,False,2025-08,2025
+CMP-01315,2025-08-17,Community Services North,Paediatrics,Communication,Other,1,Open,False,2025-08,2025
+CMP-01316,2025-08-18,Waitakere Hospital,Cardiology,Facilities/Environment,Pacific Peoples,4,Resolved,False,2025-08,2025
+CMP-01317,2025-08-19,Community Services West,General Surgery,Communication,NZ European,5,Resolved,True,2025-08,2025
+CMP-01318,2025-08-20,North Shore Hospital,Older Adult Health,Facilities/Environment,NZ European,7,Resolved,False,2025-08,2025
+CMP-01319,2025-08-20,Community Services North,Oncology,Other,NZ European,13,Resolved,False,2025-08,2025
+CMP-01320,2025-08-21,North Shore Hospital,General Medicine,Discharge Process,NZ European,7,Resolved,False,2025-08,2025
+CMP-01321,2025-08-22,Waitakere Hospital,Emergency Department,Facilities/Environment,NZ European,10,In Progress,False,2025-08,2025
+CMP-01322,2025-08-22,Community Services North,Older Adult Health,Wait Times,Māori,10,Resolved,False,2025-08,2025
+CMP-01323,2025-08-23,Community Services West,Cardiology,Staff Behaviour,NZ European,5,Open,False,2025-08,2025
+CMP-01324,2025-08-23,Community Services North,Maternity,Facilities/Environment,Māori,32,Resolved,False,2025-08,2025
+CMP-01325,2025-08-24,Community Services North,Cardiology,Communication,Asian,37,Resolved,False,2025-08,2025
+CMP-01326,2025-08-24,Community Services North,Emergency Department,Communication,Pacific Peoples,10,Resolved,True,2025-08,2025
+CMP-01327,2025-08-26,North Shore Hospital,General Surgery,Wait Times,Other,1,In Progress,False,2025-08,2025
+CMP-01328,2025-08-26,Community Services North,Oncology,Communication,NZ European,8,Resolved,True,2025-08,2025
+CMP-01329,2025-08-27,Community Services North,Oncology,Discharge Process,Māori,2,Resolved,False,2025-08,2025
+CMP-01330,2025-08-28,Waitakere Hospital,Maternity,Wait Times,NZ European,7,Resolved,False,2025-08,2025
+CMP-01331,2025-08-29,Waitakere Hospital,General Surgery,Treatment/Care,Māori,2,Resolved,False,2025-08,2025
+CMP-01332,2025-08-29,Community Services North,Older Adult Health,Treatment/Care,Māori,14,Resolved,True,2025-08,2025
+CMP-01333,2025-08-30,Community Services North,Maternity,Access to Services,NZ European,1,Resolved,True,2025-08,2025
+CMP-01334,2025-08-31,North Shore Hospital,Emergency Department,Discharge Process,NZ European,36,Open,False,2025-08,2025
+CMP-01335,2025-08-31,Community Services North,Maternity,Communication,Pacific Peoples,2,Resolved,False,2025-08,2025
+CMP-01336,2025-09-01,Community Services North,Mental Health,Facilities/Environment,Asian,12,Resolved,False,2025-09,2025
+CMP-01337,2025-09-01,North Shore Hospital,Older Adult Health,Wait Times,Māori,29,In Progress,True,2025-09,2025
+CMP-01338,2025-09-03,Community Services North,General Medicine,Wait Times,NZ European,3,Resolved,False,2025-09,2025
+CMP-01339,2025-09-05,North Shore Hospital,Paediatrics,Facilities/Environment,NZ European,32,Resolved,False,2025-09,2025
+CMP-01340,2025-09-07,North Shore Hospital,Maternity,Communication,NZ European,5,Open,False,2025-09,2025
+CMP-01341,2025-09-07,Waitakere Hospital,Emergency Department,Wait Times,Other,38,Resolved,False,2025-09,2025
+CMP-01342,2025-09-08,Community Services West,Older Adult Health,Treatment/Care,Asian,42,Resolved,False,2025-09,2025
+CMP-01343,2025-09-09,North Shore Hospital,Maternity,Communication,NZ European,2,Resolved,False,2025-09,2025
+CMP-01344,2025-09-09,Community Services North,General Surgery,Communication,NZ European,21,Resolved,False,2025-09,2025
+CMP-01345,2025-09-10,Waitakere Hospital,Mental Health,Communication,Māori,2,Resolved,True,2025-09,2025
+CMP-01346,2025-09-11,Community Services West,Paediatrics,Staff Behaviour,NZ European,3,Resolved,False,2025-09,2025
+CMP-01347,2025-09-11,Community Services West,Oncology,Communication,Other,1,Resolved,False,2025-09,2025
+CMP-01348,2025-09-11,Community Services West,Orthopaedics,Wait Times,Asian,2,Resolved,False,2025-09,2025
+CMP-01349,2025-09-12,Community Services North,General Medicine,Wait Times,NZ European,12,In Progress,False,2025-09,2025
+CMP-01350,2025-09-12,Community Services West,General Surgery,Discharge Process,NZ European,7,Resolved,False,2025-09,2025
+CMP-01351,2025-09-12,North Shore Hospital,Paediatrics,Staff Behaviour,Asian,18,In Progress,False,2025-09,2025
+CMP-01352,2025-09-13,North Shore Hospital,Older Adult Health,Other,NZ European,4,Resolved,False,2025-09,2025
+CMP-01353,2025-09-13,North Shore Hospital,Mental Health,Communication,Pacific Peoples,41,Resolved,False,2025-09,2025
+CMP-01354,2025-09-14,Community Services North,General Surgery,Staff Behaviour,NZ European,1,Resolved,False,2025-09,2025
+CMP-01355,2025-09-14,North Shore Hospital,Emergency Department,Communication,NZ European,1,Resolved,False,2025-09,2025
+CMP-01356,2025-09-14,North Shore Hospital,Cardiology,Facilities/Environment,Pacific Peoples,14,Resolved,False,2025-09,2025
+CMP-01357,2025-09-15,Community Services West,Emergency Department,Treatment/Care,Māori,26,In Progress,False,2025-09,2025
+CMP-01358,2025-09-16,Community Services North,General Medicine,Staff Behaviour,NZ European,19,Resolved,False,2025-09,2025
+CMP-01359,2025-09-16,Community Services West,Mental Health,Treatment/Care,NZ European,8,Resolved,False,2025-09,2025
+CMP-01360,2025-09-16,North Shore Hospital,General Surgery,Communication,Māori,3,Resolved,False,2025-09,2025
+CMP-01361,2025-09-18,Waitakere Hospital,Paediatrics,Facilities/Environment,Pacific Peoples,1,Resolved,True,2025-09,2025
+CMP-01362,2025-09-18,North Shore Hospital,General Medicine,Discharge Process,NZ European,8,Resolved,True,2025-09,2025
+CMP-01363,2025-09-19,North Shore Hospital,General Medicine,Communication,Pacific Peoples,7,Open,False,2025-09,2025
+CMP-01364,2025-09-19,North Shore Hospital,General Surgery,Discharge Process,NZ European,5,Resolved,False,2025-09,2025
+CMP-01365,2025-09-20,Waitakere Hospital,Emergency Department,Communication,NZ European,10,Resolved,False,2025-09,2025
+CMP-01366,2025-09-22,North Shore Hospital,General Medicine,Facilities/Environment,Pacific Peoples,15,Resolved,False,2025-09,2025
+CMP-01367,2025-09-22,Waitakere Hospital,Mental Health,Discharge Process,Pacific Peoples,14,In Progress,False,2025-09,2025
+CMP-01368,2025-09-22,Waitakere Hospital,General Surgery,Communication,NZ European,3,Resolved,True,2025-09,2025
+CMP-01369,2025-09-22,North Shore Hospital,Cardiology,Treatment/Care,NZ European,10,Resolved,False,2025-09,2025
+CMP-01370,2025-09-23,Community Services North,Maternity,Treatment/Care,NZ European,1,Resolved,False,2025-09,2025
+CMP-01371,2025-09-23,Community Services North,General Medicine,Treatment/Care,Asian,1,Resolved,False,2025-09,2025
+CMP-01372,2025-09-24,Community Services West,Older Adult Health,Facilities/Environment,NZ European,18,Open,False,2025-09,2025
+CMP-01373,2025-09-25,Waitakere Hospital,Orthopaedics,Staff Behaviour,NZ European,14,Resolved,True,2025-09,2025
+CMP-01374,2025-09-26,Community Services West,General Surgery,Discharge Process,NZ European,17,Open,False,2025-09,2025
+CMP-01375,2025-09-30,Community Services West,Mental Health,Communication,NZ European,1,Resolved,False,2025-09,2025
+CMP-01376,2025-09-30,Waitakere Hospital,Older Adult Health,Wait Times,Asian,29,Resolved,True,2025-09,2025
+CMP-01377,2025-09-30,Waitakere Hospital,Oncology,Treatment/Care,NZ European,1,Resolved,False,2025-09,2025
+CMP-01378,2025-09-30,North Shore Hospital,Emergency Department,Discharge Process,Māori,24,In Progress,False,2025-09,2025
+CMP-01379,2025-09-30,Community Services North,Orthopaedics,Communication,NZ European,5,Resolved,False,2025-09,2025
+CMP-01380,2025-10-01,Waitakere Hospital,Maternity,Other,Māori,1,Resolved,False,2025-10,2025
+CMP-01381,2025-10-01,Community Services West,Maternity,Wait Times,NZ European,4,Open,False,2025-10,2025
+CMP-01382,2025-10-02,Waitakere Hospital,Oncology,Staff Behaviour,NZ European,2,Resolved,True,2025-10,2025
+CMP-01383,2025-10-02,Community Services West,Emergency Department,Treatment/Care,NZ European,8,Resolved,False,2025-10,2025
+CMP-01384,2025-10-03,Community Services West,Mental Health,Access to Services,Asian,35,In Progress,False,2025-10,2025
+CMP-01385,2025-10-03,Community Services West,Cardiology,Wait Times,Pacific Peoples,4,Resolved,False,2025-10,2025
+CMP-01386,2025-10-04,North Shore Hospital,Emergency Department,Staff Behaviour,NZ European,11,In Progress,False,2025-10,2025
+CMP-01387,2025-10-04,North Shore Hospital,Maternity,Staff Behaviour,NZ European,26,Resolved,False,2025-10,2025
+CMP-01388,2025-10-05,Community Services North,Oncology,Treatment/Care,NZ European,11,Resolved,False,2025-10,2025
+CMP-01389,2025-10-07,Community Services North,Orthopaedics,Communication,Māori,5,Resolved,False,2025-10,2025
+CMP-01390,2025-10-08,North Shore Hospital,Cardiology,Facilities/Environment,Asian,56,Resolved,False,2025-10,2025
+CMP-01391,2025-10-08,Community Services North,Cardiology,Treatment/Care,Other,2,Resolved,False,2025-10,2025
+CMP-01392,2025-10-09,Waitakere Hospital,Oncology,Access to Services,Pacific Peoples,8,Resolved,False,2025-10,2025
+CMP-01393,2025-10-10,North Shore Hospital,General Surgery,Staff Behaviour,NZ European,19,In Progress,True,2025-10,2025
+CMP-01394,2025-10-10,Waitakere Hospital,Paediatrics,Treatment/Care,Pacific Peoples,1,Open,False,2025-10,2025
+CMP-01395,2025-10-11,Community Services West,Mental Health,Wait Times,NZ European,14,Resolved,False,2025-10,2025
+CMP-01396,2025-10-11,Waitakere Hospital,Cardiology,Staff Behaviour,Māori,3,Resolved,False,2025-10,2025
+CMP-01397,2025-10-11,Community Services North,Emergency Department,Staff Behaviour,NZ European,2,Resolved,False,2025-10,2025
+CMP-01398,2025-10-14,North Shore Hospital,Paediatrics,Access to Services,NZ European,3,Resolved,False,2025-10,2025
+CMP-01399,2025-10-17,Community Services North,Older Adult Health,Communication,NZ European,40,In Progress,False,2025-10,2025
+CMP-01400,2025-10-17,Community Services West,Maternity,Discharge Process,NZ European,26,Resolved,True,2025-10,2025
+CMP-01401,2025-10-20,Waitakere Hospital,Emergency Department,Treatment/Care,Māori,2,Resolved,True,2025-10,2025
+CMP-01402,2025-10-20,North Shore Hospital,Oncology,Access to Services,Asian,1,Resolved,False,2025-10,2025
+CMP-01403,2025-10-21,Waitakere Hospital,Paediatrics,Communication,Asian,5,Resolved,False,2025-10,2025
+CMP-01404,2025-10-22,Community Services West,Maternity,Communication,Other,10,Resolved,True,2025-10,2025
+CMP-01405,2025-10-22,North Shore Hospital,Orthopaedics,Wait Times,NZ European,24,Resolved,False,2025-10,2025
+CMP-01406,2025-10-22,Waitakere Hospital,General Surgery,Treatment/Care,Māori,40,Resolved,True,2025-10,2025
+CMP-01407,2025-10-23,North Shore Hospital,Orthopaedics,Other,Māori,16,Resolved,True,2025-10,2025
+CMP-01408,2025-10-23,Waitakere Hospital,Emergency Department,Communication,Asian,10,Resolved,False,2025-10,2025
+CMP-01409,2025-10-24,Waitakere Hospital,Oncology,Communication,NZ European,1,Open,False,2025-10,2025
+CMP-01410,2025-10-24,Community Services West,General Medicine,Communication,NZ European,1,Resolved,False,2025-10,2025
+CMP-01411,2025-10-25,Waitakere Hospital,General Medicine,Communication,NZ European,10,Resolved,False,2025-10,2025
+CMP-01412,2025-10-26,Waitakere Hospital,General Surgery,Wait Times,Other,9,Resolved,False,2025-10,2025
+CMP-01413,2025-10-26,Community Services West,Emergency Department,Wait Times,Asian,22,Resolved,False,2025-10,2025
+CMP-01414,2025-10-26,North Shore Hospital,Cardiology,Treatment/Care,NZ European,4,In Progress,False,2025-10,2025
+CMP-01415,2025-10-26,Community Services North,General Surgery,Communication,Asian,1,Open,False,2025-10,2025
+CMP-01416,2025-10-28,Community Services North,Orthopaedics,Communication,NZ European,6,In Progress,False,2025-10,2025
+CMP-01417,2025-10-28,North Shore Hospital,Oncology,Communication,NZ European,41,In Progress,False,2025-10,2025
+CMP-01418,2025-10-28,North Shore Hospital,Mental Health,Facilities/Environment,Pacific Peoples,19,Open,False,2025-10,2025
+CMP-01419,2025-10-28,Waitakere Hospital,Maternity,Facilities/Environment,NZ European,1,Resolved,False,2025-10,2025
+CMP-01420,2025-10-29,Waitakere Hospital,Emergency Department,Facilities/Environment,NZ European,24,Resolved,True,2025-10,2025
+CMP-01421,2025-10-30,North Shore Hospital,General Surgery,Discharge Process,Asian,7,Resolved,False,2025-10,2025
+CMP-01422,2025-10-30,Community Services West,Paediatrics,Access to Services,Māori,5,In Progress,False,2025-10,2025
+CMP-01423,2025-10-30,Waitakere Hospital,Paediatrics,Wait Times,Other,5,Resolved,False,2025-10,2025
+CMP-01424,2025-10-31,Community Services West,Cardiology,Treatment/Care,NZ European,10,Resolved,False,2025-10,2025
+CMP-01425,2025-10-31,North Shore Hospital,Emergency Department,Discharge Process,NZ European,9,In Progress,False,2025-10,2025
+CMP-01426,2025-11-01,Community Services West,Oncology,Staff Behaviour,NZ European,12,Resolved,False,2025-11,2025
+CMP-01427,2025-11-04,Community Services North,Emergency Department,Treatment/Care,Asian,10,Resolved,False,2025-11,2025
+CMP-01428,2025-11-05,Community Services North,Paediatrics,Wait Times,NZ European,1,Open,False,2025-11,2025
+CMP-01429,2025-11-06,Waitakere Hospital,General Medicine,Other,NZ European,3,In Progress,False,2025-11,2025
+CMP-01430,2025-11-06,Waitakere Hospital,Oncology,Access to Services,NZ European,22,In Progress,False,2025-11,2025
+CMP-01431,2025-11-07,Waitakere Hospital,Oncology,Treatment/Care,Asian,13,In Progress,False,2025-11,2025
+CMP-01432,2025-11-07,Community Services North,Oncology,Discharge Process,NZ European,7,Resolved,False,2025-11,2025
+CMP-01433,2025-11-07,Community Services West,Orthopaedics,Other,NZ European,2,Resolved,False,2025-11,2025
+CMP-01434,2025-11-07,North Shore Hospital,Maternity,Communication,NZ European,1,Resolved,False,2025-11,2025
+CMP-01435,2025-11-09,Community Services West,General Medicine,Access to Services,NZ European,4,In Progress,True,2025-11,2025
+CMP-01436,2025-11-09,Community Services West,General Surgery,Access to Services,NZ European,1,Resolved,False,2025-11,2025
+CMP-01437,2025-11-09,Waitakere Hospital,Maternity,Communication,NZ European,7,Resolved,False,2025-11,2025
+CMP-01438,2025-11-10,North Shore Hospital,Emergency Department,Staff Behaviour,Asian,20,Resolved,False,2025-11,2025
+CMP-01439,2025-11-10,Community Services North,Paediatrics,Treatment/Care,NZ European,4,Resolved,False,2025-11,2025
+CMP-01440,2025-11-13,Waitakere Hospital,General Medicine,Staff Behaviour,NZ European,22,Resolved,False,2025-11,2025
+CMP-01441,2025-11-14,Community Services North,Older Adult Health,Discharge Process,NZ European,14,Open,False,2025-11,2025
+CMP-01442,2025-11-15,Community Services North,Mental Health,Wait Times,Other,1,Resolved,False,2025-11,2025
+CMP-01443,2025-11-19,North Shore Hospital,Paediatrics,Treatment/Care,NZ European,12,Resolved,False,2025-11,2025
+CMP-01444,2025-11-23,Waitakere Hospital,Older Adult Health,Discharge Process,Asian,1,Resolved,False,2025-11,2025
+CMP-01445,2025-11-26,Waitakere Hospital,General Surgery,Other,Asian,12,Resolved,False,2025-11,2025
+CMP-01446,2025-11-26,Community Services West,Maternity,Communication,NZ European,1,Resolved,False,2025-11,2025
+CMP-01447,2025-11-27,North Shore Hospital,Oncology,Discharge Process,NZ European,5,Resolved,True,2025-11,2025
+CMP-01448,2025-11-27,North Shore Hospital,Orthopaedics,Communication,Pacific Peoples,10,In Progress,False,2025-11,2025
+CMP-01449,2025-11-28,Community Services West,Cardiology,Treatment/Care,Pacific Peoples,1,In Progress,False,2025-11,2025
+CMP-01450,2025-11-28,North Shore Hospital,Paediatrics,Facilities/Environment,Asian,1,In Progress,False,2025-11,2025
+CMP-01451,2025-11-29,Community Services North,Emergency Department,Facilities/Environment,Asian,4,Resolved,False,2025-11,2025
+CMP-01452,2025-11-30,North Shore Hospital,Paediatrics,Facilities/Environment,NZ European,7,In Progress,False,2025-11,2025
+CMP-01453,2025-11-30,Waitakere Hospital,Oncology,Communication,Pacific Peoples,23,Open,False,2025-11,2025
+CMP-01454,2025-12-02,Waitakere Hospital,Cardiology,Communication,NZ European,2,In Progress,False,2025-12,2025
+CMP-01455,2025-12-02,Waitakere Hospital,Older Adult Health,Discharge Process,Māori,5,Resolved,True,2025-12,2025
+CMP-01456,2025-12-03,Community Services West,Orthopaedics,Communication,Māori,7,Resolved,False,2025-12,2025
+CMP-01457,2025-12-04,North Shore Hospital,General Surgery,Communication,NZ European,4,Resolved,False,2025-12,2025
+CMP-01458,2025-12-05,Waitakere Hospital,Paediatrics,Access to Services,NZ European,11,In Progress,False,2025-12,2025
+CMP-01459,2025-12-05,Waitakere Hospital,Emergency Department,Staff Behaviour,NZ European,3,Resolved,False,2025-12,2025
+CMP-01460,2025-12-06,Waitakere Hospital,Older Adult Health,Treatment/Care,NZ European,17,Resolved,False,2025-12,2025
+CMP-01461,2025-12-06,Waitakere Hospital,Emergency Department,Communication,Asian,8,Resolved,False,2025-12,2025
+CMP-01462,2025-12-06,North Shore Hospital,Paediatrics,Access to Services,Māori,1,In Progress,False,2025-12,2025
+CMP-01463,2025-12-07,Community Services West,Maternity,Other,Pacific Peoples,11,In Progress,False,2025-12,2025
+CMP-01464,2025-12-07,Waitakere Hospital,Cardiology,Communication,NZ European,10,Open,False,2025-12,2025
+CMP-01465,2025-12-10,North Shore Hospital,Older Adult Health,Wait Times,NZ European,4,Open,False,2025-12,2025
+CMP-01466,2025-12-10,Waitakere Hospital,Maternity,Treatment/Care,NZ European,1,Resolved,False,2025-12,2025
+CMP-01467,2025-12-11,North Shore Hospital,Mental Health,Access to Services,NZ European,2,Resolved,True,2025-12,2025
+CMP-01468,2025-12-11,North Shore Hospital,Oncology,Treatment/Care,Māori,6,In Progress,True,2025-12,2025
+CMP-01469,2025-12-12,North Shore Hospital,Orthopaedics,Staff Behaviour,Asian,2,Open,False,2025-12,2025
+CMP-01470,2025-12-13,North Shore Hospital,Paediatrics,Wait Times,NZ European,10,Resolved,False,2025-12,2025
+CMP-01471,2025-12-14,North Shore Hospital,Maternity,Wait Times,Māori,14,Resolved,False,2025-12,2025
+CMP-01472,2025-12-15,Waitakere Hospital,Cardiology,Access to Services,NZ European,23,Resolved,False,2025-12,2025
+CMP-01473,2025-12-16,Waitakere Hospital,Maternity,Wait Times,NZ European,12,Resolved,False,2025-12,2025
+CMP-01474,2025-12-16,Waitakere Hospital,Mental Health,Access to Services,NZ European,14,Resolved,False,2025-12,2025
+CMP-01475,2025-12-16,North Shore Hospital,General Medicine,Treatment/Care,Pacific Peoples,11,Resolved,False,2025-12,2025
+CMP-01476,2025-12-16,Community Services West,Orthopaedics,Communication,Māori,50,In Progress,False,2025-12,2025
+CMP-01477,2025-12-17,Community Services North,Emergency Department,Wait Times,NZ European,3,Resolved,True,2025-12,2025
+CMP-01478,2025-12-17,Community Services West,Oncology,Wait Times,Māori,3,Resolved,False,2025-12,2025
+CMP-01479,2025-12-17,Waitakere Hospital,Oncology,Wait Times,Māori,1,Resolved,False,2025-12,2025
+CMP-01480,2025-12-18,Community Services North,Older Adult Health,Facilities/Environment,NZ European,7,In Progress,False,2025-12,2025
+CMP-01481,2025-12-18,North Shore Hospital,Orthopaedics,Wait Times,Pacific Peoples,1,Resolved,False,2025-12,2025
+CMP-01482,2025-12-18,Community Services North,Mental Health,Access to Services,Asian,3,Resolved,False,2025-12,2025
+CMP-01483,2025-12-19,North Shore Hospital,Emergency Department,Wait Times,NZ European,7,Resolved,False,2025-12,2025
+CMP-01484,2025-12-19,North Shore Hospital,Orthopaedics,Communication,Pacific Peoples,37,Resolved,False,2025-12,2025
+CMP-01485,2025-12-20,Waitakere Hospital,Orthopaedics,Communication,NZ European,39,Resolved,False,2025-12,2025
+CMP-01486,2025-12-20,Waitakere Hospital,Mental Health,Access to Services,Asian,16,Resolved,False,2025-12,2025
+CMP-01487,2025-12-21,Waitakere Hospital,General Medicine,Communication,Other,5,Resolved,False,2025-12,2025
+CMP-01488,2025-12-21,North Shore Hospital,General Medicine,Communication,NZ European,24,Resolved,False,2025-12,2025
+CMP-01489,2025-12-21,Waitakere Hospital,General Medicine,Communication,NZ European,24,Resolved,False,2025-12,2025
+CMP-01490,2025-12-22,Community Services West,Older Adult Health,Treatment/Care,NZ European,28,In Progress,False,2025-12,2025
+CMP-01491,2025-12-22,Community Services West,General Medicine,Wait Times,NZ European,12,In Progress,False,2025-12,2025
+CMP-01492,2025-12-22,Waitakere Hospital,Maternity,Communication,NZ European,2,Resolved,False,2025-12,2025
+CMP-01493,2025-12-23,Waitakere Hospital,General Medicine,Wait Times,Pacific Peoples,1,Resolved,False,2025-12,2025
+CMP-01494,2025-12-24,North Shore Hospital,Older Adult Health,Treatment/Care,NZ European,29,Resolved,False,2025-12,2025
+CMP-01495,2025-12-24,North Shore Hospital,Emergency Department,Facilities/Environment,NZ European,1,Resolved,False,2025-12,2025
+CMP-01496,2025-12-24,North Shore Hospital,General Medicine,Access to Services,Pacific Peoples,4,In Progress,False,2025-12,2025
+CMP-01497,2025-12-26,Waitakere Hospital,Mental Health,Staff Behaviour,Pacific Peoples,8,Resolved,False,2025-12,2025
+CMP-01498,2025-12-27,Community Services North,Maternity,Wait Times,NZ European,1,In Progress,True,2025-12,2025
+CMP-01499,2025-12-27,Waitakere Hospital,Oncology,Communication,Pacific Peoples,28,In Progress,True,2025-12,2025
+CMP-01500,2025-12-29,North Shore Hospital,Maternity,Access to Services,Other,4,Resolved,False,2025-12,2025
