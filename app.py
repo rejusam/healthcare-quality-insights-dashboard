@@ -144,7 +144,7 @@ if page == "📊 Executive Summary":
         )
         fig.update_layout(height=350, margin=dict(t=20, b=40))
         fig.update_xaxes(tickangle=45, dtick=3)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with col_right:
         st.subheader("Events by Severity")
@@ -155,7 +155,7 @@ if page == "📊 Executive Summary":
             color_discrete_sequence=["#d32f2f", "#f57c00", "#fbc02d", "#388e3c"],
         )
         fig.update_layout(height=350, margin=dict(t=20, b=20))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     # Row 3
     col_left2, col_right2 = st.columns(2)
@@ -172,7 +172,7 @@ if page == "📊 Executive Summary":
         )
         fig.update_layout(height=350, margin=dict(t=20, b=20), showlegend=False)
         fig.update_coloraxes(showscale=False)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with col_right2:
         st.subheader("Events by Facility")
@@ -183,7 +183,7 @@ if page == "📊 Executive Summary":
             color="facility", color_discrete_sequence=COLORS,
         )
         fig.update_layout(height=350, margin=dict(t=20, b=20), showlegend=False)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     # Heatmap: Events by Service x Category
     st.subheader("Event Heatmap: Service vs Category")
@@ -193,7 +193,7 @@ if page == "📊 Executive Summary":
         labels={"x": "Event Category", "y": "Service", "color": "Count"},
     )
     fig.update_layout(height=450, margin=dict(t=20, b=20))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 # ═══════════════════════════════════════════════════════
@@ -221,7 +221,7 @@ elif page == "⚠️ Adverse Events Analysis":
         )
         fig.update_layout(height=400, margin=dict(t=20, b=40))
         fig.update_xaxes(tickangle=45, dtick=3)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         # Year-over-Year comparison
         st.subheader("Year-over-Year Comparison by Category")
@@ -231,7 +231,7 @@ elif page == "⚠️ Adverse Events Analysis":
             barmode="group", color_discrete_sequence=COLORS,
         )
         fig.update_layout(height=400, margin=dict(t=20, b=40))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with tab2:
         col1, col2 = st.columns(2)
@@ -244,7 +244,7 @@ elif page == "⚠️ Adverse Events Analysis":
                 labels={"patient_age": "Patient Age"},
             )
             fig.update_layout(height=400, margin=dict(t=20, b=20))
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
         with col2:
             st.subheader("Events by Ethnicity")
@@ -255,7 +255,7 @@ elif page == "⚠️ Adverse Events Analysis":
                 color="ethnicity", color_discrete_sequence=COLORS,
             )
             fig.update_layout(height=400, margin=dict(t=20, b=20), showlegend=False)
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
         # Age-category relationship
         st.subheader("Event Category by Age Group")
@@ -265,13 +265,13 @@ elif page == "⚠️ Adverse Events Analysis":
             bins=[0, 18, 40, 65, 80, 100],
             labels=["0-18", "19-40", "41-65", "66-80", "81+"],
         )
-        age_cat = ae_temp.groupby(["age_group", "event_category"]).size().reset_index(name="count")
+        age_cat = ae_temp.groupby(["age_group", "event_category"], observed=False).size().reset_index(name="count")
         fig = px.bar(
             age_cat, x="age_group", y="count", color="event_category",
             color_discrete_sequence=COLORS,
         )
         fig.update_layout(height=400, margin=dict(t=20))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with tab3:
         st.subheader("Days to Close Distribution by Severity")
@@ -281,7 +281,7 @@ elif page == "⚠️ Adverse Events Analysis":
             color_discrete_sequence=["#d32f2f", "#f57c00", "#fbc02d", "#388e3c"],
         )
         fig.update_layout(height=400, margin=dict(t=20))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         # Timeliness trend
         st.subheader("Average Days to Close (Monthly Trend)")
@@ -293,7 +293,7 @@ elif page == "⚠️ Adverse Events Analysis":
         fig.add_hline(y=30, line_dash="dash", line_color="red", annotation_text="Target: 30 days")
         fig.update_layout(height=350, margin=dict(t=20, b=40))
         fig.update_xaxes(tickangle=45, dtick=3)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
 
 # ═══════════════════════════════════════════════════════
@@ -327,7 +327,7 @@ elif page == "📝 Complaints Analysis":
         cat_counts.columns = ["category", "count"]
         fig = px.pie(cat_counts, values="count", names="category", color_discrete_sequence=COLORS)
         fig.update_layout(height=380, margin=dict(t=20, b=20))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with col2:
         st.subheader("Monthly Complaint Trend")
@@ -337,7 +337,7 @@ elif page == "📝 Complaints Analysis":
         fig = px.line(monthly_comp, x="month", y="count")
         fig.update_layout(height=380, margin=dict(t=20, b=40))
         fig.update_xaxes(tickangle=45, dtick=3)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     # Resolution time by category
     st.subheader("Resolution Time by Category")
@@ -347,7 +347,7 @@ elif page == "📝 Complaints Analysis":
     )
     fig.add_hline(y=20, line_dash="dash", line_color="red", annotation_text="20-day target")
     fig.update_layout(height=400, margin=dict(t=20), showlegend=False)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # Complaints by facility and category
     st.subheader("Facility vs Complaint Category")
@@ -357,7 +357,7 @@ elif page == "📝 Complaints Analysis":
         labels={"x": "Category", "y": "Facility", "color": "Count"},
     )
     fig.update_layout(height=350, margin=dict(t=20))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 # ═══════════════════════════════════════════════════════
@@ -389,7 +389,7 @@ elif page == "📈 Quality Indicators & Trends":
     )
     fig.update_layout(height=450, margin=dict(t=20, b=40))
     fig.update_xaxes(tickangle=45, dtick=3)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # Benchmarking table
     st.subheader("Facility Benchmarking")
@@ -415,7 +415,7 @@ elif page == "📈 Quality Indicators & Trends":
             lambda x: "✅ Meeting Target" if x >= target_val else "⚠️ Below Target"
         )
 
-    st.dataframe(benchmark, use_container_width=True, hide_index=True)
+    st.dataframe(benchmark, width="stretch", hide_index=True)
 
     # Statistical Process Control (SPC) chart
     st.subheader("Statistical Process Control (SPC) Chart")
@@ -438,7 +438,7 @@ elif page == "📈 Quality Indicators & Trends":
                   annotation_text=f"LCL: {lcl:.1f}")
     fig.update_layout(height=400, margin=dict(t=20, b=40))
     fig.update_xaxes(tickangle=45, dtick=3)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.info(
         "**SPC Interpretation:** Points outside the control limits (UCL/LCL) "
@@ -471,7 +471,7 @@ elif page == "🤝 Health Equity (Te Tiriti)":
     )
     fig.update_layout(height=450, margin=dict(t=20, b=40))
     fig.update_xaxes(tickangle=45, dtick=6)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # Gap analysis
     st.subheader("Equity Gap Analysis")
@@ -484,7 +484,7 @@ elif page == "🤝 Health Equity (Te Tiriti)":
 
     col1, col2 = st.columns(2)
     with col1:
-        st.dataframe(gap_summary, use_container_width=True, hide_index=True)
+        st.dataframe(gap_summary, width="stretch", hide_index=True)
 
     with col2:
         fig = px.bar(
@@ -492,7 +492,7 @@ elif page == "🤝 Health Equity (Te Tiriti)":
             color="Ethnicity", color_discrete_sequence=COLORS,
         )
         fig.update_layout(height=350, margin=dict(t=20), showlegend=False)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     # Adverse events by ethnicity
     st.subheader("Adverse Events Rate by Ethnicity")
@@ -503,7 +503,7 @@ elif page == "🤝 Health Equity (Te Tiriti)":
     ).reset_index()
     ae_eth.columns = ["Ethnicity", "Total Events", "Avg Days to Close", "SAC 1 Count"]
     ae_eth = ae_eth.round(1)
-    st.dataframe(ae_eth, use_container_width=True, hide_index=True)
+    st.dataframe(ae_eth, width="stretch", hide_index=True)
 
     st.info(
         "**Note:** Equity analysis supports HNZ Waitematā's commitment under Te Tiriti o "
@@ -551,7 +551,7 @@ elif page == "🔬 Statistical Deep Dive":
             fig.add_trace(go.Histogram(x=other_close, name="Other", opacity=0.7, marker_color="#388e3c"))
             fig.update_layout(barmode="overlay", height=350, margin=dict(t=20),
                               xaxis_title="Days to Close", yaxis_title="Count")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
         st.markdown("---")
 
@@ -603,7 +603,7 @@ elif page == "🔬 Statistical Deep Dive":
             labels={"patient_age": "Patient Age", "days_to_close": "Days to Close"},
         )
         fig.update_layout(height=450, margin=dict(t=20))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         # Correlation matrix for numeric fields
         st.subheader("Correlation Matrix")
@@ -618,7 +618,7 @@ elif page == "🔬 Statistical Deep Dive":
             color_continuous_scale="RdBu_r",
         )
         fig.update_layout(height=350, margin=dict(t=20))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with tab3:
         st.subheader("Time Series Decomposition of Adverse Events")
@@ -645,7 +645,7 @@ elif page == "🔬 Statistical Deep Dive":
             fig.add_trace(go.Scatter(x=decomp.resid.index, y=decomp.resid, mode="lines+markers",
                                      line=dict(color="#6a1b9a")), row=4, col=1)
             fig.update_layout(height=700, showlegend=False, margin=dict(t=40))
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
             st.info(
                 "**Decomposition reveals:** Trend component shows overall direction, "
@@ -686,17 +686,17 @@ elif page == "📋 Report Generator":
                 "Avg Days to Close (AE)", "Escalated Complaints (%)",
             ],
             "Value": [
-                len(ae_filtered),
-                len(ae_filtered[ae_filtered["severity"] == "SAC 1 - Severe"]),
-                len(ae_filtered[ae_filtered["severity"] == "SAC 2 - Major"]),
-                len(comp_filtered),
+                str(len(ae_filtered)),
+                str(len(ae_filtered[ae_filtered["severity"] == "SAC 1 - Severe"])),
+                str(len(ae_filtered[ae_filtered["severity"] == "SAC 2 - Major"])),
+                str(len(comp_filtered)),
                 f"{comp_filtered['resolution_days'].mean():.1f}",
                 f"{ae_filtered['days_to_close'].mean():.1f}",
                 f"{comp_filtered['escalated'].mean() * 100:.1f}%",
             ],
         }
         summary_df = pd.DataFrame(summary_data)
-        st.dataframe(summary_df, use_container_width=True, hide_index=True)
+        st.dataframe(summary_df, width="stretch", hide_index=True)
 
     elif report_type == "Adverse Events Detail":
         st.subheader("Adverse Events Detailed Report")
@@ -707,14 +707,14 @@ elif page == "📋 Report Generator":
         ]
         st.dataframe(
             ae_filtered[display_cols].sort_values("event_date", ascending=False),
-            use_container_width=True, hide_index=True,
+            width="stretch", hide_index=True,
         )
 
     elif report_type == "Complaints Summary":
         st.subheader("Complaints Summary Report")
         st.dataframe(
             comp_filtered.sort_values("received_date", ascending=False),
-            use_container_width=True, hide_index=True,
+            width="stretch", hide_index=True,
         )
 
     elif report_type == "Equity Indicators":
@@ -724,7 +724,7 @@ elif page == "📋 Report Generator":
             aggfunc=["mean", "std", "min", "max"],
         ).round(2)
         eq_pivot.columns = ["Mean", "Std Dev", "Min", "Max"]
-        st.dataframe(eq_pivot, use_container_width=True)
+        st.dataframe(eq_pivot, width="stretch")
 
     elif report_type == "KPI Benchmarking":
         st.subheader("KPI Benchmarking Report")
@@ -735,7 +735,7 @@ elif page == "📋 Report Generator":
             .reset_index()
         )
         benchmark_all.columns = ["Indicator", "Facility", "Mean", "Std Dev", "Min", "Max"]
-        st.dataframe(benchmark_all, use_container_width=True, hide_index=True)
+        st.dataframe(benchmark_all, width="stretch", hide_index=True)
 
     # Export
     st.markdown("---")
