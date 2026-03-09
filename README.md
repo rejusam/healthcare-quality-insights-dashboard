@@ -4,6 +4,12 @@ An interactive analytics dashboard for healthcare quality and safety data, desig
 
 > **Data disclaimer:** All data in this project is simulated. No real patient, staff, or organisational data is used.
 
+### Live Demo
+
+**https://healthcare-quality-insights-dashboard-fuwp49cjg9yocjj3ezksiq.streamlit.app**
+
+Best viewed in Chrome or Edge.
+
 ---
 
 ## Table of Contents
